@@ -1,0 +1,4305 @@
+[
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wtf is this lol",
+        "ts": "1431588239.003132"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/puu.sh\/hMIOR\/8dbe95459e.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/hMIOR\/8dbe95459e.jpg",
+                "fallback": "483x387px image",
+                "image_url": "http:\/\/puu.sh\/hMIOR\/8dbe95459e.jpg",
+                "image_width": 483,
+                "image_height": 387,
+                "image_bytes": 57730,
+                "id": 1
+            }
+        ],
+        "ts": "1431588240.003133"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "K-Pop Power &amp; Beauty??",
+        "ts": "1431588249.003135"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "<@U03UNR40S>: if post offices start offering check cashing and loans, would :enova: go out of business?",
+        "ts": "1431621106.003136"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "well it would obviously depend on the type of loan",
+        "ts": "1431622016.003137"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1431622017.003138"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "shit jason why are you up so early",
+        "ts": "1431624454.003139"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and why post offices",
+        "ts": "1431624457.003140"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut",
+        "ts": "1431624459.003141"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "hey kelvin",
+        "ts": "1431629724.003142"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "how does taxes work",
+        "ts": "1431629727.003143"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "like im looking at a tax braket",
+        "ts": "1431629735.003144"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "and if ur under wtv income",
+        "ts": "1431629745.003145"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "is that how much they take for taxes",
+        "ts": "1431629750.003146"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah?",
+        "ts": "1431629758.003147"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "or is there more to it",
+        "ts": "1431629761.003148"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i'm not sure what you're asking",
+        "ts": "1431629763.003149"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what do you mean \"more to it\"",
+        "ts": "1431629771.003150"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "like that tax braket",
+        "ts": "1431629781.003151"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "takes into account federal and state",
+        "ts": "1431629788.003152"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "bracket*",
+        "ts": "1431629790.003153"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no",
+        "ts": "1431629794.003154"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its federal only",
+        "ts": "1431629796.003155"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "state is separate",
+        "ts": "1431629803.003156"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "so u have to have an additional for state",
+        "ts": "1431629806.003157"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its filed separately yes",
+        "ts": "1431629811.003158"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "oh okay",
+        "ts": "1431629815.003159"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why are you asking about it. tax day was a month ago",
+        "ts": "1431629818.003160"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "no im just curious lol",
+        "ts": "1431629827.003161"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh okay",
+        "ts": "1431629829.003162"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "im not paying taxes this year",
+        "ts": "1431629834.003163"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "theres also social security and medicare",
+        "ts": "1431629836.003164"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats not part of the federal taxes you pay",
+        "ts": "1431629848.003165"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i believe",
+        "ts": "1431629862.003166"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "wtf so basically",
+        "ts": "1431629933.003167"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "u end up paying like 40% out of taxes",
+        "ts": "1431629946.003168"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah....",
+        "ts": "1431630084.003169"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats what we've been saying",
+        "ts": "1431630091.003170"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you never knew that?",
+        "ts": "1431630095.003171"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "i thought it was less than that",
+        "ts": "1431630114.003172"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "i didnt know it was that high",
+        "ts": "1431630118.003173"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its not that high",
+        "ts": "1431630128.003174"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its pretty reasonable",
+        "ts": "1431630131.003175"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "main reason is cause we're in california",
+        "ts": "1431630252.003176"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "california has hella taxes too",
+        "ts": "1431630259.003177"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "yeah i think state tax is like 10% for ur bracket or something",
+        "ts": "1431630343.003178"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Rip taxes",
+        "ts": "1431634309.003179"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Become a republican ",
+        "ts": "1431634313.003180"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "let's form our own micronation",
+        "ts": "1431634321.003181"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "kevin",
+        "ts": "1431634631.003182"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "did you go to work today?",
+        "ts": "1431634635.003183"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "kevin i can't come the week of september 17th anymore",
+        "ts": "1431636656.003184"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "are we aimin for your birthday at alinea though?",
+        "ts": "1431636682.003185"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "idc",
+        "ts": "1431636696.003186"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "whenever works for you",
+        "ts": "1431636703.003187"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i haven't asked my manager yet",
+        "ts": "1431636710.003188"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but I'm thinking WFH and 2 days off shouldn't be a problem",
+        "ts": "1431636717.003189"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when do you know about the alinea tickets",
+        "ts": "1431636748.003190"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not sure",
+        "ts": "1431636769.003191"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":confused:",
+        "ts": "1431636774.003192"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how early in advance can we buy it",
+        "ts": "1431636923.003193"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it says like 2-3 months in advance",
+        "ts": "1431637223.003194"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ahh okay",
+        "ts": "1431637270.003195"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so in july",
+        "ts": "1431637280.003196"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i hope plane tickets haven't risen up too much by then",
+        "ts": "1431637299.003197"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hmm shoot",
+        "ts": "1431637334.003198"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i need to buy tickets earlier though",
+        "ts": "1431637338.003199"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "or else it raises up in price",
+        "ts": "1431637341.003200"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Are you still at work Kevin?",
+        "ts": "1431641836.003201"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1431641848.003202"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "kevin is a good employee :simple_smile:",
+        "ts": "1431642442.003203"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": ":enova: so lucky :^)",
+        "ts": "1431642468.003204"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm Best Employee Universe",
+        "ts": "1431642526.003205"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck all y'all",
+        "ts": "1431642528.003206"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "should i go home early today",
+        "ts": "1431642700.003207"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i was gonna go to the gym",
+        "ts": "1431642704.003208"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but im feeling tired",
+        "ts": "1431642706.003209"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "early as in. ~7:30 pm lol",
+        "ts": "1431642725.003210"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nice, people reposting my better-ballstreams shit",
+        "ts": "1431642763.003211"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "or should i just actually go home early and cook some food",
+        "ts": "1431642764.003212"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1431642766.003213"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "kevin you should put a cashtag on your github :simple_smile:",
+        "ts": "1431642773.003214"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if you like better-ballstreams",
+        "ts": "1431642786.003215"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "sheeeet",
+        "ts": "1431642786.003216"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "pls halp a starving developer in chicago",
+        "ts": "1431642791.003217"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "cashtag OP!",
+        "ts": "1431642791.003218"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "starving because i'm waiting for a starviar order",
+        "ts": "1431642805.003219"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xDDDDDD",
+        "ts": "1431642807.003220"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "tbh though. i feel like some people will donate",
+        "ts": "1431642808.003221"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i already got $5",
+        "ts": "1431642812.003222"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1431642813.003223"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wait",
+        "ts": "1431642814.003224"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how",
+        "ts": "1431642815.003225"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "paypal",
+        "ts": "1431642818.003226"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":anguished:",
+        "ts": "1431642818.003227"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1431642819.003228"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "use cashtags :simple_smile:",
+        "ts": "1431642827.003229"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "the guy who puts streams on reddit",
+        "ts": "1431642833.003230"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "put a cashtag",
+        "ts": "1431642835.003231"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "WoW!!!!",
+        "ts": "1431642839.003232"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i was surprised actually",
+        "ts": "1431642840.003233"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ORLANDDDDDDOOOOOOOOOO",
+        "ts": "1431642847.003234"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and he was like pls use the cashtag",
+        "ts": "1431642848.003235"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its free",
+        "ts": "1431642849.003236"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "versus paypal",
+        "ts": "1431642855.003237"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "who takes a % lol",
+        "ts": "1431642858.003238"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "might as well see if peeps will give you free $$$$",
+        "ts": "1431642875.003239"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1431643009.003240"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "2.9% + $0.30",
+        "ts": "1431643015.003241"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1431643016.003242"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just like if i used the square scanner :disappointed:",
+        "ts": "1431643026.003243"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:  :disappointed: :disappointed: :disappointed:",
+        "ts": "1431643029.003244"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so",
+        "ts": "1431643034.003245"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why not use cashtags",
+        "ts": "1431643036.003246"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its free",
+        "ts": "1431643037.003247"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "well i added it",
+        "ts": "1431643040.003248"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/greasyfork.org\/en\/scripts\/9720-better-ballstreams|greasyfork.org\/en\/scripts\/9720-better-ballstreams>",
+        "ts": "1431643048.003249"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "go give me money pls",
+        "ts": "1431643051.003250"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeeee",
+        "ts": "1431643066.003251"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i have no idea what",
+        "ts": "1431643073.003252"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "greasyfork is",
+        "ts": "1431643074.003253"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's the site that hosts the scripts and allows people to install it",
+        "ts": "1431643105.003254"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel",
+        "ts": "1431643117.003255"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "addGlobalStyle",
+        "ts": "1431643119.003256"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "seems kinda sketch",
+        "ts": "1431643122.003257"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "lel",
+        "ts": "1431643124.003258"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "nice function :^)",
+        "ts": "1431643124.003259"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "hey",
+        "ts": "1431643136.003260"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "stackoverflow told me to do that",
+        "ts": "1431643140.003261"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "anyone wanna get resident evil 6 with me?",
+        "ts": "1431643179.003262"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "shet is on sale for 10 bucks",
+        "ts": "1431643190.003263"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "theres a 6?",
+        "ts": "1431643206.003264"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "yeah came out liek 2 years ago",
+        "ts": "1431643224.003265"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "or something",
+        "ts": "1431643226.003266"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hmm it got pretty meh ratings",
+        "ts": "1431643444.003267"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i just bought witcher 1 and 2",
+        "ts": "1431643468.003268"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so I was thinking of playing that",
+        "ts": "1431643471.003269"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why get RE6",
+        "ts": "1431643472.003270"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just go watch BoM instead",
+        "ts": "1431643475.003271"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1431643476.003272"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whats BoM",
+        "ts": "1431643479.003273"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1431643484.003274"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you don't know what BoM is?",
+        "ts": "1431643489.003275"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":((((",
+        "ts": "1431643491.003276"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "mm guess I can just play witcher 3",
+        "ts": "1431643493.003277"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "when taht's out",
+        "ts": "1431643495.003278"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "zazazaza",
+        "ts": "1431643496.003279"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "I dunno what that is either",
+        "ts": "1431643513.003280"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "book of mormon lel",
+        "ts": "1431643590.003281"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not that anyone shortens it like that",
+        "ts": "1431643596.003282"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you should go watch it thomas",
+        "ts": "1431643611.003283"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1431643718.003284"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its really good",
+        "ts": "1431643720.003285"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i highly recommend it",
+        "ts": "1431643722.003286"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "well",
+        "ts": "1431643725.003287"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if you like the type of humor",
+        "ts": "1431643728.003288"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "that south park has",
+        "ts": "1431643729.003289"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its great",
+        "ts": "1431643731.003290"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nah you'll definitely enjoy it",
+        "ts": "1431643737.003291"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and",
+        "ts": "1431643740.003292"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "witcher 3 is like",
+        "ts": "1431643742.003293"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "45 bucks isn't it?",
+        "ts": "1431643747.003294"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i haven't played 1 or 2",
+        "ts": "1431643750.003295"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so im playing 1 right now lol",
+        "ts": "1431643752.003296"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "downloaded it last night",
+        "ts": "1431643755.003297"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "seems like it was rated pretty highly",
+        "ts": "1431643784.003298"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "heard that game 2 was kinda jank without mods",
+        "ts": "1431643794.003299"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "probs don't have time to watch BoM before I leave :confused:",
+        "ts": "1431643819.003300"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "dunno if there'll be a LA showing in the near future",
+        "ts": "1431643833.003301"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn kevin",
+        "ts": "1431643863.003302"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "taylor swift is gonna be in chicago",
+        "ts": "1431643866.003303"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "with vance joy and HAIM",
+        "ts": "1431643874.003304"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck that",
+        "ts": "1431643889.003305"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i think the west tour for BoM only goes to Socal next summer :disappointed:",
+        "ts": "1431643907.003306"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you don't like any of those people? :disappointed:",
+        "ts": "1431643931.003307"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you're too cool for me",
+        "ts": "1431643933.003308"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm more excited for",
+        "ts": "1431643954.003309"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "Taste of Chicago",
+        "ts": "1431643956.003310"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "free concert for Weezer and Spoon",
+        "ts": "1431643962.003311"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1431643963.003312"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh thats pretty nice too",
+        "ts": "1431643967.003313"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when is that",
+        "ts": "1431643968.003314"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "Jul 8?",
+        "ts": "1431643975.003315"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1431643980.003316"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "too cool",
+        "ts": "1431643981.003317"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i wish we could have cool free concerts",
+        "ts": "1431643985.003318"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "8-12",
+        "ts": "1431643988.003319"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like a real city",
+        "ts": "1431643989.003320"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "dank",
+        "ts": "1431643992.003321"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you don't?",
+        "ts": "1431643995.003322"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "dank",
+        "ts": "1431643995.003323"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "sf is not a city",
+        "ts": "1431643997.003324"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "daaaaaank",
+        "ts": "1431644002.003325"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "population hella low man",
+        "ts": "1431644015.003326"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "not even 1 million people",
+        "ts": "1431644018.003327"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "not a city.",
+        "ts": "1431644021.003328"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damnnnnnn",
+        "ts": "1431644022.003329"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut",
+        "ts": "1431644245.003330"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Wtf it doesn't have one mil???",
+        "ts": "1431645157.003331"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Wow so real",
+        "ts": "1431645177.003332"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "900k",
+        "ts": "1431645181.003333"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i told you",
+        "ts": "1431645188.003334"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats why sf is ghetto",
+        "ts": "1431645191.003335"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "kelvin is pulling your leg novi",
+        "ts": "1431645205.003336"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "SF has way more than 900k people",
+        "ts": "1431645211.003337"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because it doesn't count the homeless prob",
+        "ts": "1431645216.003338"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)^)^)^)^)^)^)",
+        "ts": "1431645218.003339"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "it doesn't?",
+        "ts": "1431645226.003340"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i thought it would do like an estimate",
+        "ts": "1431645230.003341"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "oh what",
+        "ts": "1431645233.003342"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Google it",
+        "ts": "1431645236.003343"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "SF's pop is only like 830k",
+        "ts": "1431645238.003344"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn",
+        "ts": "1431645238.003345"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah",
+        "ts": "1431645243.003346"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i told you",
+        "ts": "1431645244.003347"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "sf isn't a city",
+        "ts": "1431645245.003348"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fucking crap fucking garbage town",
+        "ts": "1431645251.003349"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "move to a real city",
+        "ts": "1431645253.003350"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like here",
+        "ts": "1431645255.003351"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or NYC",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1431645261.000000"
+        },
+        "ts": "1431645257.003352"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not even seattle bby",
+        "ts": "1431645264.003354"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Basic",
+        "ts": "1431645269.003355"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "san jose???",
+        "ts": "1431645275.003356"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "san jose still &lt;950k",
+        "ts": "1431645280.003357"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wait",
+        "ts": "1431645291.003358"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i misread",
+        "ts": "1431645292.003359"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "san jose just popped the 1 mil cherry",
+        "ts": "1431645293.003360"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's at 998",
+        "ts": "1431645295.003361"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn really?",
+        "ts": "1431645298.003362"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no you stupi",
+        "ts": "1431645301.003363"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "stupid",
+        "ts": "1431645302.003364"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nice i see the article",
+        "ts": "1431645308.003365"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fk u",
+        "ts": "1431645309.003366"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Population (January 1, 2014)[11]\n \u2022 City\t1,000,536\n \u2022 Rank\t1st in Santa Clara County\n3rd in California[11]\n10th in the United States",
+        "ts": "1431645311.003367"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "google not updated",
+        "ts": "1431645316.003368"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not my fault",
+        "ts": "1431645317.003369"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "shitty SV companies",
+        "ts": "1431645320.003370"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "can't get anything right",
+        "ts": "1431645322.003371"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1431645323.003372"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "theres only 10 real cities in the US",
+        "ts": "1431645341.003373"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i should move to phoenix",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1431645376.000000"
+        },
+        "ts": "1431645373.003374"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "go to austin",
+        "ts": "1431645448.003376"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Austin ain't bad",
+        "ts": "1431645477.003377"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "austin ain't a real city",
+        "ts": "1431645482.003378"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's kinda hipstery tbh",
+        "ts": "1431645483.003379"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its still &lt; 1 mil",
+        "ts": "1431645488.003380"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "dude",
+        "ts": "1431645489.003381"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i live in sf",
+        "ts": "1431645492.003382"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "realer than SF",
+        "ts": "1431645492.003383"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i think sf is pretty damn hipster",
+        "ts": "1431645506.003384"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "austin is more up-and-coming",
+        "ts": "1431645506.003385"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "hip new place to be",
+        "ts": "1431645515.003386"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "people are bored of SF",
+        "ts": "1431645518.003387"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1431645519.003388"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "tech companies aren't",
+        "ts": "1431645541.003389"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "chicago has the smallest growth",
+        "ts": "1431645562.003390"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "&lt; 1%",
+        "ts": "1431645564.003391"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yah",
+        "ts": "1431645573.003392"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no one wants to come here",
+        "ts": "1431645577.003393"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's shit",
+        "ts": "1431645579.003394"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":disappointed:",
+        "ts": "1431645580.003395"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "don't come",
+        "ts": "1431645581.003396"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh I see",
+        "ts": "1431645589.003397"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "psyching him out",
+        "ts": "1431645592.003398"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1431645594.003399"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "shh",
+        "ts": "1431645596.003400"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so we get to keep Chicago to ourselves",
+        "ts": "1431645598.003401"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ya",
+        "ts": "1431645600.003402"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "of course",
+        "ts": "1431645600.003403"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "genius plan",
+        "ts": "1431645602.003404"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "keep the techies out",
+        "ts": "1431645608.003405"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "REEEEEEEEEEEEE",
+        "ts": "1431645611.003406"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol sf is number 3",
+        "ts": "1431645686.003407"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "in population per sq. mile though",
+        "ts": "1431645690.003408"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "noice",
+        "ts": "1431645693.003409"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "NYC is just so ridonk in the population statistics man",
+        "ts": "1431645722.003410"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's the city to be in yo",
+        "ts": "1431645891.003411"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lets all go there",
+        "ts": "1431645914.003412"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "in 2 years",
+        "ts": "1431645915.003413"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe",
+        "ts": "1431645919.003414"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i mean i don't know anything about NYC from first hand experience",
+        "ts": "1431645935.003415"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wait kevin",
+        "ts": "1431645946.003416"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i just hear how it's also p shitty in a lot of aspects",
+        "ts": "1431645948.003417"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "go to nyc june 14-21",
+        "ts": "1431645949.003418"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i'll be in nyc then!",
+        "ts": "1431645956.003419"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "do you guys have an nyc office?",
+        "ts": "1431645968.003420"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no",
+        "ts": "1431645971.003421"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh.",
+        "ts": "1431645978.003422"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "NYC is an interesting beast",
+        "ts": "1431645979.003423"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "novi you should go to nyc june 14-21",
+        "ts": "1431645986.003424"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "sike",
+        "ts": "1431645989.003425"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I start work June 8th",
+        "ts": "1431645992.003426"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "can't take time off",
+        "ts": "1431645995.003427"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its okay. theres prolly an equivalent new york trading company",
+        "ts": "1431646004.003428"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":^)",
+        "ts": "1431646009.003429"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "x^D",
+        "ts": "1431646012.003430"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "one of my coworkers thinks that Chicago has more or less everything NYC has to offer, but on a smaller scale",
+        "ts": "1431646035.003431"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what do you think of that novi?",
+        "ts": "1431646038.003432"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "this person spent 20 years in NYC fwiw",
+        "ts": "1431646042.003433"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "seriously though kevin you should go too",
+        "ts": "1431646049.003434"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and \"WFH\"",
+        "ts": "1431646056.003435"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "in nyc",
+        "ts": "1431646057.003436"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":simple_smile:",
+        "ts": "1431646058.003437"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1431646069.003438"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Let's move to Austin",
+        "ts": "1431646186.003439"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Cheap rents",
+        "ts": "1431646188.003440"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Gats",
+        "ts": "1431646190.003441"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "What else do you want???",
+        "ts": "1431646194.003442"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "a body of water nearby :disappointed:",
+        "ts": "1431646206.003443"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol",
+        "ts": "1431646221.003444"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "your body of water",
+        "ts": "1431646224.003445"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "is gud enuff bby",
+        "ts": "1431646231.003446"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is surrounded by land on all sides",
+        "ts": "1431646234.003447"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "nub",
+        "ts": "1431646235.003448"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^(",
+        "ts": "1431646239.003449"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "kelvin why you hatin?",
+        "ts": "1431646243.003450"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what about",
+        "ts": "1431646248.003451"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "DA OCEANS",
+        "ts": "1431646249.003452"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'll be the first to admit that an ocean would be nicer",
+        "ts": "1431646259.003453"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but truthfully the lake is pretty nice",
+        "ts": "1431646265.003454"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "are there beaches?",
+        "ts": "1431646265.003455"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah, there are",
+        "ts": "1431646272.003456"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like do people chill in chicago beaches",
+        "ts": "1431646274.003457"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "some real some manmade",
+        "ts": "1431646276.003458"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "people don't in sf",
+        "ts": "1431646277.003459"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1431646278.003460"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "all the time",
+        "ts": "1431646280.003461"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "beaches are busy af in the summer",
+        "ts": "1431646284.003462"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you gotta go to stinson beach",
+        "ts": "1431646286.003463"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "or like santa cruz",
+        "ts": "1431646290.003464"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Fak where to live????????",
+        "ts": "1431646292.003465"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ocean beach is pretty meh in sf",
+        "ts": "1431646293.003466"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Just go work at silicon beach ",
+        "ts": "1431646300.003467"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut dat",
+        "ts": "1431646402.003468"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "naisu",
+        "ts": "1431646408.003469"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<http:\/\/www2.pictures.zimbio.com\/gi\/Johanna+Braddy+Video+Game+High+School+Season+XWhjOkfb5Eel.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/www2.pictures.zimbio.com\/gi\/Johanna+Braddy+Video+Game+High+School+Season+XWhjOkfb5Eel.jpg",
+                "fallback": "396x594px image",
+                "image_url": "http:\/\/www2.pictures.zimbio.com\/gi\/Johanna+Braddy+Video+Game+High+School+Season+XWhjOkfb5Eel.jpg",
+                "image_width": 396,
+                "image_height": 594,
+                "image_bytes": 98215,
+                "id": 1
+            }
+        ],
+        "ts": "1431646409.003470"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that's my jacket",
+        "ts": "1431646411.003472"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "the lead for vghs wears it",
+        "ts": "1431646418.003473"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm so fashionable",
+        "ts": "1431646421.003474"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ur gay",
+        "ts": "1431646520.003475"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "af",
+        "ts": "1431646521.003476"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "u just mad that a hardcore gamer wears the same jacket as me",
+        "ts": "1431646538.003477"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you're just mad that you're a filthy casual",
+        "ts": "1431646545.003478"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lmfao",
+        "ts": "1431646548.003479"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "fucking unranked piece of shit",
+        "ts": "1431646552.003480"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm srry bby",
+        "ts": "1431646555.003481"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":anguished:",
+        "ts": "1431646555.003482"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "b-b-but",
+        "ts": "1431646558.003483"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm 2-0 ranked!",
+        "ts": "1431646561.003484"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1431646563.003485"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no thanks to fucking you",
+        "ts": "1431646578.003486"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1431646581.003487"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol",
+        "ts": "1431646582.003488"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "are you talking about our 5s team",
+        "ts": "1431646589.003489"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeeeeee boi",
+        "ts": "1431646593.003490"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "where some jungler always gets a B+?",
+        "ts": "1431646595.003491"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1431646598.003492"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what a trash jungler",
+        "ts": "1431646604.003493"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck it's lame man",
+        "ts": "1431646608.003494"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i wish i knew why i get B+s",
+        "ts": "1431646613.003495"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "where is this from?",
+        "ts": "1431646619.003496"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like the real reason",
+        "ts": "1431646620.003497"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "this rating?",
+        "ts": "1431646622.003498"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not because \"lel ur trash\"",
+        "ts": "1431646628.003499"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "just go call riot game support",
+        "ts": "1431646631.003500"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "end of each game",
+        "ts": "1431646633.003501"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and hope they can tell you",
+        "ts": "1431646636.003502"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "mouse over the 2nd circle",
+        "ts": "1431646636.003503"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "It's what they call the portion of Venice beach that had a lot of tech (ie snapchat)",
+        "ts": "1431646637.003504"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "go work in Silicon Alley",
+        "ts": "1431646646.003505"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "The Tendy?",
+        "ts": "1431646656.003506"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I wanna work in Diagon Alley",
+        "ts": "1431646659.003507"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "NYC",
+        "ts": "1431646659.003508"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i'd be down to work in silicon alley",
+        "ts": "1431646691.003509"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Let's all move to NU",
+        "ts": "1431646699.003510"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "NY",
+        "ts": "1431646701.003511"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Or NU and live in Chicago",
+        "ts": "1431646709.003512"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xDDDDDD",
+        "ts": "1431646716.003513"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "let's all go to med skool",
+        "ts": "1431646720.003514"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "X))))",
+        "ts": "1431646723.003515"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is prithvi going to Northwestern?",
+        "ts": "1431646763.003516"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "TBD",
+        "ts": "1431646775.003517"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":confused:",
+        "ts": "1431646778.003518"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wait what",
+        "ts": "1431647002.003519"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its may already",
+        "ts": "1431647003.003520"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1431647010.003521"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's dumb",
+        "ts": "1431647011.003522"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1431647012.003523"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is it like a waitlist?",
+        "ts": "1431647017.003524"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "for now NU is a wait",
+        "ts": "1431647024.003525"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you and Shil gotten an apartment yet?",
+        "ts": "1431647239.003526"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wheres he going",
+        "ts": "1431647435.003527"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "for now",
+        "ts": "1431647443.003528"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not sure",
+        "ts": "1431647458.003529"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and also no, we haven't novi",
+        "ts": "1431647462.003530"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "grats on being homeless yo",
+        "ts": "1431647475.003531"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i have my lease",
+        "ts": "1431647485.003532"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "until 8\/22",
+        "ts": "1431647487.003533"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you dingus",
+        "ts": "1431647489.003534"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im going to be homeless 7\/24 :disappointed:",
+        "ts": "1431647512.003535"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeah...about that...you're gonna get evicted",
+        "ts": "1431647513.003536"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whys he gonna get evicted",
+        "ts": "1431647524.003537"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I may have told your building you secretly cook meth",
+        "ts": "1431647525.003538"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and Indian food",
+        "ts": "1431647528.003539"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and Indian food smells up the whole place so yeah",
+        "ts": "1431647534.003540"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you're getting evicted",
+        "ts": "1431647537.003541"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":^)",
+        "ts": "1431647540.003542"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xddddd",
+        "ts": "1431647544.003543"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "mmm",
+        "ts": "1431647561.003544"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i think the latter is a larger problem",
+        "ts": "1431647567.003545"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm hungry",
+        "ts": "1431647605.003546"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I ordered Jimmy Johns",
+        "ts": "1431647611.003547"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":simple_smile:",
+        "ts": "1431647613.003548"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "btw when does Privthi find out for sure?",
+        "ts": "1431647707.003549"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "June?",
+        "ts": "1431647709.003550"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not sure",
+        "ts": "1431647718.003551"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "he said that sometimes people find out",
+        "ts": "1431647723.003552"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "as late as august",
+        "ts": "1431647726.003553"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lmao",
+        "ts": "1431647727.003554"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "damn",
+        "ts": "1431647730.003555"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "the whole med school experience is sad :disappointed:",
+        "ts": "1431647743.003556"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ya",
+        "ts": "1431647748.003557"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "4 more years of getting buttbanged by work",
+        "ts": "1431647775.003558"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and \"volunteering\" at hospitals",
+        "ts": "1431647788.003559"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "as if it weren't compulsory",
+        "ts": "1431647793.003560"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "....",
+        "ts": "1431647802.003561"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ouch that sucks",
+        "ts": "1431647808.003562"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but does he have a backup?",
+        "ts": "1431647814.003563"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "UIC?",
+        "ts": "1431647842.003564"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck",
+        "ts": "1431647843.003565"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":^)",
+        "ts": "1431647845.003566"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<@U046T9LSZ>:",
+        "ts": "1431647845.003567"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "answer these nogs' questions",
+        "ts": "1431647851.003568"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm not ur pr rep bby",
+        "ts": "1431647860.003569"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you're doing a pretty good job at it",
+        "ts": "1431647868.003570"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "maybe you should appeal to the school",
+        "ts": "1431647876.003571"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Kevin",
+        "ts": "1431647898.003572"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you like being a buttfag",
+        "ts": "1431647903.003573"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so why not become a PR guy and brown nose all day?",
+        "ts": "1431647911.003574"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "the pay is good",
+        "ts": "1431647915.003575"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and you'll get to work with some of the finest rectums the city of Chicago has to offer",
+        "ts": "1431647929.003576"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "idk i'm trying to think about what kind of jobs i'd be interested in",
+        "ts": "1431647930.003577"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that aren't development",
+        "ts": "1431647937.003578"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i feel like i might enjoy doing something like recruiting",
+        "ts": "1431647954.003579"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but recruiting doesn't pay well",
+        "ts": "1431647958.003580"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "at laest i don't think so",
+        "ts": "1431647962.003581"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "recruiting at the highest level for executives does",
+        "ts": "1431648104.003582"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but to start with, nah",
+        "ts": "1431648108.003583"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "on the plus side you'd work with tons of girls",
+        "ts": "1431648114.003584"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "which is a good and bad thing",
+        "ts": "1431648117.003585"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and most of the time",
+        "ts": "1431648346.003586"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they're pretty attractive",
+        "ts": "1431648352.003587"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats how they get people to join",
+        "ts": "1431648424.003588"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh man",
+        "ts": "1431648459.003589"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you should hear about sports recruiting",
+        "ts": "1431648465.003590"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "prob only college sports recruiting",
+        "ts": "1431648503.003591"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "mmm",
+        "ts": "1431648517.003592"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "not sure",
+        "ts": "1431648518.003593"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but yeah for sure",
+        "ts": "1431648522.003594"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "well i know what you're talking about",
+        "ts": "1431648524.003595"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and yeah college sports recruiting is super sleazy like that sometimes",
+        "ts": "1431648534.003596"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm sure to some extent professional recruiting is similar",
+        "ts": "1431648544.003597"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but i'm sure it's just more prevalent in college recruiting situations because they're just recruiting fucking teenage boys",
+        "ts": "1431648567.003598"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1431648570.003599"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i don't know about professional recruiting",
+        "ts": "1431648663.003600"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hmmm",
+        "ts": "1431648701.003601"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i thought like professional recruiting is more like",
+        "ts": "1431648713.003602"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if they want you",
+        "ts": "1431648715.003603"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and you don't have a job",
+        "ts": "1431648719.003604"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you'll take it most likely",
+        "ts": "1431648724.003605"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no, i meant",
+        "ts": "1431648730.003606"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "professional sports",
+        "ts": "1431648732.003607"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "since novi was talking about college sports",
+        "ts": "1431648737.003608"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i was just talking about only sports",
+        "ts": "1431648763.003609"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wish they recruited like that for CS departments",
+        "ts": "1431648877.003610"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no",
+        "ts": "1431648965.003611"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i know",
+        "ts": "1431648967.003612"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im talking about professional sports as well",
+        "ts": "1431648972.003613"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "hm, i guess i just ignored the whole aspect of recruiting people who are unproven",
+        "ts": "1431649005.003614"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like",
+        "ts": "1431649014.003615"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "do you really think that",
+        "ts": "1431649018.003616"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "professional athletes would choose to go to a team",
+        "ts": "1431649024.003617"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "just because the women are hot?",
+        "ts": "1431649029.003618"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "not because of what they think they'll be able to prove on the team",
+        "ts": "1431649036.003619"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no ofc not",
+        "ts": "1431649037.003620"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and the money they get?",
+        "ts": "1431649040.003621"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but it still helps",
+        "ts": "1431649041.003622"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because it's unlikely that the offers would differ that much",
+        "ts": "1431649051.003623"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "from various orgs",
+        "ts": "1431649054.003624"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "idk man",
+        "ts": "1431649080.003625"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "showing a guy a good time is part of what defines whether or not he thinks he's a good cultural fit for a team",
+        "ts": "1431649094.003626"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah what novi said lol",
+        "ts": "1431649145.003627"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "man that just sounds so sketch",
+        "ts": "1431649180.003628"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "that sounds like prostitution",
+        "ts": "1431649185.003629"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "a little bit",
+        "ts": "1431649228.003630"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but that's how high roller business works",
+        "ts": "1431649233.003631"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "don",
+        "ts": "1431649236.003632"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "*don't worry",
+        "ts": "1431649239.003633"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "one day you'll be sending hot escorts to reel in members for your company",
+        "ts": "1431649250.003634"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hahahaha",
+        "ts": "1431649294.003635"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we think escort services use square",
+        "ts": "1431649299.003636"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and everytime we find them",
+        "ts": "1431649302.003637"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we have to shut them down",
+        "ts": "1431649304.003638"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh it's true",
+        "ts": "1431649306.003639"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "because its against our TOS",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1431649314.000000"
+        },
+        "ts": "1431649307.003640"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "they definitely do",
+        "ts": "1431649308.003641"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "how can you guys tell?",
+        "ts": "1431649318.003643"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "large charges?",
+        "ts": "1431649327.003644"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if they move around",
+        "ts": "1431649342.003645"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and like",
+        "ts": "1431649346.003646"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "the large charges",
+        "ts": "1431649349.003647"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and we call",
+        "ts": "1431649350.003648"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and if they tell us what kinda business",
+        "ts": "1431649354.003649"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "or documentation",
+        "ts": "1431649359.003650"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we can prolly guess",
+        "ts": "1431649361.003651"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i don't do our risk stuff",
+        "ts": "1431649364.003652"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1431649365.003653"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but this is what ive heard",
+        "ts": "1431649366.003654"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "should i get an",
+        "ts": "1431649406.003655"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "iphone 6+",
+        "ts": "1431649407.003656"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or a samsung gs6 edge?",
+        "ts": "1431649416.003657"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "android is best",
+        "ts": "1431649441.003658"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "don't you remember bendgate???????????????????????",
+        "ts": "1431649474.003659"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xDDDDDDD",
+        "ts": "1431649487.003660"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "don't get a 6+",
+        "ts": "1431649493.003661"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i think its way too large",
+        "ts": "1431649495.003662"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm good with the size",
+        "ts": "1431649501.003663"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but didn't you try the 6 already?",
+        "ts": "1431649502.003664"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "my 1+ is already similarly sized",
+        "ts": "1431649506.003665"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and you don't like ios?",
+        "ts": "1431649508.003666"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah iono :anguished:",
+        "ts": "1431649520.003667"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "have you considered these?",
+        "ts": "1431649544.003668"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<http:\/\/www.phonerated.com\/top-rated-best-overall-flip-phones-global>",
+        "attachments": [
+            {
+                "text": "Only 2 mobiles earned the top spots in our monthly search of the best-reviewed Flip phones, according to the average rating given by web-wide mobile review web sites. See which ones.",
+                "fallback": "Only 2 mobiles earned the top spots in our monthly search of the best-reviewed Flip phones, according to the average rating given by web-wide mobile review web sites. See which ones.",
+                "from_url": "http:\/\/www.phonerated.com\/top-rated-best-overall-flip-phones-global",
+                "id": 1
+            }
+        ],
+        "ts": "1431649544.003669"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck off",
+        "ts": "1431649552.003671"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1431649553.003672"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "the galaxy s6 is gonna be better",
+        "ts": "1431649671.003673"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm mostly just thinking about battery life",
+        "ts": "1431649686.003674"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "how's the s6 battery life?",
+        "ts": "1431649701.003675"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "iphone life is kinda meh right?",
+        "ts": "1431649706.003676"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nah iphone is p gud",
+        "ts": "1431649712.003677"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the standby drain is like",
+        "ts": "1431649717.003678"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "0",
+        "ts": "1431649717.003679"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "just plug your phone in while you're at work",
+        "ts": "1431649755.003680"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "problem solved",
+        "ts": "1431649757.003681"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "carry around a spare battery in your wallet?",
+        "ts": "1431649799.003682"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xddddddddddd",
+        "ts": "1431649805.003683"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fine, S6 or S6 edge?",
+        "ts": "1431649812.003684"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "iphone is so good",
+        "ts": "1431649861.003685"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "for battery life",
+        "ts": "1431649863.003686"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i can easily",
+        "ts": "1431649864.003687"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "do 2 maybe 3 days",
+        "ts": "1431649867.003688"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "without charging",
+        "ts": "1431649869.003689"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah it's op, navdoop",
+        "ts": "1431649876.003690"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "don't listen to him",
+        "ts": "1431649878.003691"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "dude when I used the iphone I was like",
+        "ts": "1431650008.003692"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "why is everything so dumbed down",
+        "ts": "1431650014.003693"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "like it was frustrating for me to use the UI",
+        "ts": "1431650033.003694"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Wow Stanford has special career fairs just for freshmen and sophomores ):",
+        "ts": "1431650041.003695"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wait",
+        "ts": "1431650047.003696"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why",
+        "ts": "1431650048.003697"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "granted I'm prolly just bitching here",
+        "ts": "1431650049.003698"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I remember wanting to copy paste shit and then share some stuff",
+        "ts": "1431650062.003699"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and with android a long press gets you a ton of options",
+        "ts": "1431650070.003700"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but with the iphone it didn't",
+        "ts": "1431650077.003701"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wait",
+        "ts": "1431650142.003702"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "it should do the same thing...",
+        "ts": "1431650145.003703"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I just remember it not doing the same thing",
+        "ts": "1431650261.003704"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hmmm",
+        "ts": "1431650683.003705"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "well it doesnt give you a ton",
+        "ts": "1431650688.003706"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "it gives you",
+        "ts": "1431650689.003707"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "copy",
+        "ts": "1431650691.003708"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and select",
+        "ts": "1431650694.003709"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but thats all i needed",
+        "ts": "1431650700.003710"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but wait kevin didn't you use an iphone",
+        "ts": "1431650811.003711"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and not like it earlier?",
+        "ts": "1431650813.003712"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why are you giving it another chance",
+        "ts": "1431650819.003713"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because i wanna be part of the kool kids klub",
+        "ts": "1431650846.003714"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":confused:",
+        "ts": "1431650847.003715"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "hasa diga iphone6",
+        "ts": "1431650860.003716"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "sgs6e",
+        "ts": "1431650874.003717"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "all the way",
+        "ts": "1431650875.003718"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":disappointed:",
+        "ts": "1431650880.003719"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "that was quick.",
+        "ts": "1431650889.003720"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn",
+        "ts": "1431650909.003721"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "my current phone on GSMarena has a 66hour rating for battery life",
+        "ts": "1431650927.003722"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "iphone 6+ has 79h",
+        "ts": "1431650933.003723"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and sgs6e has 73",
+        "ts": "1431650937.003724"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so not bad maybe",
+        "ts": "1431650944.003725"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whats the iphone 6",
+        "ts": "1431650962.003726"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "battery life",
+        "ts": "1431650963.003727"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "61",
+        "ts": "1431650978.003728"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh damn",
+        "ts": "1431650988.003729"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not bad",
+        "ts": "1431650994.003730"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the 6's battery life was OP from what i remember",
+        "ts": "1431651005.003731"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "the size of the 6+ gives it a huge battery",
+        "ts": "1431651010.003732"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "idk",
+        "ts": "1431651012.003733"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i guess i agree that",
+        "ts": "1431651015.003734"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "the battery life if you use it a lot during the day",
+        "ts": "1431651020.003735"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "it drops to like 50%",
+        "ts": "1431651023.003736"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yah, not so great",
+        "ts": "1431651026.003737"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but the standby is always OP as fuck",
+        "ts": "1431651030.003738"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but ive had tons of friends",
+        "ts": "1431651036.003739"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whenever i see them with an android",
+        "ts": "1431651041.003740"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they tend to charge it",
+        "ts": "1431651043.003741"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whenever they can",
+        "ts": "1431651044.003742"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "really?",
+        "ts": "1431651048.003743"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "depends on the phone i'd say",
+        "ts": "1431651051.003744"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i can easily get buy with one charge a night",
+        "ts": "1431651051.003745"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "by",
+        "ts": "1431651053.003746"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like at school",
+        "ts": "1431651055.003747"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "same",
+        "ts": "1431651056.003748"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when we're studying",
+        "ts": "1431651057.003749"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they're always charging their phone",
+        "ts": "1431651062.003750"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you remember what phones they had?",
+        "ts": "1431651067.003751"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe they had the older phones",
+        "ts": "1431651071.003752"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i feel like android phones in general have made a lot of strides towards closing the gap in terms of quality",
+        "ts": "1431651087.003753"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "with iphones",
+        "ts": "1431651089.003754"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "dude wtf season 3 of vghs is getting so real",
+        "ts": "1431651120.003755"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wtf did I just watch",
+        "ts": "1431651125.003756"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1431651232.003757"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they had like galaxy s4s",
+        "ts": "1431651236.003758"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "htc one",
+        "ts": "1431651240.003759"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "idk it was a year ago",
+        "ts": "1431651249.003760"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "maybe its improved a ton",
+        "ts": "1431651252.003761"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "since last year",
+        "ts": "1431651253.003762"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "in general android phones are closing the gap, but i think the consensus opinion is that",
+        "ts": "1431651280.003763"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "this time around",
+        "ts": "1431651281.003764"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the sgs6 really took a leap forward",
+        "ts": "1431651288.003765"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ahh i see",
+        "ts": "1431651293.003766"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "to be of the same caliber",
+        "ts": "1431651297.003767"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "at least in terms of hardware",
+        "ts": "1431651305.003768"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "most of the time",
+        "ts": "1431651309.003769"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i question the build quality of android phones",
+        "ts": "1431651314.003770"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "people really like the build and camera and stuff but prob cause they just copied apple lmao",
+        "ts": "1431651316.003771"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like they look pretty meh",
+        "ts": "1431651316.003772"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and it feels cheap",
+        "ts": "1431651323.003773"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "(just my opinion)",
+        "ts": "1431651326.003774"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah no, i agree",
+        "ts": "1431651329.003775"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i know its pretty stupid",
+        "ts": "1431651347.003776"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but i feel like the weight of the phone matters a lot",
+        "ts": "1431651351.003777"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah it def does",
+        "ts": "1431651356.003778"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "at least it does to me when i hold it",
+        "ts": "1431651357.003779"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "actually that's kinda why i didn't like the iphone 6",
+        "ts": "1431651363.003780"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i thought it was too light",
+        "ts": "1431651366.003781"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1431651367.003782"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "too light for you?",
+        "ts": "1431651367.003783"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1431651370.003784"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ah",
+        "ts": "1431651370.003785"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you're used to huge screens though now",
+        "ts": "1431651376.003786"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so a 6+ might be up your alley",
+        "ts": "1431651381.003787"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i had a nexus 5",
+        "ts": "1431651387.003788"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not just that though, my moto x is similar sized",
+        "ts": "1431651390.003789"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and it felt lighter than my iphone 5",
+        "ts": "1431651391.003790"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and felt heavier than the iphone 6",
+        "ts": "1431651397.003791"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nexus 5 is pretty light yeah",
+        "ts": "1431651410.003792"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and it was plastic",
+        "ts": "1431651418.003793"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "actually idk, maybe my whole perception of all this weight stuff is fucked",
+        "ts": "1431651421.003794"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "or it felt plasticy",
+        "ts": "1431651423.003795"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because of my huge phone",
+        "ts": "1431651424.003796"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1431651425.003797"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "mmm yeah",
+        "ts": "1431651449.003798"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "anyways gonna go home now ttyl",
+        "ts": "1431651471.003799"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "WOAH",
+        "ts": "1431651490.003800"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "KEVIN IS STILL AT WORK AT EIGHT PM???",
+        "ts": "1431651496.003801"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "such a hard worker!!!!!!!",
+        "ts": "1431651502.003802"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "did you get your free dinner",
+        "ts": "1431651510.003803"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ye",
+        "ts": "1431651518.003804"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1431651519.003805"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "naisu",
+        "ts": "1431651532.003806"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "\"ekko is so black he can steal time\" -rito",
+        "ts": "1431655973.003807"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "mfw",
+        "ts": "1431655975.003808"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "\/giphy nigga please",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media2.giphy.com\/media\/uq04nqDJOTfWM\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/unimpressed-eye-roll-nigga-please-uq04nqDJOTfWM>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/uq04nqDJOTfWM\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 905770,
+                "title": "nigga please",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/unimpressed-eye-roll-nigga-please-uq04nqDJOTfWM"
+            }
+        ],
+        "ts": "1431656014.003816"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "But but but what happened to iPhone 6 Da Bess??",
+        "ts": "1431656365.003817"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "jcole &lt;33333",
+        "ts": "1431656915.003818"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "best gif :3",
+        "ts": "1431656924.003819"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Kevin tell me a bedtime story",
+        "ts": "1431657115.003820"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I think I'll sleep soon",
+        "ts": "1431657126.003821"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and it would be just super duper if you could send me to into dreamland",
+        "ts": "1431657136.003822"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt; Nigga please. The End.",
+        "ts": "1431657136.003823"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "&gt; why can't this be greentext",
+        "ts": "1431657154.003824"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt;[Produced by J. Cole]\n\n[Intro]\nCole\nCole, world\nYeah\nLet me take y'all back man\nAs I do so well\n\n[Verse 1]\nWasn't nothin' like that\nMan, it wasn't nothin' like that first, time\nShe was in my math class\nLong hair, brown skin with the fat ass\nSat beside me, used to laugh, had mad jokes\nThe teacher always got mad so we passed notes\nIt started off so innocent\nShe had a vibe and a nigga started diggin' it\nI was a youngin' straight crushin' tryna play this shit cool\nBut a nigga couldn't wait to get to school\nCause when I seen 'em thighs on her and them hips on her and them lips on her\nGot me daydreaming, man what\nI'm thinkin' how she rides on it, if she sits on it, if she licks on it\nMake it hard for me to stand up\nAs time goes by, attractions getting deep and\nWet dreaming thinkin' that I'm smashin' but I'm sleepin'\nI want it bad, and I ain't never been obsessed before\nShe wrote a note that said \"You ever had sex before?\"\nDamn\n\n[Hook]\nAnd I ain't never did this before, no (x8)\n\n[Verse 2]\nI wrote back and said: \"of course I had sex before\" knowing I was frontin'\nI said, \"I'm like a pro, baby,\" knowing I was stuntin'\nBut if I told the truth I knew that I'd get played out, son\nHadn't been in pussy since the day I came out one\nBut, she don't know that, so she done wrote back and told me\n\"Oh you a pro homie? Well I want you to show me\nMy mama gone for the weekend\nSo Saturday baby we can get to freakin'\"\nThat's when my heart start racing and my body start sweatin'\nBaby, you done woke my lil' man up\nI'm thinking how that body look naked when you laying on the bed\nTeacher, please don't make me stand up\nI wrote back like \"Yeah, baby, sound like a plan\"\nStill trying to play it cool, sound like the man\nBut I was scared to death my nigga, my stomach turned\nTalking shit knowing damn well I was a virgin\nFuck\n\n[Hook]\n\n[Verse 3]\nYou know that feeling when you know you finna bone for the first time\nI'm hoping that she won't notice it's my first time\nI'm hoping that my shit is big enough to fuck with\nAnd most of all I'm praying, \"God don't let me bust quick\"\nI'm watching pornos trying to see just how to stroke right\nPractice putting condoms on, how it go right\nI'm in her crib, now a nigga palms sweatin'\nWith a pocket full of rubbers and an erection\nThat's when my hands start touching and her face start blushing\nAnd a nigga roll over on top\nAnd then she get my pants unbuckled and her hands start rubbing\nOn me, ooh girl don't stop\nIt's time for action: pull out the condoms real smooth, yeah, just how I practiced\nBut right before I put it in, she flinched and grabbed it and said\n\"I wanna get something off my mental\nI can tell you're a pro, but baby be gentle, cause...\"\n\n[Hook]",
+        "ts": "1431657172.003825"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "there's your story",
+        "ts": "1431657180.003826"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "here's your bedtime video <https:\/\/www.youtube.com\/watch?v=eCGV26aj-mM>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "http:\/\/www.youtube.com\/",
+                "title": "J. Cole - Wet Dreamz",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=eCGV26aj-mM",
+                "author_name": "JColeVEVO",
+                "author_link": "http:\/\/www.youtube.com\/user\/JColeVEVO",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/eCGV26aj-mM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: J. Cole - Wet Dreamz",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/eCGV26aj-mM?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=eCGV26aj-mM",
+                "id": 1
+            }
+        ],
+        "ts": "1431657195.003827"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's like listening to a smoother, blacker version of you",
+        "ts": "1431657257.003829"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "cute doggies :simple_smile:",
+        "ts": "1431657328.003830"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why are you going to sleep",
+        "ts": "1431659432.003831"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "at 9:34",
+        "ts": "1431659433.003832"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "LoL?",
+        "ts": "1431660294.003833"
+    },
+    {
+        "text": "<@U03UNR40S|wyaeiga> has started a Google+ Hangout for this channel. <https:\/\/plus.google.com\/hangouts\/_\/grlm2uiifdqlvzj2jkxcczugcma|Click here to join>.",
+        "username": "dankhangoutbot",
+        "bot_id": "B046BDQNM",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1431661353.003834"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Are we actually playing ",
+        "ts": "1431666867.003835"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/i.imgur.com\/zyBByjs.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/i.imgur.com\/zyBByjs.jpg",
+                "fallback": "1600x1067px image",
+                "image_url": "http:\/\/i.imgur.com\/zyBByjs.jpg",
+                "image_width": 1600,
+                "image_height": 1067,
+                "image_bytes": 426556,
+                "id": 1
+            }
+        ],
+        "ts": "1431666875.003836"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<https:\/\/slack-imgs.com\/?url=http%3A%2F%2Ffarm9.staticflickr.com%2F8481%2F8239300987_0103523a95_k.jpg&amp;width=2048&amp;height=1367>",
+        "attachments": [
+            {
+                "from_url": "https:\/\/slack-imgs.com\/?url=http%3A%2F%2Ffarm9.staticflickr.com%2F8481%2F8239300987_0103523a95_k.jpg&width=2048&height=1367",
+                "fallback": "2048x1367px image",
+                "image_url": "https:\/\/slack-imgs.com\/?url=http%3A%2F%2Ffarm9.staticflickr.com%2F8481%2F8239300987_0103523a95_k.jpg&width=2048&height=1367",
+                "image_width": 2048,
+                "image_height": 1367,
+                "image_bytes": 680514,
+                "id": 1
+            }
+        ],
+        "ts": "1431666884.003838"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "this is what i'm doing",
+        "ts": "1431666891.003840"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/i.imgur.com\/rXnC0nk.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/i.imgur.com\/rXnC0nk.jpg",
+                "fallback": "1440x900px image",
+                "image_url": "http:\/\/i.imgur.com\/rXnC0nk.jpg",
+                "image_width": 1440,
+                "image_height": 900,
+                "image_bytes": 508660,
+                "id": 1
+            }
+        ],
+        "ts": "1431666904.003841"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "<@U03UNR40S>: wow rip bulls",
+        "ts": "1431669580.003843"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Kevin play?",
+        "ts": "1431669922.003844"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<@U03UNR40S>: ????",
+        "ts": "1431670179.003845"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Where is everyone ",
+        "ts": "1431670185.003846"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "he's a bitch so we're not playing",
+        "ts": "1431670934.003847"
+    }
+]

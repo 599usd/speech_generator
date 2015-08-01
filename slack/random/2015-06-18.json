@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U06GZ9BRT",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U06GZ9BRT|nectaroni> has joined the channel",
+        "ts": "1434646463.000002"
+    }
+]

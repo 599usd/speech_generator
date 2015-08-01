@@ -1,0 +1,1233 @@
+[
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "kevin do you ever have to be oncall?",
+        "ts": "1428530461.002742"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe later on",
+        "ts": "1428530474.002743"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but not yet",
+        "ts": "1428530477.002744"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "has the other engineers",
+        "ts": "1428530518.002745"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "talked about it?",
+        "ts": "1428530520.002746"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yesterday was so bad",
+        "ts": "1428530525.002747"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol",
+        "ts": "1428530526.002748"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i got woken up 4 times",
+        "ts": "1428530529.002749"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "between 6 am and 10 am",
+        "ts": "1428530533.002750"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what was going down",
+        "ts": "1428530540.002751"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "our memory",
+        "ts": "1428530547.002752"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we were like",
+        "ts": "1428530549.002753"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "pretty much using",
+        "ts": "1428530552.002754"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "almost 2x what was allocated to us",
+        "ts": "1428530559.002755"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we had a thread leak going on.",
+        "ts": "1428530565.002756"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "nice",
+        "ts": "1428530575.002757"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "what app was causing that?",
+        "ts": "1428530584.002758"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Celluloid",
+        "ts": "1428530589.002759"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I can't imagine Ruby having thread leaks",
+        "ts": "1428530593.002760"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we were using celluloid wrong",
+        "ts": "1428530595.002761"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "sorta",
+        "ts": "1428530597.002762"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "actually we were just using it wrong",
+        "ts": "1428530606.002763"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lol",
+        "ts": "1428530613.002764"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "basically every time you new up an instance of a class that has celluloid",
+        "ts": "1428530637.002765"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you have to explicitly delete it",
+        "ts": "1428530641.002766"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we didn't have that",
+        "ts": "1428530658.002767"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so...",
+        "ts": "1428530659.002768"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh",
+        "ts": "1428530663.002769"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "easy enough fix",
+        "ts": "1428530668.002770"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah, we fixed that by creating a thread pool",
+        "ts": "1428530676.002771"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and using that instead",
+        "ts": "1428530679.002772"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "of having to worry about explicitly deleting each time its called",
+        "ts": "1428530687.002773"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so they just stick around but at least its bounded",
+        "ts": "1428530698.002774"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "plus saves on thread creation overhead",
+        "ts": "1428531038.002775"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "which should be low, but idk what celluloid does",
+        "ts": "1428531045.002776"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its pretty much just a way to have like synchronization, futures, stuff like that",
+        "ts": "1428531248.002777"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "nothing very special",
+        "ts": "1428531253.002778"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "just another gem",
+        "ts": "1428531255.002779"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "are there any other branches of :enova:",
+        "ts": "1428541375.002780"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":square:",
+        "ts": "1428541393.002781"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Enova secretly owns them",
+        "ts": "1428541401.002782"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "\/giphy illuminati",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media4.giphy.com\/media\/7kaEPGS7iG0eI\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/jessie-j-illuminati-666-7kaEPGS7iG0eI>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/7kaEPGS7iG0eI\/giphy.gif",
+                "image_width": 638,
+                "image_height": 334,
+                "image_bytes": 460860,
+                "title": "illuminati",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/jessie-j-illuminati-666-7kaEPGS7iG0eI"
+            }
+        ],
+        "ts": "1428541408.002783"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy triangle",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media4.giphy.com\/media\/izBL1AyAFja7K\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/infinite-colors-triangle-izBL1AyAFja7K>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/izBL1AyAFja7K\/giphy.gif",
+                "image_width": 500,
+                "image_height": 500,
+                "image_bytes": 1010926,
+                "title": "triangle",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/infinite-colors-triangle-izBL1AyAFja7K"
+            }
+        ],
+        "ts": "1428541437.002784"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy triangle",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media3.giphy.com\/media\/tjiAlc4fauXpS\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/trippy-triangle-tjiAlc4fauXpS>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/tjiAlc4fauXpS\/giphy.gif",
+                "image_width": 378,
+                "image_height": 378,
+                "image_bytes": 720339,
+                "title": "triangle",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/trippy-triangle-tjiAlc4fauXpS"
+            }
+        ],
+        "ts": "1428541442.002785"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and no not really. there are other offices but they're all much smaller",
+        "ts": "1428541476.002786"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like there's a separate office for another call center",
+        "ts": "1428541484.002787"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then there's another separate office for some db related stuff i think",
+        "ts": "1428541495.002788"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ahh okay",
+        "ts": "1428541510.002789"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i have a meeting from 7-8",
+        "ts": "1428541517.002790"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":O",
+        "ts": "1428541523.002791"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "because we're talking with our tokyo office :disappointed:",
+        "ts": "1428541524.002792"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":astonished:",
+        "ts": "1428541525.002793"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "oh rekt lol",
+        "ts": "1428541529.002794"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "how big is it?",
+        "ts": "1428541530.002795"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "the office?",
+        "ts": "1428541534.002796"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like 20-30 people?",
+        "ts": "1428541538.002797"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "there aren't any engineers",
+        "ts": "1428541540.002798"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its all support\/business\/sales",
+        "ts": "1428541546.002799"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "oh okay",
+        "ts": "1428541552.002800"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "hot japanese salarywomen",
+        "ts": "1428541554.002801"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Kelvin you've got it made",
+        "ts": "1428541558.002802"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lolol",
+        "ts": "1428541618.002803"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "first things first",
+        "ts": "1428541624.002804"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i gotta somehow make it to japan",
+        "ts": "1428541628.002805"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "nah",
+        "ts": "1428541632.002806"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "just whip your dick out during a webconference",
+        "ts": "1428541641.002807"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "cue the chorus of \"oooooo sugoiiiiiiii\"",
+        "ts": "1428541651.002808"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and the men will just be all like",
+        "ts": "1428541673.002809"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "\"bakana!\"",
+        "ts": "1428541676.002810"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "at this moment the theme song from Guuren Laagan will play",
+        "ts": "1428541707.002811"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "as you wave around your drill that pierces the hymens",
+        "ts": "1428541717.002812"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "LOL WTF",
+        "ts": "1428541754.002813"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "if I were to design the imagination land area at Disney World you can bet it'd be 21 and over",
+        "ts": "1428541805.002814"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why not the one in paris",
+        "ts": "1428541825.002815"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "then it can be 18 and over :simple_smile:",
+        "ts": "1428541830.002816"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "or w\/e their age is",
+        "ts": "1428541836.002817"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "bitches will love the eiffel tower ride",
+        "ts": "1428541843.002818"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "if",
+        "ts": "1428541844.002819"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "u",
+        "ts": "1428541844.002820"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "know",
+        "ts": "1428541845.002821"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "what",
+        "ts": "1428541846.002822"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "i",
+        "ts": "1428541846.002823"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "mean",
+        "ts": "1428541847.002824"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i",
+        "ts": "1428541995.002825"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "kno",
+        "ts": "1428541996.002826"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wat",
+        "ts": "1428541997.002827"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "u",
+        "ts": "1428541998.002828"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "mean",
+        "ts": "1428541999.002829"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I got an interesting tale for you guys",
+        "ts": "1428542046.002830"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it involves who I'll be taking to my fraternity formal",
+        "ts": "1428542057.002831"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and the conversation leading up to that",
+        "ts": "1428542061.002832"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":illuminati:",
+        "ts": "1428542344.002833"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "are you gonna",
+        "ts": "1428542365.002834"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "bare it all on slack",
+        "ts": "1428542368.002835"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeh boi",
+        "ts": "1428542383.002836"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I love the kinds of women in my life",
+        "ts": "1428542387.002837"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "also I got drunk last night",
+        "ts": "1428542424.002838"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "dont you get drunk every night",
+        "ts": "1428542481.002839"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "senior lyfe",
+        "ts": "1428542483.002840"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeh but I got drunk and realized I needed a date",
+        "ts": "1428542497.002841"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so I hit up this girl I hadn't talked to in a while",
+        "ts": "1428542507.002842"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "fuck my ass is basically a methane pipeline",
+        "ts": "1428543776.002843"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "my open window is trying real hard to circulate the air",
+        "ts": "1428543808.002844"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "that was really confusing for a bit because there was no comma",
+        "ts": "1428543917.002845"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh nice, you're here",
+        "ts": "1428543934.002846"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "how's Rome?",
+        "ts": "1428543958.002847"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Rome...NY",
+        "ts": "1428543967.002848"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "pretty meh",
+        "ts": "1428543968.002849"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "dinner was good though",
+        "ts": "1428543975.002850"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "like $15 for steak dinner",
+        "ts": "1428543984.002851"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "op",
+        "ts": "1428543987.002852"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "is it on the lab's dime?",
+        "ts": "1428544005.002853"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ohh okay",
+        "ts": "1428544145.002854"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "that makes a lot more sense now",
+        "ts": "1428544147.002855"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I was confused too",
+        "ts": "1428544156.002856"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "where the fuck is rome ny",
+        "ts": "1428544164.002857"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "exactly",
+        "ts": "1428544358.002858"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why would you want to go there",
+        "ts": "1428544566.002859"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "it sounds worse than sf",
+        "ts": "1428544568.002860"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's where they decided to hold their research conference",
+        "ts": "1428544592.002861"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "they being some committee somewhere or something",
+        "ts": "1428544599.002862"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "anywho, they could have had the whole thing in Jamaica instead, for instance",
+        "ts": "1428544618.002863"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "they'd really be taking their field up real HIGH",
+        "ts": "1428544636.002864"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":kappa:",
+        "ts": "1428544641.002865"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so dank",
+        "ts": "1428544748.002866"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "no conference",
+        "ts": "1428545001.002867"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "just doing like a tutorial\/demo presentation thing",
+        "ts": "1428545009.002868"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "and i just get reimbursed",
+        "ts": "1428545020.002869"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "then get like, 5 steaks",
+        "ts": "1428545052.002870"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "at $15 a pop that's value",
+        "ts": "1428545056.002871"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "VALUE",
+        "ts": "1428545060.002872"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "\/giphy value",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media3.giphy.com\/media\/LEPtvbYhd5NxS\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/reaction-tamar-braxton-family-values-LEPtvbYhd5NxS>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/LEPtvbYhd5NxS\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 882492,
+                "title": "value",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/reaction-tamar-braxton-family-values-LEPtvbYhd5NxS"
+            }
+        ],
+        "ts": "1428545062.002873"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "by reimbursed, i mean i get $32\/day per diem kek",
+        "ts": "1428545614.002874"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "32 McChickens",
+        "ts": "1428545653.002875"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you...you're truly living the dream",
+        "ts": "1428545670.002876"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "brings a tear to my eye",
+        "ts": "1428545675.002877"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "go explore upstate ny",
+        "ts": "1428545709.002878"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "go find some clubs in syracuse",
+        "ts": "1428545714.002879"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "^correct",
+        "ts": "1428545724.002880"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "\/giphy club",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media2.giphy.com\/media\/6mA3GcWuj5tfy\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/club-6mA3GcWuj5tfy>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/6mA3GcWuj5tfy\/giphy.gif",
+                "image_width": 254,
+                "image_height": 209,
+                "image_bytes": 2077917,
+                "title": "club",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/club-6mA3GcWuj5tfy"
+            }
+        ],
+        "ts": "1428546845.002881"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "only $32 per day",
+        "ts": "1428547365.002882"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "??",
+        "ts": "1428547366.002883"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wtf",
+        "ts": "1428547367.002884"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "are you sure its not per meal?",
+        "ts": "1428547371.002885"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "32 per day is usual for shit like research",
+        "ts": "1428547385.002886"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1428547395.002887"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "research is for poorfags",
+        "ts": "1428547404.002888"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but the per diem for syracuse is $56 :disappointed:",
+        "ts": "1428547448.002889"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "gary getting scammed",
+        "ts": "1428547453.002890"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "chicken nugs too good",
+        "ts": "1428547499.002891"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wish we had tendies doe",
+        "ts": "1428547507.002892"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i get dat joke now",
+        "ts": "1428547552.002893"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "go to mcd",
+        "ts": "1428547561.002894"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "they have tendies now",
+        "ts": "1428547563.002895"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i think some mcd's also take gbp",
+        "ts": "1428547570.002896"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":league:?",
+        "ts": "1428547651.002897"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "sheeeit",
+        "ts": "1428547652.002898"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I know the ones in london do",
+        "ts": "1428547656.002899"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "EKS DEEEEEEE",
+        "ts": "1428547661.002900"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so cleber",
+        "ts": "1428547706.002901"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I love being Bill Cosby",
+        "ts": "1428547747.002902"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm down to clown on the rift",
+        "ts": "1428548034.002903"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you're not speaking",
+        "ts": "1428548088.002904"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gibberish enough to be bill cosby",
+        "ts": "1428548092.002905"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'll zip zoop my foot up your flibity flim flam",
+        "ts": "1428548125.002906"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I just realized what Robin Scherbatsky's O face would look like",
+        "ts": "1428548370.002907"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "quivering lip and getting cross eyed",
+        "ts": "1428548394.002908"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "cobie smulders?",
+        "ts": "1428548408.002909"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeh boi",
+        "ts": "1428548414.002910"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whered the cross eyed come from",
+        "ts": "1428548433.002911"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "her giving Ted a sexy look during a pause in a makeout session",
+        "ts": "1428548467.002912"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and then my big epiphany came",
+        "ts": "1428548480.002913"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "today is a great day gentlemen",
+        "ts": "1428548490.002914"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I'm down for :league: ",
+        "ts": "1428549565.002915"
+    },
+    {
+        "text": "<@U045MFQ3C|tlaister> has started a Google+ Hangout for this channel. <https:\/\/hangoutsapi.talkgadget.google.com\/hangouts\/_\/gyfrzgqkgocijs46pu76vibehya|Click here to join>.",
+        "username": "dankhangoutbot",
+        "bot_id": "B046BDQNM",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1428549827.002916"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "fags for league hop in",
+        "ts": "1428549842.002917"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i'm in rome, not syracuse lel",
+        "ts": "1428551095.002918"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "xD",
+        "ts": "1428551095.002919"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i would imagine your small shitville",
+        "ts": "1428551134.002920"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "would fall under syracuse",
+        "ts": "1428551139.002921"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no?",
+        "ts": "1428551139.002922"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "that's why i get scammed on per diem probably",
+        "ts": "1428551143.002923"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "no",
+        "ts": "1428551147.002924"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fugg off",
+        "ts": "1428551147.002925"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "my hotel is in rome",
+        "ts": "1428551150.002926"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "that steak was pretty good doe",
+        "ts": "1428551158.002927"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i know but rome doesn't even have an entry",
+        "ts": "1428551158.002928"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "yeah, so i get whatever standard shit",
+        "ts": "1428551168.002929"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ayy",
+        "ts": "1428551173.002930"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1428551173.002931"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "kkkk",
+        "ts": "1428551174.002932"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": ":joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum: :joy: :yum:",
+        "ts": "1428551174.002933"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "ayyyyy",
+        "ts": "1428551450.002934"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": ":league: ?",
+        "ts": "1428551461.002935"
+    }
+]

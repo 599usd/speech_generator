@@ -1,0 +1,97 @@
+[
+    {
+        "user": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03UNR40S|wyaeiga> has joined the channel",
+        "ts": "1432697357.000002"
+    },
+    {
+        "user": "U03UNR40S",
+        "purpose": "best shooter world",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U03UNR40S|wyaeiga> set the channel purpose: best shooter world",
+        "ts": "1432697357.000003"
+    },
+    {
+        "user": "U045MBNTQ",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MBNTQ|reyarch> has joined the channel",
+        "ts": "1432697370.000004"
+    },
+    {
+        "user": "U046YFKJY",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046YFKJY|dankbot> has joined the channel",
+        "ts": "1432697370.000005"
+    },
+    {
+        "user": "U04NBCC1U",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04NBCC1U|chrisl24> has joined the channel",
+        "ts": "1432697370.000006"
+    },
+    {
+        "user": "U045MBFTN",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MBFTN|jasonwang> has joined the channel",
+        "ts": "1432697370.000007"
+    },
+    {
+        "user": "U045MBQBN",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MBQBN|rayce> has joined the channel",
+        "ts": "1432697370.000008"
+    },
+    {
+        "user": "U046AEEDH",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046AEEDH|vallejo314> has joined the channel",
+        "ts": "1432697370.000009"
+    },
+    {
+        "user": "U046T9LSZ",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046T9LSZ|numba1> has joined the channel",
+        "ts": "1432697370.000010"
+    },
+    {
+        "user": "U045T05DE",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045T05DE|shil> has joined the channel",
+        "ts": "1432697370.000011"
+    },
+    {
+        "user": "U046PCGDV",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046PCGDV|weirdodunno> has joined the channel",
+        "ts": "1432697370.000012"
+    },
+    {
+        "user": "U045MFQ3C",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MFQ3C|tlaister> has joined the channel",
+        "ts": "1432697370.000013"
+    }
+]

@@ -1,0 +1,193 @@
+[
+    {
+        "user": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03UNR40S|wyaeiga> has joined the channel",
+        "ts": "1427500830.000002"
+    },
+    {
+        "user": "U03UNR40S",
+        "purpose": "\/ff @ 20",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U03UNR40S|wyaeiga> set the channel purpose: \/ff @ 20",
+        "ts": "1427500830.000003"
+    },
+    {
+        "user": "U03UNR40S",
+        "topic": "\/ff @ 20",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U03UNR40S|wyaeiga> set the channel topic: \/ff @ 20",
+        "ts": "1427500843.000004"
+    },
+    {
+        "user": "U03UNR40S",
+        "topic": "YOUR TEAM AGREED TO A SURRENDER WITH 5 VOTES FOR AND 0 AGAINST!",
+        "type": "message",
+        "subtype": "channel_topic",
+        "text": "<@U03UNR40S|wyaeiga> set the channel topic: YOUR TEAM AGREED TO A SURRENDER WITH 5 VOTES FOR AND 0 AGAINST!",
+        "ts": "1427500877.000005"
+    },
+    {
+        "user": "U045MBNTQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MBNTQ|reyarch> has joined the channel",
+        "ts": "1427501127.000006"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":shil:",
+        "ts": "1427501152.000007"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":thomas:",
+        "ts": "1427501316.000008"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "He's the dankest memer alive :kappa:",
+        "ts": "1427501316.000009"
+    },
+    {
+        "user": "U045MBFTN",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MBFTN|jasonwang> has joined the channel",
+        "ts": "1427508283.000010"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "\/giphy league",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media4.giphy.com\/media\/K1kxUF5DoZWzC\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/league-the-paul-scheer-K1kxUF5DoZWzC>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/K1kxUF5DoZWzC\/giphy.gif",
+                "image_width": 245,
+                "image_height": 230,
+                "image_bytes": 1636728,
+                "title": "league",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/league-the-paul-scheer-K1kxUF5DoZWzC"
+            }
+        ],
+        "ts": "1427508294.000011"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":)",
+        "ts": "1427508303.000012"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "I'm watching TV right now",
+        "ts": "1427508310.000013"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "2kool4skool",
+        "ts": "1427508930.000014"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "We gonna play tonight???",
+        "ts": "1427509907.000015"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "!!!!",
+        "ts": "1427509969.000016"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "r we?",
+        "ts": "1427509971.000017"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "who do we have",
+        "ts": "1427509973.000018"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":league:",
+        "ts": "1427510166.000019"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":league:",
+        "ts": "1427511661.000020"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "noice",
+        "ts": "1427511662.000021"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "prithvi said he'd play one or two today",
+        "ts": "1427511679.000022"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then there's thomas and me and you",
+        "ts": "1427511686.000023"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so we gots 4",
+        "ts": "1427511688.000024"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just gonna find 1 more",
+        "ts": "1427511690.000025"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":thumbsup:",
+        "ts": "1427512519.000026"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "<@U045MBNTQ>: we gon league?",
+        "ts": "1427515284.000027"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im in fremont.",
+        "ts": "1427515365.000028"
+    },
+    {
+        "user": "U04642Y4L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04642Y4L|clai99> has joined the channel",
+        "ts": "1427519327.000029"
+    }
+]

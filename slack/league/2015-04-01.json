@@ -1,0 +1,15 @@
+[
+    {
+        "user": "U045MBQBN",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MBQBN|rayce> has joined the channel",
+        "ts": "1427943988.000002"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "nigas are we gonna play league",
+        "ts": "1427944007.000003"
+    }
+]

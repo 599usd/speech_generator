@@ -1,0 +1,4827 @@
+[
+    {
+        "user": "U04NBCC1U",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04NBCC1U|chrisl24> has joined the channel",
+        "ts": "1430936186.015337"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "OH SHET",
+        "ts": "1430936262.015338"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "A CHALLENGER APPEARS",
+        "ts": "1430936265.015339"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "gg",
+        "ts": "1430936271.015340"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's over",
+        "ts": "1430936273.015341"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy it's over",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media4.giphy.com\/media\/nqRJTIwsBftG8\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/basketball-swag-nqRJTIwsBftG8>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/nqRJTIwsBftG8\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 752814,
+                "title": "it's over",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/basketball-swag-nqRJTIwsBftG8"
+            }
+        ],
+        "ts": "1430936276.015342"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "WOW",
+        "ts": "1430936280.015343"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "\/giphy get rekt",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media4.giphy.com\/media\/txXbY8SauHIeA\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/reaction-txXbY8SauHIeA>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/txXbY8SauHIeA\/giphy.gif",
+                "image_width": 475,
+                "image_height": 475,
+                "image_bytes": 1039233,
+                "title": "get rekt",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/reaction-txXbY8SauHIeA"
+            }
+        ],
+        "ts": "1430936284.015344"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "GIPHY GOT THE EXACT GIF I WANTED",
+        "ts": "1430936286.015345"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol wtf is this",
+        "ts": "1430936293.015346"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the vince carter one?",
+        "ts": "1430936301.015347"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no mine",
+        "ts": "1430936304.015348"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ez",
+        "ts": "1430936313.015349"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "dino got rekt",
+        "ts": "1430936316.015350"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "tyrannosaurus rekt",
+        "ts": "1430936323.015351"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "Yo",
+        "ts": "1430937099.015352"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "How do you change your display name ",
+        "ts": "1430937320.015353"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you just did",
+        "ts": "1430937559.015354"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i still don't know how i can serach for kevin",
+        "ts": "1430937571.015355"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "search",
+        "ts": "1430937573.015356"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and find Jermaine Lamarr Cole",
+        "ts": "1430937579.015357"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "in the direct message",
+        "ts": "1430937594.015358"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "search?",
+        "ts": "1430939878.015359"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just search wyaeiga bby",
+        "ts": "1430939883.015360"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "right?",
+        "ts": "1430939885.015361"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we need to add a new emoji for hummascumma",
+        "ts": "1430939924.015362"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary:",
+        "ts": "1430939926.015363"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":kelvin:",
+        "ts": "1430939928.015364"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Exercise stock options?",
+        "ts": "1430939928.015365"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":jason:",
+        "ts": "1430939934.015366"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":thomas:",
+        "ts": "1430939936.015367"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":kevin:",
+        "ts": "1430939939.015368"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":gary2: :gary3:",
+        "ts": "1430942057.015369"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "can't forget those too mang",
+        "ts": "1430942060.015370"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":novi:",
+        "ts": "1430942067.015371"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gary is the most important person here",
+        "ts": "1430942069.015372"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":shil:",
+        "ts": "1430942069.015373"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "pretty much",
+        "ts": "1430942074.015374"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats why he needs 3 emojis",
+        "ts": "1430942078.015375"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel man i wish i was more senior",
+        "ts": "1430942127.015376"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "my coworker just said this morning hes working from home",
+        "ts": "1430942134.015377"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and then 20 mins ago he said bbl baseball game",
+        "ts": "1430942141.015378"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "cya",
+        "ts": "1430942143.015379"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just do that",
+        "ts": "1430944133.015380"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no worries",
+        "ts": "1430944136.015381"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why dont you do it",
+        "ts": "1430944316.015382"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "to watch the cubs",
+        "ts": "1430944317.015383"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm sure i'll have the chance to go to a game in a month or so",
+        "ts": "1430944458.015384"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and go get rooftop seats",
+        "ts": "1430944464.015385"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "rooftop?",
+        "ts": "1430944523.015386"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what does that mean",
+        "ts": "1430944525.015387"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/wischlist.com\/wp-content\/uploads\/2013\/01\/2012_6_15_wrigley_rooftops.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/wischlist.com\/wp-content\/uploads\/2013\/01\/2012_6_15_wrigley_rooftops.jpg",
+                "fallback": "640x480px image",
+                "image_url": "http:\/\/wischlist.com\/wp-content\/uploads\/2013\/01\/2012_6_15_wrigley_rooftops.jpg",
+                "image_width": 640,
+                "image_height": 480,
+                "image_bytes": 211130,
+                "id": 1
+            }
+        ],
+        "ts": "1430944547.015388"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "those seats on the roof of the apartments",
+        "ts": "1430944557.015390"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "are those",
+        "ts": "1430944564.015391"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "less expensive?",
+        "ts": "1430944566.015392"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they seem to be so far",
+        "ts": "1430944569.015393"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm not sure",
+        "ts": "1430944591.015394"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but i think companies tend to have outings on the rooftops",
+        "ts": "1430944601.015395"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because it's not technically part of the park i don't think",
+        "ts": "1430944609.015396"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so you can just kinda have a party on the rooftop",
+        "ts": "1430944616.015397"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and also watch the game if you want",
+        "ts": "1430944621.015398"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ohhh",
+        "ts": "1430944799.015399"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1430944801.015400"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so cool man",
+        "ts": "1430944802.015401"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh wait",
+        "ts": "1430944831.015402"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah i mean it is pretty cool, imo",
+        "ts": "1430944832.015403"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "those apartments",
+        "ts": "1430944832.015404"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ARENT a part of the stadium",
+        "ts": "1430944835.015405"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no",
+        "ts": "1430944837.015406"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1430944838.015407"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they're just close",
+        "ts": "1430944839.015408"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1430944842.015409"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and they have bleachers on top",
+        "ts": "1430944844.015410"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "real close lol",
+        "ts": "1430944844.015411"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "okay",
+        "ts": "1430944844.015412"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "that makes a lot more sense",
+        "ts": "1430944847.015413"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i was confused",
+        "ts": "1430944851.015414"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "since it blended in",
+        "ts": "1430944856.015415"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah otherwise they're just shitty seats lel",
+        "ts": "1430944859.015416"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is this wrigley field?",
+        "ts": "1430944864.015417"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1430944866.015418"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why is wrigley so ghetto",
+        "ts": "1430944874.015419"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's not?",
+        "ts": "1430944879.015420"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like",
+        "ts": "1430944889.015421"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why is it so small",
+        "ts": "1430944891.015422"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "iono why the park is small but the area is pretty nice",
+        "ts": "1430944904.015423"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ahh i see",
+        "ts": "1430944912.015424"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "comiskey \/ US Cellular field",
+        "ts": "1430944923.015425"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "where the white sox play",
+        "ts": "1430944927.015426"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "is probably a bigger stadium",
+        "ts": "1430944931.015427"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's right next to the highway",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1430944941.000000"
+        },
+        "ts": "1430944937.015428"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah im just remembering",
+        "ts": "1430944956.015430"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when i see baseball stadiums",
+        "ts": "1430944959.015431"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like it rises super high",
+        "ts": "1430944964.015432"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but i guess at the ends of the field",
+        "ts": "1430944968.015433"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "not really",
+        "ts": "1430944969.015434"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "haha, you're probably thinking about fenway specifically, too",
+        "ts": "1430944978.015435"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i think they call that wall the green monster or something?",
+        "ts": "1430944988.015436"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "mmm maybe then",
+        "ts": "1430945002.015437"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ye <http:\/\/www.stlcardinalbaseball.com\/wp-content\/uploads\/2011\/04\/fenway-park-green-monster.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/www.stlcardinalbaseball.com\/wp-content\/uploads\/2011\/04\/fenway-park-green-monster.jpg",
+                "fallback": "500x325px image",
+                "image_url": "http:\/\/www.stlcardinalbaseball.com\/wp-content\/uploads\/2011\/04\/fenway-park-green-monster.jpg",
+                "image_width": 500,
+                "image_height": 325,
+                "image_bytes": 146355,
+                "id": 1
+            }
+        ],
+        "ts": "1430945003.015438"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1430945005.015440"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fucking huge wall",
+        "ts": "1430945007.015441"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol yeah wtf",
+        "ts": "1430945010.015442"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then AT&amp;T park just goes into the bay lol",
+        "ts": "1430945020.015443"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah",
+        "ts": "1430945025.015444"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i forgot about that",
+        "ts": "1430945027.015445"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats why people are in the water",
+        "ts": "1430945030.015446"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "waiting to catch baseballs lol",
+        "ts": "1430945034.015447"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i wonder how often that happens now",
+        "ts": "1430945043.015448"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i actually think at&amp;t park looks pretty nice",
+        "ts": "1430945046.015449"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it was pretty frequent when barry bonds would just hit them into the ocean every few days",
+        "ts": "1430945055.015450"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol yeah",
+        "ts": "1430945063.015451"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/www.google.com\/imgres?imgurl=http:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/63\/ATT_Sunset_Panorama.jpg&amp;imgrefurl=http:\/\/en.wikipedia.org\/wiki\/AT%2526T_Park&amp;h=2063&amp;w=4769&amp;tbnid=KJ-H4jx0wRlTEM:&amp;zoom=1&amp;tbnh=147&amp;tbnw=342&amp;usg=__9tiYwukI6TQDMtu38_orF0IQ-hY=&amp;docid=jYAIpRZsmdULnM&amp;itg=1>",
+        "ts": "1430945075.015452"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "this is a pretty nice picture",
+        "ts": "1430945080.015453"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/63\/ATT_Sunset_Panorama.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/63\/ATT_Sunset_Panorama.jpg",
+                "fallback": "4769x2063px image",
+                "image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/63\/ATT_Sunset_Panorama.jpg",
+                "image_width": 4769,
+                "image_height": 2063,
+                "image_bytes": 8427685,
+                "id": 1
+            }
+        ],
+        "ts": "1430945088.015454"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "okay you're right. i was wrong nvm",
+        "ts": "1430945105.015456"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "who cares about baseball?",
+        "ts": "1430945119.015457"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e6\/Champs_central_du_Wrigley_Field.JPG>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e6\/Champs_central_du_Wrigley_Field.JPG",
+                "fallback": "2576x1932px image",
+                "image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e6\/Champs_central_du_Wrigley_Field.JPG",
+                "image_width": 2576,
+                "image_height": 1932,
+                "image_bytes": 1300033,
+                "id": 1
+            }
+        ],
+        "ts": "1430945124.015458"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wrigley lame :disappointed:",
+        "ts": "1430945128.015460"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no ocean :^(",
+        "ts": "1430945131.015461"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why is the right field",
+        "ts": "1430945137.015462"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "ocean??",
+        "ts": "1430945138.015463"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "always so fucked up",
+        "ts": "1430945139.015464"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im guessing every baseball stadium is like that",
+        "ts": "1430945158.015465"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "do you just mean",
+        "ts": "1430945187.015466"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why is right field like smaller or",
+        "ts": "1430945197.015467"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the walls are a bit janker?",
+        "ts": "1430945200.015468"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "walls jankier",
+        "ts": "1430945268.015469"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like it",
+        "ts": "1430945269.015470"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "juts in",
+        "ts": "1430945270.015471"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and out",
+        "ts": "1430945271.015472"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah iono",
+        "ts": "1430945317.015473"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like fenway doesn't have the monster wall in right field either",
+        "ts": "1430945325.015474"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ohhh",
+        "ts": "1430945338.015475"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I guess its because",
+        "ts": "1430945342.015476"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "people were right handed",
+        "ts": "1430945344.015477"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so its less likely",
+        "ts": "1430945346.015478"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "to go to right field",
+        "ts": "1430945349.015479"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "hmm maybe",
+        "ts": "1430945354.015480"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so they made it slightly easier?",
+        "ts": "1430945355.015481"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i wouldn't be surprised",
+        "ts": "1430945359.015482"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe they just put the bullpen there",
+        "ts": "1430945366.015483"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and everyone just decided to put the bullpen there",
+        "ts": "1430945375.015484"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "okay im dumb",
+        "ts": "1430945382.015485"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "iono, i actually don't know where the bullpens are lol",
+        "ts": "1430945383.015486"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im so confused",
+        "ts": "1430945403.015487"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wait nvm",
+        "ts": "1430945412.015488"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/www.sportsgrid.com\/mlb\/how-the-world-series-could-be-decided-by-the-right-field-wall-at-att-park\/>",
+        "attachments": [
+            {
+                "service_name": "SportsGrid",
+                "title": "Right Field At AT&T Park Is Bizarro Baseball At Its Finest | SportsGrid",
+                "title_link": "http:\/\/www.sportsgrid.com\/mlb\/how-the-world-series-could-be-decided-by-the-right-field-wall-at-att-park\/",
+                "text": "\"Playing out there, that was the only time in my career I was ever afraid in the outfield. The sun was in my eyes, the wind was swirling. I was just praying they didn't hit it to me.\" -- Eric Byrnes, on right field at AT&amp;T Park",
+                "fallback": "SportsGrid: Right Field At AT&amp;T Park Is Bizarro Baseball At Its Finest | SportsGrid",
+                "thumb_url": "http:\/\/d13beo3f7vpmvd.cloudfront.net\/wp-content\/plugins\/all-in-one-seo-pack\/images\/default-user-image.png",
+                "from_url": "http:\/\/www.sportsgrid.com\/mlb\/how-the-world-series-could-be-decided-by-the-right-field-wall-at-att-park\/",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "id": 1
+            }
+        ],
+        "ts": "1430945469.015489"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "seems really fucked up",
+        "ts": "1430945531.015491"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1430945722.015492"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "more like",
+        "ts": "1430945731.015493"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "boring ball",
+        "ts": "1430945733.015494"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "XD",
+        "ts": "1430945734.015495"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's kinda interesting how baseball fields aren't really regulated like other sports",
+        "ts": "1430945738.015496"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "hey jason",
+        "ts": "1430945746.015497"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "stop hating",
+        "ts": "1430945747.015498"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you're TW",
+        "ts": "1430945748.015499"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you're supposed to love the Yanks",
+        "ts": "1430945752.015500"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1430945753.015501"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":^)",
+        "ts": "1430945961.015502"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "it's the nats now boiii",
+        "ts": "1430945965.015503"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "jk braves",
+        "ts": "1430945978.015504"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "<http:\/\/en.wikipedia.org\/wiki\/List_of_Major_League_Baseball_players_from_Taiwan>",
+        "ts": "1430946044.015505"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "lol almost all pitchers",
+        "ts": "1430946048.015506"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "cause TW people are leaders",
+        "ts": "1430946099.015507"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1430946103.015508"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol",
+        "ts": "1430946110.015509"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we love little league",
+        "ts": "1430946115.015510"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U045MBNTQ|reyarch> uploaded a file: <https:\/\/599usd.slack.com\/files\/reyarch\/F04NE4ABN\/screen_shot_2015-05-06_at_2.02.23_pm.png|Screen Shot 2015-05-06 at 2.02.23 PM.png>",
+        "file": {
+            "id": "F04NE4ABN",
+            "created": 1430946158,
+            "timestamp": 1430946158,
+            "name": "Screen Shot 2015-05-06 at 2.02.23 PM.png",
+            "title": "Screen Shot 2015-05-06 at 2.02.23 PM.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U045MBNTQ",
+            "editable": false,
+            "size": 82910,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F04NE4ABN-d78c79dbef\/screen_shot_2015-05-06_at_2.02.23_pm.png",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F04NE4ABN-d78c79dbef\/download\/screen_shot_2015-05-06_at_2.02.23_pm.png",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F04NE4ABN\/screen_shot_2015-05-06_at_2.02.23_pm.png",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F04NE4ABN\/download\/screen_shot_2015-05-06_at_2.02.23_pm.png",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04NE4ABN-1b3bae4e32\/screen_shot_2015-05-06_at_2.02.23_pm_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04NE4ABN-1b3bae4e32\/screen_shot_2015-05-06_at_2.02.23_pm_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04NE4ABN-1b3bae4e32\/screen_shot_2015-05-06_at_2.02.23_pm_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 55,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04NE4ABN-1b3bae4e32\/screen_shot_2015-05-06_at_2.02.23_pm_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04NE4ABN-1b3bae4e32\/screen_shot_2015-05-06_at_2.02.23_pm_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 110,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04NE4ABN-1b3bae4e32\/screen_shot_2015-05-06_at_2.02.23_pm_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 156,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/reyarch\/F04NE4ABN\/screen_shot_2015-05-06_at_2.02.23_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F04NE4ABN-d78c79dbef",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U045MBNTQ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U045MBNTQ|reyarch>",
+        "bot_id": null,
+        "ts": "1430946162.015511"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":^)",
+        "ts": "1430946163.015512"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its pretty fucking unfair how",
+        "ts": "1430946191.015513"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "the US always gets to the finals",
+        "ts": "1430946194.015514"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1430946197.015515"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because US is best country",
+        "ts": "1430946201.015516"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "if TW wants to fuck with the rules they can go host their own LLWS :^)",
+        "ts": "1430946217.015517"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so the way it works is that one half of the bracket is JUST us, right?",
+        "ts": "1430946236.015518"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then various teams from various states?",
+        "ts": "1430946241.015519"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then the entire other half is international?",
+        "ts": "1430946247.015520"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah",
+        "ts": "1430946270.015521"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and lel",
+        "ts": "1430946271.015522"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "&gt;In 2014, Chicago defeated Las Vegas in the US Championship game 7-5 and played Seoul, South Korea for the Little League Championship as US champion - Seoul won the game 8-4. On February 11, 2015, Chicago was stripped of its US Little League Championship for fielding ineligible players; the US title was retroactively awarded to Las Vegas.",
+        "ts": "1430946273.015523"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "chicago tried to cheat. and still fuckin lost to korea",
+        "ts": "1430946286.015524"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "x)",
+        "ts": "1430946326.015525"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "chicago is corrupt",
+        "ts": "1430946332.015526"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what can i say???",
+        "ts": "1430946335.015527"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U045MBNTQ|reyarch> uploaded a file: <https:\/\/599usd.slack.com\/files\/reyarch\/F04P1TQEF\/screen_shot_2015-05-06_at_2.05.32_pm.png|Screen Shot 2015-05-06 at 2.05.32 PM.png>",
+        "file": {
+            "id": "F04P1TQEF",
+            "created": 1430946345,
+            "timestamp": 1430946345,
+            "name": "Screen Shot 2015-05-06 at 2.05.32 PM.png",
+            "title": "Screen Shot 2015-05-06 at 2.05.32 PM.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U045MBNTQ",
+            "editable": false,
+            "size": 17525,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F04P1TQEF-7c39e04e75\/screen_shot_2015-05-06_at_2.05.32_pm.png",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F04P1TQEF-7c39e04e75\/download\/screen_shot_2015-05-06_at_2.05.32_pm.png",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F04P1TQEF\/screen_shot_2015-05-06_at_2.05.32_pm.png",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F04P1TQEF\/download\/screen_shot_2015-05-06_at_2.05.32_pm.png",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04P1TQEF-c4cc5b926a\/screen_shot_2015-05-06_at_2.05.32_pm_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04P1TQEF-c4cc5b926a\/screen_shot_2015-05-06_at_2.05.32_pm_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04P1TQEF-c4cc5b926a\/screen_shot_2015-05-06_at_2.05.32_pm_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 40,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04P1TQEF-c4cc5b926a\/screen_shot_2015-05-06_at_2.05.32_pm_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04P1TQEF-c4cc5b926a\/screen_shot_2015-05-06_at_2.05.32_pm_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 81,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/reyarch\/F04P1TQEF\/screen_shot_2015-05-06_at_2.05.32_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F04P1TQEF-7c39e04e75",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U045MBNTQ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U045MBNTQ|reyarch>",
+        "bot_id": null,
+        "ts": "1430946347.015528"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "LOL",
+        "ts": "1430946353.015529"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "GARY",
+        "ts": "1430946354.015530"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "LOLOLOL",
+        "ts": "1430946358.015531"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "wait",
+        "ts": "1430946362.015532"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "if the US competed as a country",
+        "ts": "1430946370.015533"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "would they rek everyone?",
+        "ts": "1430946374.015534"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "jesus is there no mercy rule",
+        "ts": "1430946385.015535"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "well they're all kids so probably not hardcore rek",
+        "ts": "1430946387.015536"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U045MBNTQ|reyarch> uploaded a file: <https:\/\/599usd.slack.com\/files\/reyarch\/F04NE6BNL\/screen_shot_2015-05-06_at_2.06.11_pm.png|Screen Shot 2015-05-06 at 2.06.11 PM.png>",
+        "file": {
+            "id": "F04NE6BNL",
+            "created": 1430946395,
+            "timestamp": 1430946395,
+            "name": "Screen Shot 2015-05-06 at 2.06.11 PM.png",
+            "title": "Screen Shot 2015-05-06 at 2.06.11 PM.png",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U045MBNTQ",
+            "editable": false,
+            "size": 16068,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F04NE6BNL-e68d625e50\/screen_shot_2015-05-06_at_2.06.11_pm.png",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F04NE6BNL-e68d625e50\/download\/screen_shot_2015-05-06_at_2.06.11_pm.png",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F04NE6BNL\/screen_shot_2015-05-06_at_2.06.11_pm.png",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F04NE6BNL\/download\/screen_shot_2015-05-06_at_2.06.11_pm.png",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04NE6BNL-d1615bd09a\/screen_shot_2015-05-06_at_2.06.11_pm_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04NE6BNL-d1615bd09a\/screen_shot_2015-05-06_at_2.06.11_pm_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04NE6BNL-d1615bd09a\/screen_shot_2015-05-06_at_2.06.11_pm_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 38,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04NE6BNL-d1615bd09a\/screen_shot_2015-05-06_at_2.06.11_pm_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04NE6BNL-d1615bd09a\/screen_shot_2015-05-06_at_2.06.11_pm_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 77,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/reyarch\/F04NE6BNL\/screen_shot_2015-05-06_at_2.06.11_pm.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F04NE6BNL-e68d625e50",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U045MBNTQ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U045MBNTQ|reyarch>",
+        "bot_id": null,
+        "ts": "1430946397.015537"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but i'm sure pooling all the talent together",
+        "ts": "1430946403.015538"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "would make shit like that",
+        "ts": "1430946407.015539"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what if tw competed as a country",
+        "ts": "1430946408.015540"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "less common",
+        "ts": "1430946409.015541"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1430946409.015542"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they're all cities too",
+        "ts": "1430946414.015543"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its not like its ALL of tw",
+        "ts": "1430946416.015544"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah maybe TW is OP",
+        "ts": "1430946417.015545"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "pretty sure each city can field one team?",
+        "ts": "1430946426.015546"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "probably yeah",
+        "ts": "1430946437.015547"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but damn, these TW cities have a bigger talent pool to draw from mang",
+        "ts": "1430946447.015548"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like what the fuck can you expect from kids from Gary, Indiana",
+        "ts": "1430946455.015549"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "except for having meth addicted parents",
+        "ts": "1430946462.015550"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and no savings",
+        "ts": "1430946465.015551"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and developmental problems",
+        "ts": "1430946472.015552"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":confused:",
+        "ts": "1430946473.015553"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut.",
+        "ts": "1430946480.015554"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "although if the game happened in '71",
+        "ts": "1430946484.015555"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "even in 1970?",
+        "ts": "1430946486.015556"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it was probably okayish back then",
+        "ts": "1430946488.015557"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats before the flight",
+        "ts": "1430946489.015558"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1430946492.015559"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1430946533.015560"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "Gary, IN peaked in population in like '69-70",
+        "ts": "1430946546.015561"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "oh so it's like",
+        "ts": "1430946550.015562"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "actual little league teams",
+        "ts": "1430946555.015563"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "'70 is when the decline started happening",
+        "ts": "1430946556.015564"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "like fucking",
+        "ts": "1430946558.015565"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "the As from the fremont league",
+        "ts": "1430946562.015566"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah lol",
+        "ts": "1430946566.015567"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "goes all the way up",
+        "ts": "1430946566.015568"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol yeah pretty much",
+        "ts": "1430946568.015569"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "something like that",
+        "ts": "1430946569.015570"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe they might consolidate a city team idk",
+        "ts": "1430946577.015571"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "oh okay makes sense",
+        "ts": "1430946579.015572"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what did you think it was?",
+        "ts": "1430946594.015573"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I thought it was just",
+        "ts": "1430946679.015574"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "like worldcup for baseball",
+        "ts": "1430946685.015575"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "for 11-13 year olds",
+        "ts": "1430946689.015576"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "lel",
+        "ts": "1430946690.015577"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "getting callups to the state\/national team",
+        "ts": "1430946696.015578"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1430946871.015579"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "<http:\/\/en.wikipedia.org\/wiki\/Junior,_Senior_%26_Big_League_Baseball> lol read the redirect message",
+        "ts": "1430946871.015580"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut",
+        "ts": "1430946887.015581"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U045MBFTN|jasonwang> uploaded a file: <https:\/\/599usd.slack.com\/files\/jasonwang\/F04P22ZAP\/untitled.png|lelxd>",
+        "file": {
+            "id": "F04P22ZAP",
+            "created": 1430946947,
+            "timestamp": 1430946947,
+            "name": "Untitled.png",
+            "title": "lelxd",
+            "mimetype": "image\/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U045MBFTN",
+            "editable": false,
+            "size": 4738,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F04P22ZAP-5acf73d228\/untitled.png",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F04P22ZAP-5acf73d228\/download\/untitled.png",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F04P22ZAP\/untitled.png",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F04P22ZAP\/download\/untitled.png",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04P22ZAP-70e1c83587\/untitled_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04P22ZAP-70e1c83587\/untitled_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04P22ZAP-70e1c83587\/untitled_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 9,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04P22ZAP-70e1c83587\/untitled_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04P22ZAP-70e1c83587\/untitled_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 19,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/jasonwang\/F04P22ZAP\/untitled.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F04P22ZAP-5acf73d228",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U045MBFTN",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U045MBFTN|jasonwang>",
+        "bot_id": null,
+        "ts": "1430946949.015582"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "dank maymays",
+        "ts": "1430946987.015583"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i saw that",
+        "ts": "1430947050.015584"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whats a maymay",
+        "ts": "1430947058.015585"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "a mispronunciation of meme",
+        "ts": "1430947197.015586"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "which in turn has become a dank maemae of its own",
+        "ts": "1430947212.015587"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "mehmehz?",
+        "ts": "1430947230.015588"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "sallie maemaes?",
+        "ts": "1430947236.015589"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "xD",
+        "ts": "1430947239.015590"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why is `For Free?` such a good song JSON?",
+        "ts": "1430947272.015591"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "shet",
+        "ts": "1430947276.015592"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/www.safetyresearch.net\/blog\/articles\/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code>",
+        "ts": "1430947277.015593"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "kevin you should work for toyota",
+        "ts": "1430947293.015594"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you'd fit right in!",
+        "ts": "1430947295.015595"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":^)",
+        "ts": "1430947298.015596"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "x)",
+        "ts": "1430947304.015597"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "u 2 beb",
+        "ts": "1430947307.015598"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "let's just all go write spaghetti code everywhere we go",
+        "ts": "1430947316.015599"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "xD",
+        "ts": "1430947350.015600"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "at least we don't write code",
+        "ts": "1430947356.015601"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "that determine if people live or die.",
+        "ts": "1430947360.015602"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "idkkk",
+        "ts": "1430947548.015603"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lets",
+        "ts": "1430947584.015604"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "dj again",
+        "ts": "1430947591.015605"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":simple_smile:",
+        "ts": "1430947593.015606"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ok",
+        "ts": "1430947649.015607"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<https:\/\/plug.dj\/-503405268724184113>",
+        "attachments": [
+            {
+                "service_name": "plug.dj",
+                "title": "Come hang out on plug.dj and listen to awesome music for free.",
+                "title_link": "https:\/\/plug.dj\/-503405268724184113",
+                "text": "Join a party. Be a DJ. Or just listen. Enjoy music together and chat with people from around the world right now.",
+                "fallback": "plug.dj: Come hang out on plug.dj and listen to awesome music for free.",
+                "image_url": "https:\/\/cdn.plug.dj\/_\/static\/images\/fbimage.61abd2570b246a8b49990db2c3a0fe3b877cfcd2.jpg",
+                "from_url": "https:\/\/plug.dj\/-503405268724184113",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 181868,
+                "id": 1
+            }
+        ],
+        "ts": "1430947681.015608"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how do i join",
+        "ts": "1430947783.015610"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ok nvm",
+        "ts": "1430947784.015611"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck it",
+        "ts": "1430947785.015612"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "the waitlist again lol",
+        "ts": "1430947785.015613"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol wut",
+        "ts": "1430947789.015614"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it won't let me add shit from youtube right now",
+        "ts": "1430947794.015615"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i guess their shit is broken",
+        "ts": "1430947797.015616"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gg",
+        "ts": "1430947800.015617"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuckin don't have staging",
+        "ts": "1430947803.015618"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "someone `git push -f origin master`",
+        "ts": "1430947806.015619"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "a broken branch",
+        "ts": "1430947812.015620"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i always wonder",
+        "ts": "1430947827.015621"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why people don't have safeguards",
+        "ts": "1430947837.015622"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because startup mode = push code :disappointed:",
+        "ts": "1430947847.015623"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "damn I'm DJing ]':",
+        "ts": "1430947850.015624"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "always push to master",
+        "ts": "1430947856.015625"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "duh",
+        "ts": "1430947857.015626"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i would join you baby, but i can't add music to my playlist right now :disappointed:",
+        "ts": "1430947863.015627"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "]':",
+        "ts": "1430947868.015628"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "are you just",
+        "ts": "1430947871.015629"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "do you make a new playlist everytime",
+        "ts": "1430947875.015630"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "adding a few songs to playlist",
+        "ts": "1430947875.015631"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "and removing?",
+        "ts": "1430947877.015632"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i dont get how it works",
+        "ts": "1430947883.015633"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no, you don't",
+        "ts": "1430947888.015634"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why can't you just only add it for that session",
+        "ts": "1430947890.015635"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but i wanna listen to diff stuff",
+        "ts": "1430947891.015636"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "than what's on my playlist",
+        "ts": "1430947895.015637"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and iono",
+        "ts": "1430947896.015638"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "plugdj OP",
+        "ts": "1430947898.015639"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuckin real",
+        "ts": "1430947901.015640"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "let's write our own competitor",
+        "ts": "1430947909.015641"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1430947909.015642"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "shouldn't be so hard",
+        "ts": "1430947914.015643"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":simple_smile:",
+        "ts": "1430947915.015644"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "let's use rails!!!",
+        "ts": "1430947921.015645"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1430947921.015646"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "to just have a queue",
+        "ts": "1430947924.015647"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":^)",
+        "ts": "1430947924.015648"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "for a person in a room",
+        "ts": "1430947934.015649"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im too lazy to pick music",
+        "ts": "1430947952.015650"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ima listen to top 50 on spotify XD",
+        "ts": "1430947960.015651"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I don't get why it has to come from a playlist",
+        "ts": "1430947962.015652"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "as opposed to what, though?",
+        "ts": "1430947977.015653"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "can't you just queue another song?",
+        "ts": "1430947980.015654"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "like pick one off youtube",
+        "ts": "1430947986.015655"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i mean i guess the idea is that",
+        "ts": "1430947987.015656"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "and not have to go through playlists",
+        "ts": "1430947990.015657"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you don't have to be around and actively picking songs",
+        "ts": "1430947993.015658"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so you just put it into a playlist queue",
+        "ts": "1430948002.015659"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "iono, unless you're saying why have a saved playlist at all",
+        "ts": "1430948012.015660"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and why not just queue music each time?",
+        "ts": "1430948016.015661"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah",
+        "ts": "1430948019.015662"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats what i think too",
+        "ts": "1430948021.015663"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "should just be like karaoke",
+        "ts": "1430948024.015664"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "clearly",
+        "ts": "1430948031.015665"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we need to write our own",
+        "ts": "1430948034.015666"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I mean",
+        "ts": "1430948050.015667"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "porque no los dos",
+        "ts": "1430948053.015668"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "X)",
+        "ts": "1430948056.015669"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "aight",
+        "ts": "1430948062.015670"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "let's make some boilerplate code",
+        "ts": "1430948067.015671"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1430948068.015672"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":simple_smile:",
+        "ts": "1430948087.015673"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "is it time to short AMD?",
+        "ts": "1430948112.015674"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":^)",
+        "ts": "1430948114.015675"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why",
+        "ts": "1430948142.015676"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "in case the 3XX series launch doesn't go well",
+        "ts": "1430948211.015677"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but if it goes well",
+        "ts": "1430948255.015678"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gg",
+        "ts": "1430948267.015679"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "shorting is a very dangerous position",
+        "ts": "1430948273.015680"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if you're doing that just by itself",
+        "ts": "1430948293.015681"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "yah",
+        "ts": "1430948324.015682"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "short both AMD and NVDA",
+        "ts": "1430948334.015683"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "!!",
+        "ts": "1430948335.015684"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1430949562.015685"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "such a baller",
+        "ts": "1430949564.015686"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why don't you all just short ENVA because I'm working here? :^)",
+        "ts": "1430950284.015687"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":^)",
+        "ts": "1430950555.015688"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats",
+        "ts": "1430951045.015689"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "insider trading though",
+        "ts": "1430951047.015690"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we know some shitter got through the doors",
+        "ts": "1430951061.015691"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's okay",
+        "ts": "1430951062.015692"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "can't be good for the company",
+        "ts": "1430951063.015693"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "shieeet",
+        "ts": "1430951068.015694"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "well",
+        "ts": "1430951068.015695"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "SEC won't have access to our slack history",
+        "ts": "1430951075.015696"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":^)",
+        "ts": "1430951075.015697"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because we don't pay for slack",
+        "ts": "1430951078.015698"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1430951079.015699"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "XDDD",
+        "ts": "1430951080.015700"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "we don't know that kevin is a shitter because of insider information",
+        "ts": "1430951080.015701"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "because it'll be past the 10k",
+        "ts": "1430951081.015702"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lolol",
+        "ts": "1430951082.015703"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^(",
+        "ts": "1430951095.015704"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "we just know kevin is a shitter from our personal experiences :^)",
+        "ts": "1430951100.015705"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "YAML Wang is rekking me so hard",
+        "ts": "1430951105.015706"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "]':",
+        "ts": "1430951109.015707"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "fak",
+        "ts": "1430951111.015708"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "should Iget a",
+        "ts": "1430951115.015709"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "970 now",
+        "ts": "1430951116.015710"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "or wait for 3XXX",
+        "ts": "1430951119.015711"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "!!",
+        "ts": "1430951120.015712"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "WAT DOOOO",
+        "ts": "1430951122.015713"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "get a 970 now",
+        "ts": "1430951130.015714"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1430951130.015715"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but shouldn't we try to buy",
+        "ts": "1430951134.015716"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ENVA",
+        "ts": "1430951135.015717"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so we know that if we make money",
+        "ts": "1430951139.015718"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats good",
+        "ts": "1430951140.015719"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if we lose",
+        "ts": "1430951141.015720"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its even worse for kevin :^)",
+        "ts": "1430951145.015721"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "x)))",
+        "ts": "1430951148.015722"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":^) nice",
+        "ts": "1430951181.015723"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "the",
+        "ts": "1430951181.015724"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "suffering hedge",
+        "ts": "1430951185.015725"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "this is an interesting article",
+        "ts": "1430951202.015726"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/citypaper.net\/uberdriver\/>",
+        "attachments": [
+            {
+                "title": "I was an undercover Uber driver",
+                "title_link": "http:\/\/citypaper.net\/uberdriver\/",
+                "text": "I drove a hundred rides for UberX to fact-check whether a middle-of-the-pack driver can make $90,000 a year. This is what I...",
+                "fallback": "I was an undercover Uber driver",
+                "thumb_url": "http:\/\/citypaper.net\/cmsAdmin\/uploads\/thumb2\/net_0111.jpg",
+                "from_url": "http:\/\/citypaper.net\/uberdriver\/",
+                "thumb_width": 300,
+                "thumb_height": 201,
+                "id": 1
+            }
+        ],
+        "ts": "1430951202.015727"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i just read all of this at work",
+        "ts": "1430951206.015729"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I need to recable my PC",
+        "ts": "1430951445.015730"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "]':",
+        "ts": "1430951446.015731"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "did you install your new case yet?",
+        "ts": "1430951452.015732"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "get a new case",
+        "ts": "1430951454.015733"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "with better cable management",
+        "ts": "1430951458.015734"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and yeah i did",
+        "ts": "1430951459.015735"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i have a pic i uploaded onto here",
+        "ts": "1430951463.015736"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or maybe not idk",
+        "ts": "1430951482.015737"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "my case is okay",
+        "ts": "1430951509.015738"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "i just got lazy with cable management zzz",
+        "ts": "1430951517.015739"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "NO",
+        "ts": "1430951539.015740"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "GET A NEW CASE",
+        "ts": "1430951540.015741"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "]':",
+        "ts": "1430951589.015742"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "fien",
+        "ts": "1430951589.015743"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "help me",
+        "ts": "1430951680.015744"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "build my comp",
+        "ts": "1430951682.015745"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "which one did you get again?",
+        "ts": "1430951683.015746"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "okay",
+        "ts": "1430951684.015747"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "build it now",
+        "ts": "1430951686.015748"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "in 5 months",
+        "ts": "1430951688.015749"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "pls",
+        "ts": "1430951688.015750"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we get you parts now",
+        "ts": "1430951689.015751"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nah",
+        "ts": "1430951691.015752"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "5 months too late",
+        "ts": "1430951693.015753"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1430951694.015754"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why",
+        "ts": "1430951695.015755"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you won't get your gta v",
+        "ts": "1430951698.015756"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "until like 5 months later anyway",
+        "ts": "1430951703.015757"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":^)",
+        "ts": "1430951706.015758"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i got this <http:\/\/www.nzxt.com\/product\/detail\/151-s340-mid-tower-atx-case.html>",
+        "attachments": [
+            {
+                "title": "S340 - NZXT",
+                "title_link": "http:\/\/www.nzxt.com\/product\/detail\/151-s340-mid-tower-atx-case.html",
+                "text": "Are you a gamer, enthusiast, or rookie builder looking to step your hardware game up? Buy an NZXT case, cooler, or PSU to improve your PC's look and performance.",
+                "fallback": "S340 - NZXT",
+                "from_url": "http:\/\/www.nzxt.com\/product\/detail\/151-s340-mid-tower-atx-case.html",
+                "id": 1
+            }
+        ],
+        "ts": "1430951718.015759"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and yeah, you're prob right kelvin :disappointed:",
+        "ts": "1430951727.015761"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "shit thats pretty sleek",
+        "ts": "1430951744.015762"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah, esp for a $70 case",
+        "ts": "1430951757.015763"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "damn",
+        "ts": "1430951758.015764"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it has pretty solid cable management, too",
+        "ts": "1430951766.015765"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "5 months isn't that bad of a time frame",
+        "ts": "1430951767.015766"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its like you're Josef K.",
+        "ts": "1430951774.015767"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "new 3XX cards should push prices down",
+        "ts": "1430951787.015768"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1430951811.015769"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but kelvin won't be able to play league",
+        "ts": "1430951816.015770"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "at 215 FPS",
+        "ts": "1430951819.015771"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1430951820.015772"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what?",
+        "ts": "1430951824.015773"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "can your computer run :league: at 215 FPS :O",
+        "ts": "1430951837.015774"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "???",
+        "ts": "1430951839.015775"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":oo:",
+        "ts": "1430951842.015776"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no i run",
+        "ts": "1430951846.015777"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "at 60 fps",
+        "ts": "1430951849.015778"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah, waiting 5 months to upgrade your FPS from 60 to 200+ is too long",
+        "ts": "1430951867.015779"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i run csgo at 90 fps tho",
+        "ts": "1430951868.015780"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^((^((^(^(^(",
+        "ts": "1430951869.015781"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i told myself",
+        "ts": "1430951880.015782"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "a while ago",
+        "ts": "1430951881.015783"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i'd wait until skylake",
+        "ts": "1430951883.015784"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "to build my own comp",
+        "ts": "1430951887.015785"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "or else i would've built it like",
+        "ts": "1430951892.015786"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yah, i'm aware of that :disappointed:",
+        "ts": "1430951894.015787"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "earlier",
+        "ts": "1430951895.015788"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "can't back down now",
+        "ts": "1430951898.015789"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "after being so close",
+        "ts": "1430951901.015790"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "lol",
+        "ts": "1430951904.015791"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "inb4 skylake gets delayed 1 year",
+        "ts": "1430951908.015792"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "almost there",
+        "ts": "1430951909.015793"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "inb4 Intel declares bankrupcy",
+        "ts": "1430951917.015794"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "and we all game on ARM chipz",
+        "ts": "1430951922.015795"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "inb4 you're stuck with a sempron",
+        "ts": "1430951927.015796"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/wccftech.com\/intel-confirms-skylake-launch-2h-2015-idf15-100series-chipsets-shipping-2015\/>",
+        "attachments": [
+            {
+                "service_name": "WCCFtech",
+                "title": "Intel Confirms Skylake Launch In 2H 2015 Around IDF15 - 100-Series Chipsets Shipping in May 2015",
+                "title_link": "http:\/\/wccftech.com\/intel-confirms-skylake-launch-2h-2015-idf15-100series-chipsets-shipping-2015\/",
+                "text": "Intel has once again confirmed that their next generation core processor family, codenamed \"Skylake\" will be launching during the second half of this year.",
+                "fallback": "WCCFtech: Intel Confirms Skylake Launch In 2H 2015 Around IDF15 - 100-Series Chipsets Shipping in May 2015",
+                "ts": 1428495407,
+                "from_url": "http:\/\/wccftech.com\/intel-confirms-skylake-launch-2h-2015-idf15-100series-chipsets-shipping-2015\/",
+                "thumb_url": "http:\/\/cdn4.wccftech.com\/wp-content\/uploads\/2013\/06\/Intel-Logo.png",
+                "thumb_width": 125,
+                "thumb_height": 125,
+                "id": 1
+            }
+        ],
+        "ts": "1430951979.015797"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "just get",
+        "ts": "1430951995.015799"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "kevin shu to proxy you a microcenter combo :^)",
+        "ts": "1430952006.015800"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "pls",
+        "ts": "1430952026.015801"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":lelstar:",
+        "ts": "1430952031.015802"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "or",
+        "ts": "1430952033.015803"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i buy it",
+        "ts": "1430952034.015804"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when i visit chicago in september!!!",
+        "ts": "1430952037.015805"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "!!!",
+        "ts": "1430952041.015806"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "best carryon",
+        "ts": "1430952045.015807"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "ever",
+        "ts": "1430952045.015808"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "haha, sure",
+        "ts": "1430952052.015809"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'll take you to microcenter np np np",
+        "ts": "1430952059.015810"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":^)",
+        "ts": "1430952100.015811"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "rip santa clara microcenter",
+        "ts": "1430952108.015812"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah apparently the delay is until",
+        "ts": "1430952142.015813"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "august",
+        "ts": "1430952144.015814"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "late august",
+        "ts": "1430952146.015815"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but we'll see",
+        "ts": "1430952148.015816"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if by sepetember\/october it hasn't released yet",
+        "ts": "1430952156.015817"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i might as well wait",
+        "ts": "1430952158.015818"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":((((",
+        "ts": "1430952160.015819"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe you should just get a PC now",
+        "ts": "1430952176.015820"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then get skylake later for a new PC",
+        "ts": "1430952182.015821"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then have 2 PCs",
+        "ts": "1430952184.015822"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1430952185.015823"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you can have one set up as an HTPC!!",
+        "ts": "1430952192.015824"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "!!!",
+        "ts": "1430952219.015825"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "make sure that when you get a PC",
+        "ts": "1430952229.015826"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you SLI Titan X's",
+        "ts": "1430952233.015827"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "hmm",
+        "ts": "1430952245.015828"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck, GKMC is so good",
+        "ts": "1430952255.015829"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "how much cheaper would the 3XX release make other cards",
+        "ts": "1430952256.015830"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "sieeet",
+        "ts": "1430952263.015831"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "prob not by too much :disappointed:",
+        "ts": "1430952264.015832"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/www.pcworld.com\/article\/2683392\/pc-confusion-to-linger-on-intels-quick-jump-to-skylake.html>",
+        "attachments": [
+            {
+                "service_name": "PCWorld",
+                "title": "Why buy Intel's Broadwell chip, with Skylake waiting in the wings? | PCWorld",
+                "title_link": "http:\/\/www.pcworld.com\/article\/2683392\/pc-confusion-to-linger-on-intels-quick-jump-to-skylake.html",
+                "text": "Intel sweeps its Broadwell microprocessors under the floor at IDF, and pushes Skylake as the next big thing. If you're going to buy a PC next year, maybe you should wait a bit.",
+                "fallback": "PCWorld: Why buy Intel's Broadwell chip, with Skylake waiting in the wings? | PCWorld",
+                "thumb_url": "http:\/\/images.techhive.com\/images\/article\/2014\/09\/kirk-skaugen-skylake-announce-100413374-orig.jpg",
+                "from_url": "http:\/\/www.pcworld.com\/article\/2683392\/pc-confusion-to-linger-on-intels-quick-jump-to-skylake.html",
+                "thumb_width": 4000,
+                "thumb_height": 3000,
+                "id": 1
+            }
+        ],
+        "ts": "1430952265.015833"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "my roommate got a vinyl for it",
+        "ts": "1430952272.015835"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "dank",
+        "ts": "1430952276.015836"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i should get one too :simple_smile:",
+        "ts": "1430952279.015837"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":simple_smile:",
+        "ts": "1430952283.015838"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "yea like right now",
+        "ts": "1430952285.015839"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "if i get a 970",
+        "ts": "1430952289.015840"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "good kid maad city?",
+        "ts": "1430952291.015841"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1430952294.015842"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I can sell witcher and arkham knight",
+        "ts": "1430952296.015843"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "GKMC best album",
+        "ts": "1430952298.015844"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i know something!",
+        "ts": "1430952300.015845"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "for a $260 dollar GTX 970",
+        "ts": "1430952305.015846"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "am i hood now",
+        "ts": "1430952308.015847"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "2014FHD is p good too",
+        "ts": "1430952313.015848"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "do you know that?",
+        "ts": "1430952314.015849"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "fuck i just used $ with dollar",
+        "ts": "1430952315.015850"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1430952316.015851"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "zz anyways",
+        "ts": "1430952318.015852"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "how much are you assuming you can sell those games for?",
+        "ts": "1430952333.015853"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "30 a piece",
+        "ts": "1430952338.015854"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "really? :O",
+        "ts": "1430952342.015855"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "yah",
+        "ts": "1430952344.015856"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I think it's possible",
+        "ts": "1430952347.015857"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "the DRM free version of W3 is 40",
+        "ts": "1430952352.015858"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "well w\/e i mean worst case you sell it for like 20",
+        "ts": "1430952355.015859"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "yea",
+        "ts": "1430952358.015860"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nbd",
+        "ts": "1430952360.015861"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "also",
+        "ts": "1430952362.015862"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "fucking amazon and newegg charge me sales tax",
+        "ts": "1430952369.015863"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "gg 30 bucks",
+        "ts": "1430952371.015864"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "rektAROOOONIE",
+        "ts": "1430952376.015865"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why dont you just play",
+        "ts": "1430952431.015866"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "those games?",
+        "ts": "1430952433.015867"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its only 60 bucks",
+        "ts": "1430952439.015868"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "idk mang",
+        "ts": "1430952445.015869"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I didn't enjoy the first Arkham one",
+        "ts": "1430952461.015870"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "being sneaky 2 hard",
+        "ts": "1430952464.015871"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wait",
+        "ts": "1430952514.015872"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you don't have to be sneaky doe",
+        "ts": "1430952517.015873"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you just rape face",
+        "ts": "1430952524.015874"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just go balls2thewall",
+        "ts": "1430952526.015875"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "by punching everyone",
+        "ts": "1430952528.015876"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ye",
+        "ts": "1430952530.015877"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "but gats hurt",
+        "ts": "1430952531.015878"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats how i played arkham asylum",
+        "ts": "1430952532.015879"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut",
+        "ts": "1430952536.015880"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "counter everyone",
+        "ts": "1430952539.015881"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ezpz game",
+        "ts": "1430952540.015882"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "YAML pls get good at video games",
+        "ts": "1430952541.015883"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1430952542.015884"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "no when they're far away they shoot you and you die",
+        "ts": "1430952607.015885"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wait how far are you talking",
+        "ts": "1430952621.015886"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because if you're in a combat scenario",
+        "ts": "1430952627.015887"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and you get your combo free flow going",
+        "ts": "1430952631.015888"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "batman goes ham and launches himself like 50 feet to go punch someone if you want",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1430952655.000000"
+        },
+        "ts": "1430952639.015889"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but if you're talking about getting sniped",
+        "ts": "1430952643.015890"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that's different",
+        "ts": "1430952645.015891"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah",
+        "ts": "1430952678.015893"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what kevin said",
+        "ts": "1430952679.015894"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "wait you can jump 50 feet",
+        "ts": "1430952983.015895"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "that's op",
+        "ts": "1430952984.015896"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "it never happened to me",
+        "ts": "1430952988.015897"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "like I'd punch a guy and alert the others",
+        "ts": "1430952999.015898"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "and they'd shoot me",
+        "ts": "1430953002.015899"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but it should all be in the",
+        "ts": "1430953008.015900"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "time stop",
+        "ts": "1430953012.015901"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "where you can combo right",
+        "ts": "1430953014.015902"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "is jason's conversion in Rankine?",
+        "ts": "1430953112.015903"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "yea",
+        "ts": "1430953170.015904"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I don't quite remember stopping time",
+        "ts": "1430953188.015905"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "slow mo yea",
+        "ts": "1430953190.015906"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "there's no stopping time",
+        "ts": "1430953195.015907"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and it's like kinda slowmo",
+        "ts": "1430953198.015908"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's just slowmo for your animation",
+        "ts": "1430953203.015909"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you can't really do anything during that slowmo",
+        "ts": "1430953207.015910"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "basically the AI doesn't really shoot you that frequently unless you straight up let them",
+        "ts": "1430953226.015911"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so you just gotta keep an eye on who has a gun",
+        "ts": "1430953232.015912"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and when they start aiming it at you",
+        "ts": "1430953238.015913"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "go hit them",
+        "ts": "1430953239.015914"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then they'll have to go through another like \"reaiming\" process",
+        "ts": "1430953246.015915"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "during which you can go hit other people",
+        "ts": "1430953251.015916"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or just KO the guy with the guy if you want",
+        "ts": "1430953255.015917"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or they drop the gun and then you can just ignore them for awhile until someone else picks up the gun",
+        "ts": "1430953278.015918"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "oh shiet",
+        "ts": "1430953284.015919"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "the combat was fun",
+        "ts": "1430953295.015920"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "but I got stuck on something",
+        "ts": "1430953300.015921"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "and never got back to playing it",
+        "ts": "1430953303.015922"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah i stopped for awhile",
+        "ts": "1430953418.015923"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and forgot all the controls",
+        "ts": "1430953421.015924"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1430953421.015925"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "did you watch that video",
+        "ts": "1430954573.015926"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "that i linked yesterday",
+        "ts": "1430954579.015927"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'll watch it when i get home",
+        "ts": "1430957067.015928"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "okay.jpg",
+        "ts": "1430957875.015929"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I'm reassembling my case and I'm so tempted to get a modular psu right now ",
+        "ts": "1430959662.015930"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the video is",
+        "ts": "1430960234.015931"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "okay.jpg",
+        "ts": "1430960236.015932"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":disappointed:",
+        "ts": "1430961402.015933"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but you can be daddy",
+        "ts": "1430961406.015934"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Why not get a Mac mini?",
+        "ts": "1430961521.015935"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Basically the best machine ever created",
+        "ts": "1430961532.015936"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no disrespect navdoop",
+        "ts": "1430961634.015937"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "fuck",
+        "ts": "1430964044.015938"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "finally done",
+        "ts": "1430964045.015939"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "<@U03UNR40S>: any chance of :league: 2nite?",
+        "ts": "1430965109.015940"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yah",
+        "ts": "1430965239.015941"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "prob not too l8 though pls :disappointed:",
+        "ts": "1430965246.015942"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "sry not up 2 me bby :disappointed:",
+        "ts": "1430965468.015943"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuuuu",
+        "ts": "1430967589.015944"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i just spent",
+        "ts": "1430967592.015945"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "2.5 hours getting smashed at work",
+        "ts": "1430967600.015946"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "lol vooby is from berkeley",
+        "ts": "1430968220.015947"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "and has a 2300",
+        "ts": "1430968223.015948"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "XD",
+        "ts": "1430968224.015949"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "fuck",
+        "ts": "1430968764.015950"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "i wasted 1 hr listening to how disney is racist so ppl can go to disneyland",
+        "ts": "1430968779.015951"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "???",
+        "ts": "1430968785.015952"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what?",
+        "ts": "1430968786.015953"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "and sexist",
+        "ts": "1430968793.015954"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "never work in education",
+        "ts": "1430968820.015955"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "too much red tape",
+        "ts": "1430968823.015956"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wtf",
+        "ts": "1430968869.015957"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im so confused",
+        "ts": "1430968871.015958"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "its like ppl were trying to take kids to disneyland",
+        "ts": "1430968884.015959"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh yah chris do you know where you're working yet",
+        "ts": "1430968889.015960"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "no",
+        "ts": "1430968894.015961"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "i'm working at starbucks probably",
+        "ts": "1430968901.015962"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1430968924.015963"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "grad school?",
+        "ts": "1430968928.015964"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "wait what",
+        "ts": "1430968928.015965"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "oh nevermind",
+        "ts": "1430968934.015966"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I see",
+        "ts": "1430968935.015967"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "no",
+        "ts": "1430968945.015968"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "kids as like",
+        "ts": "1430968950.015969"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "your freshmen?",
+        "ts": "1430968953.015970"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "i don't like anything enough to phd",
+        "ts": "1430968954.015971"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "well all the dorms at ucla",
+        "ts": "1430968962.015972"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "but for us to bring them and get money to make tickets cheaper they had to make it educational",
+        "ts": "1430968975.015973"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<@U03UNR40S>: !!!",
+        "ts": "1430969015.015974"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "&gt;Skylake's release to market is expected to take place at the Intel Developer Forum (IDF) on 15 August 2015,[1] unusually soon after Broadwell's. While industry observers initially believed that the issues[7] impacting Broadwell would also affect Skylake, newer information suggests that Intel will be seeking to recover by maintaining the traditional \"tick-tock\" cadence for Skylake and shortening Broadwell's release cycle instead.",
+        "ts": "1430969017.015975"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "oh",
+        "ts": "1430969039.015976"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "wait so who's teaching the event?",
+        "ts": "1430969048.015977"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "other RAs?",
+        "ts": "1430969050.015978"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "theres a bunch",
+        "ts": "1430969053.015979"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "and yeah",
+        "ts": "1430969054.015980"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "the one i was sitting in was by a professor that we work with",
+        "ts": "1430969069.015981"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "but idk",
+        "ts": "1430969110.015982"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "joblife too hard",
+        "ts": "1430969112.015983"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "i don't have the education",
+        "ts": "1430969122.015984"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "just be a tutor",
+        "ts": "1430969222.015985"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "in la",
+        "ts": "1430969230.015986"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "with all the rich people",
+        "ts": "1430969232.015987"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you'll make more bank than we do",
+        "ts": "1430969236.015988"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "wait did you go today?",
+        "ts": "1430969253.015989"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "go where?",
+        "ts": "1430969378.015990"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "and yeah maybe",
+        "ts": "1430969381.015991"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "if i don't fail this next report",
+        "ts": "1430969401.015992"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "its due tomorrow at 6 and no one has sent me any completed sections",
+        "ts": "1430969416.015993"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "when'd you go to disneyland?",
+        "ts": "1430969529.015994"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "can't they just assign a random 100 word essay about why they like disneyland",
+        "ts": "1430969545.015995"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "that's educational",
+        "ts": "1430969547.015996"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "gotta research",
+        "ts": "1430969549.015997"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "oh they are going saturday",
+        "ts": "1430970120.015998"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "i'm not going",
+        "ts": "1430970121.015999"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "because i didn't like the ppl who are going",
+        "ts": "1430970131.016000"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why",
+        "ts": "1430970598.016001"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its a free trip isn't it",
+        "ts": "1430970603.016002"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "it isn't",
+        "ts": "1430970927.016003"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "you just pay less",
+        "ts": "1430970929.016004"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "and its super long",
+        "ts": "1430970935.016005"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "like you show up when it opens and leaves when the park closes",
+        "ts": "1430970942.016006"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "i went before",
+        "ts": "1430970944.016007"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "but its just too tiring",
+        "ts": "1430970947.016008"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1430971017.016009"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuck dat",
+        "ts": "1430971018.016010"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if no one is chill",
+        "ts": "1430971021.016011"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "yeah",
+        "ts": "1430971055.016012"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "idk",
+        "ts": "1430971082.016013"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "disneyland imo isn't all that fun",
+        "ts": "1430971088.016014"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "the rides are all pretty boring",
+        "ts": "1430971099.016015"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "and too many strollers",
+        "ts": "1430971103.016016"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "No CA adventure?",
+        "ts": "1430971445.016017"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "They sell alcohol there!",
+        "ts": "1430971458.016018"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "yeah",
+        "ts": "1430972731.016019"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "i would have to go there next time",
+        "ts": "1430972735.016020"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "sheeeet",
+        "ts": "1430972736.016021"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "what do they sell",
+        "ts": "1430972738.016022"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "They have a few bars",
+        "ts": "1430972827.016023"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "damn",
+        "ts": "1430972878.016024"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "jason why are you using Rankine",
+        "ts": "1430972898.016025"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "i didn't know cs majors took thermo",
+        "ts": "1430972911.016026"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "We were both cheme for a while man",
+        "ts": "1430973983.016027"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "oh lol",
+        "ts": "1430974262.016028"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "i forget",
+        "ts": "1430974267.016029"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "rankine is a piece of shit unit",
+        "ts": "1430974275.016030"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "what does dankbot do",
+        "ts": "1430978587.016031"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nothing lol",
+        "ts": "1430978595.016032"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "didn't get around to making it do much",
+        "ts": "1430978600.016033"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "cole",
+        "ts": "1430978614.016034"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "you gotta step up your game",
+        "ts": "1430978619.016035"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Can't it do",
+        "ts": "1430978682.016036"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Dankbot pug bomb 10",
+        "ts": "1430978690.016037"
+    },
+    {
+        "type": "message",
+        "user": "U046YFKJY",
+        "text": "<http:\/\/25.media.tumblr.com\/tumblr_mco9nsT0kM1qhk3dno1_500.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/25.media.tumblr.com\/tumblr_mco9nsT0kM1qhk3dno1_500.jpg",
+                "fallback": "500x500px image",
+                "image_url": "http:\/\/25.media.tumblr.com\/tumblr_mco9nsT0kM1qhk3dno1_500.jpg",
+                "image_width": 500,
+                "image_height": 500,
+                "image_bytes": 53208,
+                "id": 1
+            }
+        ],
+        "ts": "1430978690.016038"
+    },
+    {
+        "type": "message",
+        "user": "U046YFKJY",
+        "text": "<http:\/\/24.media.tumblr.com\/tumblr_maxm4ecVNq1qjmqavo1_500.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/24.media.tumblr.com\/tumblr_maxm4ecVNq1qjmqavo1_500.jpg",
+                "fallback": "500x225px image",
+                "image_url": "http:\/\/24.media.tumblr.com\/tumblr_maxm4ecVNq1qjmqavo1_500.jpg",
+                "image_width": 500,
+                "image_height": 225,
+                "image_bytes": 45411,
+                "id": 1
+            }
+        ],
+        "ts": "1430978690.016039"
+    },
+    {
+        "type": "message",
+        "user": "U046YFKJY",
+        "text": "<http:\/\/25.media.tumblr.com\/tumblr_ljvqe7tzo21qa9raco1_500.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/25.media.tumblr.com\/tumblr_ljvqe7tzo21qa9raco1_500.jpg",
+                "fallback": "500x375px image",
+                "image_url": "http:\/\/25.media.tumblr.com\/tumblr_ljvqe7tzo21qa9raco1_500.jpg",
+                "image_width": 500,
+                "image_height": 375,
+                "image_bytes": 36662,
+                "id": 1
+            }
+        ],
+        "ts": "1430978690.016040"
+    },
+    {
+        "type": "message",
+        "user": "U046YFKJY",
+        "text": "<http:\/\/24.media.tumblr.com\/tumblr_lhowz2fAnC1qaa50yo1_500.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/24.media.tumblr.com\/tumblr_lhowz2fAnC1qaa50yo1_500.jpg",
+                "fallback": "500x376px image",
+                "image_url": "http:\/\/24.media.tumblr.com\/tumblr_lhowz2fAnC1qaa50yo1_500.jpg",
+                "image_width": 500,
+                "image_height": 376,
+                "image_bytes": 45946,
+                "id": 1
+            }
+        ],
+        "ts": "1430978690.016041"
+    },
+    {
+        "type": "message",
+        "user": "U046YFKJY",
+        "text": "<http:\/\/30.media.tumblr.com\/tumblr_lqexmferHa1qg02ino1_500.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/30.media.tumblr.com\/tumblr_lqexmferHa1qg02ino1_500.jpg",
+                "fallback": "500x334px image",
+                "image_url": "http:\/\/30.media.tumblr.com\/tumblr_lqexmferHa1qg02ino1_500.jpg",
+                "image_width": 500,
+                "image_height": 334,
+                "image_bytes": 106206,
+                "id": 1
+            }
+        ],
+        "ts": "1430978690.016042"
+    },
+    {
+        "type": "message",
+        "user": "U046YFKJY",
+        "text": "<http:\/\/24.media.tumblr.com\/tumblr_ljdxbwpZrJ1qexc8jo1_500.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/24.media.tumblr.com\/tumblr_ljdxbwpZrJ1qexc8jo1_500.jpg",
+                "fallback": "500x333px image",
+                "image_url": "http:\/\/24.media.tumblr.com\/tumblr_ljdxbwpZrJ1qexc8jo1_500.jpg",
+                "image_width": 500,
+                "image_height": 333,
+                "image_bytes": 66482,
+                "id": 1
+            }
+        ],
+        "ts": "1430978690.016043"
+    },
+    {
+        "type": "message",
+        "user": "U046YFKJY",
+        "text": "<http:\/\/29.media.tumblr.com\/tumblr_lixd8gn85W1qa1nfco1_500.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/29.media.tumblr.com\/tumblr_lixd8gn85W1qa1nfco1_500.jpg",
+                "fallback": "500x333px image",
+                "image_url": "http:\/\/29.media.tumblr.com\/tumblr_lixd8gn85W1qa1nfco1_500.jpg",
+                "image_width": 500,
+                "image_height": 333,
+                "image_bytes": 51261,
+                "id": 1
+            }
+        ],
+        "ts": "1430978690.016044"
+    },
+    {
+        "type": "message",
+        "user": "U046YFKJY",
+        "text": "<http:\/\/26.media.tumblr.com\/tumblr_liac42T0pN1qzj3syo1_400.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/26.media.tumblr.com\/tumblr_liac42T0pN1qzj3syo1_400.jpg",
+                "fallback": "375x500px image",
+                "image_url": "http:\/\/26.media.tumblr.com\/tumblr_liac42T0pN1qzj3syo1_400.jpg",
+                "image_width": 375,
+                "image_height": 500,
+                "image_bytes": 96449,
+                "id": 1
+            }
+        ],
+        "ts": "1430978690.016045"
+    },
+    {
+        "type": "message",
+        "user": "U046YFKJY",
+        "text": "<http:\/\/26.media.tumblr.com\/tumblr_ltu635i89f1qjt6klo1_500.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/26.media.tumblr.com\/tumblr_ltu635i89f1qjt6klo1_500.png",
+                "fallback": "500x667px image",
+                "image_url": "http:\/\/26.media.tumblr.com\/tumblr_ltu635i89f1qjt6klo1_500.png",
+                "image_width": 500,
+                "image_height": 667,
+                "image_bytes": 445373,
+                "id": 1
+            }
+        ],
+        "ts": "1430978690.016046"
+    },
+    {
+        "type": "message",
+        "user": "U046YFKJY",
+        "text": "<http:\/\/27.media.tumblr.com\/tumblr_liiy8xlcFx1qbeocxo1_500.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/27.media.tumblr.com\/tumblr_liiy8xlcFx1qbeocxo1_500.jpg",
+                "fallback": "500x374px image",
+                "image_url": "http:\/\/27.media.tumblr.com\/tumblr_liiy8xlcFx1qbeocxo1_500.jpg",
+                "image_width": 500,
+                "image_height": 374,
+                "image_bytes": 116711,
+                "id": 1
+            }
+        ],
+        "ts": "1430978690.016047"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":^)",
+        "ts": "1430978699.016058"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel",
+        "ts": "1430978708.016059"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i guess it does the default stuff",
+        "ts": "1430978713.016060"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but nothing particularly dank",
+        "ts": "1430978719.016061"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Why don't you guys pug bomb me",
+        "ts": "1430978721.016062"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "When we have nsfw stuff ",
+        "ts": "1430978728.016063"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "sheeet",
+        "ts": "1430978732.016064"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "okay next time babe",
+        "ts": "1430978736.016065"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Easier than giphying shit",
+        "ts": "1430978741.016066"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Are we playing today",
+        "ts": "1430978753.016067"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I just got home",
+        "ts": "1430978755.016068"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "??????????",
+        "ts": "1430978820.016069"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "what other bombs does it do",
+        "ts": "1430978827.016070"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "Dankbot",
+        "ts": "1430978838.016071"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "<http:\/\/agar.io\/>",
+        "attachments": [
+            {
+                "text": "Eat cells smaller than you and don't get eaten by the bigger ones, as an MMO",
+                "fallback": "Eat cells smaller than you and don't get eaten by the bigger ones, as an MMO",
+                "from_url": "http:\/\/agar.io\/",
+                "id": 1
+            }
+        ],
+        "ts": "1430980004.016072"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "holy fuck",
+        "ts": "1430980182.016074"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im getting rekt",
+        "ts": "1430980184.016075"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "we're playing with watson tim and tom",
+        "ts": "1430980191.016076"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "watson's #4ish",
+        "ts": "1430980196.016077"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "ItsNotTimE",
+        "ts": "1430980204.016078"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i got to 1345",
+        "ts": "1430980894.016079"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":((",
+        "ts": "1430980896.016080"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "]]:",
+        "ts": "1430980905.016081"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I'm on us west",
+        "ts": "1430980928.016082"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "What server were you on ",
+        "ts": "1430980933.016083"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "The largest was antidote I think ",
+        "ts": "1430980939.016084"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I was sixth on us west for a while ",
+        "ts": "1430980949.016085"
+    }
+]

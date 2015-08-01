@@ -1,0 +1,196 @@
+[
+    {
+        "id": "C085PL5RQ",
+        "name": "development",
+        "created": "1437811787",
+        "creator": "U03UNR40S",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U03UNR40S",
+            "U045MBFTN",
+            "U045MBNTQ",
+            "U045MFQ3C",
+            "U046AEEDH",
+            "U046PCGDV"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "dyelfitness",
+            "creator": "U03UNR40S",
+            "last_set": "1437811787"
+        }
+    },
+    {
+        "id": "C051Z7Q2J",
+        "name": "enemyterritory",
+        "created": "1432697357",
+        "creator": "U03UNR40S",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U03UNR40S",
+            "U045MBFTN",
+            "U045MBNTQ",
+            "U045MBQBN",
+            "U045MFQ3C",
+            "U045T05DE",
+            "U046AEEDH",
+            "U046PCGDV",
+            "U046T9LSZ",
+            "U046YFKJY",
+            "U04NBCC1U"
+        ],
+        "topic": {
+            "value": "GO FUCKING DOWNLOAD: http:\/\/www.etlegacy.com\/",
+            "creator": "U03UNR40S",
+            "last_set": "1432873493"
+        },
+        "purpose": {
+            "value": "best shooter world",
+            "creator": "U03UNR40S",
+            "last_set": "1432697357"
+        }
+    },
+    {
+        "id": "C03UNR412",
+        "name": "general",
+        "created": "1425881698",
+        "creator": "U03UNR40S",
+        "is_archived": false,
+        "is_general": true,
+        "members": [
+            "U03UNR40S",
+            "U045MBFTN",
+            "U045MBNTQ",
+            "U045MBQBN",
+            "U045MFQ3C",
+            "U045T05DE",
+            "U04642Y4L",
+            "U046AEEDH",
+            "U046ALSRT",
+            "U046PCGDV",
+            "U046T9LSZ",
+            "U046YFKJY",
+            "U04NBCC1U",
+            "U061MFHDL",
+            "U06GZ9BRT"
+        ],
+        "pins": [
+            {
+                "id": "1429592165.006783",
+                "type": "C",
+                "user": "U03UNR40S",
+                "owner": "U045MBNTQ",
+                "created": "1429592706"
+            },
+            {
+                "id": "1436459543.015927",
+                "type": "C",
+                "user": "U06GZ9BRT",
+                "owner": "U046AEEDH",
+                "created": "1436463074"
+            }
+        ],
+        "topic": {
+            "value": "\u00af\\_(\u30c4)_\/\u00af",
+            "creator": "U03UNR40S",
+            "last_set": "1430252046"
+        },
+        "purpose": {
+            "value": "dank memers unite",
+            "creator": "U045MBNTQ",
+            "last_set": "1427439997"
+        }
+    },
+    {
+        "id": "C046RDS8R",
+        "name": "league",
+        "created": "1427500830",
+        "creator": "U03UNR40S",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U03UNR40S",
+            "U045MBFTN",
+            "U045MBNTQ",
+            "U045MBQBN",
+            "U045MFQ3C",
+            "U04642Y4L",
+            "U046AEEDH",
+            "U046PCGDV",
+            "U046T9LSZ",
+            "U04NBCC1U"
+        ],
+        "topic": {
+            "value": "YOUR TEAM AGREED TO A SURRENDER WITH 5 VOTES FOR AND 0 AGAINST!",
+            "creator": "U03UNR40S",
+            "last_set": "1427500877"
+        },
+        "purpose": {
+            "value": "\/ff @ 20",
+            "creator": "U03UNR40S",
+            "last_set": "1427500830"
+        }
+    },
+    {
+        "id": "C052LSZR9",
+        "name": "minecraft",
+        "created": "1432697319",
+        "creator": "U03UNR40S",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U03UNR40S",
+            "U045MBNTQ",
+            "U045MFQ3C",
+            "U046AEEDH"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "autism",
+            "creator": "U03UNR40S",
+            "last_set": "1432697319"
+        }
+    },
+    {
+        "id": "C03UNR414",
+        "name": "random",
+        "created": "1425881698",
+        "creator": "U03UNR40S",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U03UNR40S",
+            "U045MBFTN",
+            "U045MBNTQ",
+            "U045MBQBN",
+            "U045MFQ3C",
+            "U045T05DE",
+            "U04642Y4L",
+            "U046AEEDH",
+            "U046PCGDV",
+            "U046T9LSZ",
+            "U04NBCC1U",
+            "U06GZ9BRT"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "A place for non-work banter, links, articles of interest, humor or anything else which you'd like concentrated in some place other than work-related channels.",
+            "creator": "",
+            "last_set": "0"
+        }
+    }
+]

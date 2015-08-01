@@ -1,0 +1,578 @@
+[
+    {
+        "text": "added an integration to this channel: <https:\/\/599usd.slack.com\/services\/B0886DUUX|Trello>",
+        "bot_id": "B0M",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U03UNR40S",
+        "ts": "1438045092.000057"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1438045311.000058"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so cool",
+        "ts": "1438045312.000059"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1438045318.000060"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is this happening?",
+        "ts": "1438045360.000061"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "for real",
+        "ts": "1438045361.000062"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whos the designer",
+        "ts": "1438045362.000063"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no one :disappointed:",
+        "ts": "1438045374.000064"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so its u",
+        "ts": "1438045497.000065"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i guess",
+        "ts": "1438045503.000066"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i try my best bby",
+        "ts": "1438045505.000067"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":heart:",
+        "ts": "1438045507.000068"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yee",
+        "ts": "1438045543.000069"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "okay",
+        "ts": "1438045544.000070"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lets do this",
+        "ts": "1438045545.000071"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lolol",
+        "ts": "1438047686.000072"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i just ran a drop table",
+        "ts": "1438047689.000073"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "in prod",
+        "ts": "1438047690.000074"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":simple_smile:",
+        "ts": "1438047691.000075"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "are you proud of me <@U03UNR40S>",
+        "ts": "1438047696.000076"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn",
+        "ts": "1438047697.000077"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "only if it was",
+        "ts": "1438047707.000078"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "DROP TABLE user",
+        "ts": "1438047710.000079"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1438047712.000080"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "nope",
+        "ts": "1438047724.000081"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1438047727.000082"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "shame",
+        "ts": "1438047728.000083"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "```\ndrop table censored;\nQuery OK, 0 rows affected (0.01 sec)\n```",
+        "ts": "1438047741.000084"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":simple_smile:",
+        "ts": "1438047743.000085"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "obviously censored",
+        "ts": "1438047774.000086"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is something i typed in",
+        "ts": "1438047776.000087"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "couldn't let you see these company secrets",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1438047791.000000"
+        },
+        "ts": "1438047787.000088"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn",
+        "ts": "1438047800.000090"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "pls tell me more about your model",
+        "ts": "1438047803.000091"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'll share some secret table names w\/ u too",
+        "ts": "1438047808.000092"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i just dropped it",
+        "ts": "1438047810.000093"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like Loan",
+        "ts": "1438047813.000094"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn",
+        "ts": "1438047815.000095"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what a big secret i let out",
+        "ts": "1438047818.000096"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "okay i'll let you in one too",
+        "ts": "1438047827.000097"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Companies",
+        "ts": "1438047828.000098"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "btw",
+        "ts": "1438047830.000099"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn",
+        "ts": "1438047832.000100"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "shouldn't it be",
+        "ts": "1438047832.000101"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "LoanApplication",
+        "ts": "1438047834.000102"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "plural?",
+        "ts": "1438047835.000103"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "s",
+        "ts": "1438047836.000104"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Loans",
+        "ts": "1438047837.000105"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "LoanApplications",
+        "ts": "1438047840.000106"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "isn't that how",
+        "ts": "1438047845.000107"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i mean i guess the table name is loans",
+        "ts": "1438047847.000108"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "database table works?",
+        "ts": "1438047848.000109"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but in rails it's Loan",
+        "ts": "1438047849.000110"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yah",
+        "ts": "1438047850.000111"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no",
+        "ts": "1438047852.000112"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "the model is Loan",
+        "ts": "1438047853.000113"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "stupid",
+        "ts": "1438047855.000114"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":simple_smile:",
+        "ts": "1438047858.000115"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck",
+        "ts": "1438047858.000116"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm too tired right now :disappointed:",
+        "ts": "1438047862.000117"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you need to learn more rails",
+        "ts": "1438047863.000118"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "jk",
+        "ts": "1438047866.000119"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i can do all the rails",
+        "ts": "1438047869.000120"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "for our product",
+        "ts": "1438047872.000121"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ";^)",
+        "ts": "1438047874.000122"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is it gonna be named 599usd",
+        "ts": "1438047876.000123"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":wink:",
+        "ts": "1438047876.000124"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "because the pot is always 599 usd?",
+        "ts": "1438047881.000125"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lmao what an aptly named product",
+        "ts": "1438047885.000126"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and if they put in extra money",
+        "ts": "1438047896.000127"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we take it? :wink:",
+        "ts": "1438047897.000128"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats our",
+        "ts": "1438047901.000129"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "business plan",
+        "ts": "1438047906.000130"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lelelel",
+        "ts": "1438047907.000131"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn dude, how would a business like this even operate?",
+        "ts": "1438047921.000132"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "would it be like",
+        "ts": "1438047923.000133"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we take all the money",
+        "ts": "1438047926.000134"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then pay out?",
+        "ts": "1438047928.000135"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "uh",
+        "ts": "1438047937.000136"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or do we just facilitate who pays who",
+        "ts": "1438047940.000137"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i think all we should do",
+        "ts": "1438047942.000138"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is facilitate who pays who",
+        "ts": "1438047945.000139"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and we take",
+        "ts": "1438047949.000140"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "a % cut",
+        "ts": "1438047951.000141"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like .5 %",
+        "ts": "1438047953.000142"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "from the person who gets the money",
+        "ts": "1438047958.000143"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":simple_smile:",
+        "ts": "1438047960.000144"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i mean we're gonna be the only ones who use it anyways :^)",
+        "ts": "1438047966.000145"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so we take money",
+        "ts": "1438047973.000146"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "from our friends",
+        "ts": "1438047975.000147"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ez plan",
+        "ts": "1438047975.000148"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "!!!",
+        "ts": "1438047977.000149"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you should put this on your resume",
+        "ts": "1438047983.000150"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<@U046AEEDH>: can't avoid the scamz",
+        "ts": "1438047987.000151"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":^)",
+        "ts": "1438047989.000152"
+    }
+]

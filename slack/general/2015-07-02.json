@@ -1,0 +1,708 @@
+[
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "damn the rain's going ham",
+        "ts": "1435822192.014083"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<@U046AEEDH>: i just beat stick of truth!",
+        "ts": "1435825660.014084"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "niiiiiiiiice",
+        "ts": "1435842005.014085"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "how easy were the final battles?",
+        "ts": "1435842013.014086"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I thought they were p ez",
+        "ts": "1435842017.014087"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Fuck that concert was awesome",
+        "ts": "1435848838.014088"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "On my way to the city now navidoop ;))",
+        "ts": "1435848850.014089"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'll see you around 5 then probs. Minjae should be in the apartment, he took pto",
+        "ts": "1435848956.014090"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Nice",
+        "ts": "1435850196.014091"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Shil, will you be at home at 5?",
+        "ts": "1435856837.014092"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yah it was pretty easy",
+        "ts": "1435858593.014093"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i had so many potion stocked up",
+        "ts": "1435858596.014094"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so it wasn't a problem",
+        "ts": "1435858604.014095"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Yeh",
+        "ts": "1435866627.014096"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "nice",
+        "ts": "1435867199.014097"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I just encountered the most jank typecast",
+        "ts": "1435867215.014098"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "casting one objected into a completely unrelated object",
+        "ts": "1435867226.014099"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "mfw it originally somehow worked",
+        "ts": "1435867235.014100"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "\/giphy mindblown",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/youre-welcome-gracie-films-king-of-wishful-thinking-tEVbjgeNRCk4U>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/tEVbjgeNRCk4U\/giphy.gif",
+                "image_width": 240,
+                "image_height": 180,
+                "image_bytes": 554390,
+                "title": "mindblown",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/youre-welcome-gracie-films-king-of-wishful-thinking-tEVbjgeNRCk4U"
+            }
+        ],
+        "ts": "1435867263.014105"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what language",
+        "ts": "1435867638.014106"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Java, but I asked someone and it turns out that there were some package issues that made it import the wrong class, causing the typecast to fail for me but work for other people",
+        "ts": "1435867752.014107"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel",
+        "ts": "1435867800.014108"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how does that even happen",
+        "ts": "1435867804.014109"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "dank brogramming right there",
+        "ts": "1435867820.014110"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn its really quiet",
+        "ts": "1435868078.014111"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is everyone on vacation for the 4th :((((",
+        "ts": "1435868084.014112"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuuuuu",
+        "ts": "1435868086.014113"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im not going to la anymore. a driver dropped out",
+        "ts": "1435868094.014114"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "damn that sucks",
+        "ts": "1435868747.014115"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and I've seen some dank things in this codebase",
+        "ts": "1435868760.014116"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "not like retarded dank",
+        "ts": "1435868764.014117"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "more like that's a fuckload of business logic in a very small area dank",
+        "ts": "1435868775.014118"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol damn",
+        "ts": "1435868939.014119"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuckin business logic",
+        "ts": "1435868941.014120"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we've got tons of that too",
+        "ts": "1435868944.014121"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I just ran into a long -&gt; Integer typeclass issue in a sublibrary I'm using",
+        "ts": "1435869123.014122"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "doing a funky workaround until my manager gets back on Monday and can fix it",
+        "ts": "1435869136.014123"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why dont you just fix it :disappointed:",
+        "ts": "1435869163.014124"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "don't have permission to push to origin master",
+        "ts": "1435869327.014125"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "get someone else to approve your PR",
+        "ts": "1435869338.014126"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":simple_smile:",
+        "ts": "1435869338.014127"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but actually",
+        "ts": "1435869342.014128"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you don't?",
+        "ts": "1435869343.014129"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "no",
+        "ts": "1435869348.014130"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn that sucks :cry:",
+        "ts": "1435869351.014131"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i can push to master as long as its a ff commit",
+        "ts": "1435869362.014132"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's gotta be code reviewed in a staging area",
+        "ts": "1435869363.014133"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its highly frowned upon",
+        "ts": "1435869370.014134"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and then it gets pushed into master by teh projects owner",
+        "ts": "1435869372.014135"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but ive done it before",
+        "ts": "1435869374.014136"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when the owners are already off for the day",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1435869403.000000"
+        },
+        "ts": "1435869382.014137"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so i just message them on slack and get an okay through chat hahaha",
+        "ts": "1435869391.014138"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "must be why we're still a start up",
+        "ts": "1435869432.014140"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "nice the song of the day is some EDM",
+        "ts": "1435869492.014141"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "p much lel",
+        "ts": "1435869513.014142"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "CTC is 20 years old",
+        "ts": "1435869517.014143"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we're 5 years old now!",
+        "ts": "1435869750.014144"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whatcha doing for july 4th novi",
+        "ts": "1435869795.014145"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "idk yet lel",
+        "ts": "1435869802.014146"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "might go home to the burbs",
+        "ts": "1435869807.014147"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "since I need to buy some stuff from around there anyways",
+        "ts": "1435869821.014148"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1435869822.014149"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "too cool",
+        "ts": "1435869828.014150"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm drinking tonight and tomorrow doe",
+        "ts": "1435869831.014151"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i dont have anything planned :disappointed:",
+        "ts": "1435869837.014152"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "although there are two bbqs happening for the actual july 4th",
+        "ts": "1435869851.014153"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "one in palo alto, and one in sf at the same time :confused:",
+        "ts": "1435869858.014154"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pick one and go with some frands?",
+        "ts": "1435869882.014155"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh they're both hosted by friends",
+        "ts": "1435869912.014156"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "one's a coworker",
+        "ts": "1435869920.014157"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "other one is a friend of a college friend",
+        "ts": "1435869925.014158"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pick whichever one will have more chikoritas",
+        "ts": "1435869948.014159"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that way you can unload your balls",
+        "ts": "1435869960.014160"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel",
+        "ts": "1435870087.014161"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel just troll the invite lists?",
+        "ts": "1435870115.014162"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "both have fb events",
+        "ts": "1435870121.014163"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "just go and get shitfaced like a true american",
+        "ts": "1435870225.014164"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "flip a coin and whichever place you end up going to take your shirt off and scream 'murica",
+        "ts": "1435870245.014165"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hahaha",
+        "ts": "1435870318.014166"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "never done that before in my life",
+        "ts": "1435870321.014167"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im afraid of getting shitfaced man",
+        "ts": "1435870333.014168"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whenever i black out bad things happen",
+        "ts": "1435870337.014169"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Come home novi",
+        "ts": "1435870625.014170"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hes a workin man",
+        "ts": "1435870743.014171"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gotta provide for you bitches at home",
+        "ts": "1435870748.014172"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm coming home in a bit",
+        "ts": "1435870756.014173"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "just wanna run some last tests",
+        "ts": "1435870769.014174"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "also Kelvin is right, booze and blow ain't free ya hear",
+        "ts": "1435870796.014175"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Omw home",
+        "ts": "1435871404.014176"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1435871488.014177"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Niiiice",
+        "ts": "1435871999.014178"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuck",
+        "ts": "1435872742.014179"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i need to either eat dairy everyday",
+        "ts": "1435872745.014180"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "or just cut it out of my diet",
+        "ts": "1435872750.014181"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i ate yogurt this morning",
+        "ts": "1435872754.014182"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and went to the bathroom 3 times already",
+        "ts": "1435872757.014183"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "rekt",
+        "ts": "1435874126.014184"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "You asians and your lactose intolerance",
+        "ts": "1435874194.014185"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":disappointed:",
+        "ts": "1435877083.014186"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what do i do",
+        "ts": "1435877085.014187"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "should i just make sure i drink",
+        "ts": "1435877088.014188"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "milk everyday",
+        "ts": "1435877089.014189"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "deal with it",
+        "ts": "1435877095.014190"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "for a couple of days",
+        "ts": "1435877098.014191"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "deal with shits that would make randy marsh proud",
+        "ts": "1435877118.014192"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Yes",
+        "ts": "1435878570.014193"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Be a man",
+        "ts": "1435878572.014194"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Just gotta repopulate dat bacteria",
+        "ts": "1435878852.014195"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuuuu",
+        "ts": "1435882378.014196"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1435891989.014197"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what should i do now",
+        "ts": "1435891991.014198"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "idk",
+        "ts": "1435893872.014199"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "eat more yoghurt?",
+        "ts": "1435893875.014200"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "What food spots are open really late in Chicago?",
+        "ts": "1435903919.014201"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when do bars close in chicago?",
+        "ts": "1435904336.014202"
+    }
+]

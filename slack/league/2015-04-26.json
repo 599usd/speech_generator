@@ -1,0 +1,64 @@
+[
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xDDDD",
+        "ts": "1430103518.000002"
+    },
+    {
+        "user": "U046AEEDH",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046AEEDH|vallejo314> has joined the channel",
+        "ts": "1430103562.000005"
+    },
+    {
+        "user": "U045MFQ3C",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MFQ3C|tlaister> has joined the channel",
+        "ts": "1430103562.000006"
+    },
+    {
+        "user": "U046T9LSZ",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046T9LSZ|numba1> has joined the channel",
+        "ts": "1430103562.000007"
+    },
+    {
+        "user": "U046PCGDV",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046PCGDV|weirdodunno> has joined the channel",
+        "ts": "1430103562.000008"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<!channel> league",
+        "ts": "1430103568.000009"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "league",
+        "ts": "1430103779.000010"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "need some time doe",
+        "ts": "1430103783.000011"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "lemme know when 5",
+        "ts": "1430103789.000012"
+    }
+]

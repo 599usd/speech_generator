@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i can play now <@U046PCGDV>",
+        "ts": "1437811660.000199"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what everyone up to",
+        "ts": "1437811694.000200"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "<!channel>: team?",
+        "ts": "1437875767.000201"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "can we win a game today",
+        "ts": "1437875771.000202"
+    }
+]

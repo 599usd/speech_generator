@@ -1,0 +1,440 @@
+[
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "mfw I'm at the bars, some chick is talking with me for a while, and then starts getting all sad and all hope of sleeping with her is out the window due to some rapidly emerging unfortunate circumstances",
+        "ts": "1431885782.004250"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<http:\/\/puu.sh\/hQNlN\/9446901fbf.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/hQNlN\/9446901fbf.jpg",
+                "fallback": "618x474px image",
+                "image_url": "http:\/\/puu.sh\/hQNlN\/9446901fbf.jpg",
+                "image_width": 618,
+                "image_height": 474,
+                "image_bytes": 60167,
+                "id": 1
+            }
+        ],
+        "ts": "1431885782.004251"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "mfw I ditch her and go get another pitcher",
+        "ts": "1431885808.004253"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "\/giphy idgaf",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media4.giphy.com\/media\/b7aiLmAioCZck\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/idgaf-julius-everybody-hates-chris-b7aiLmAioCZck>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/b7aiLmAioCZck\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 926473,
+                "title": "idgaf",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/idgaf-julius-everybody-hates-chris-b7aiLmAioCZck"
+            }
+        ],
+        "ts": "1431885827.004256"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Sadlife",
+        "ts": "1431893388.004257"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i was in berkeley yesterday jason",
+        "ts": "1431898523.004258"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":((",
+        "ts": "1431898525.004259"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "could've drank",
+        "ts": "1431898528.004260"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "actually",
+        "ts": "1431898588.004261"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im still here",
+        "ts": "1431898589.004262"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i went to tupper and reed",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1431898596.000000"
+        },
+        "ts": "1431898593.004263"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "lel",
+        "ts": "1431898629.004265"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "we were thinking about going to tupper and reed",
+        "ts": "1431898634.004266"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "went to",
+        "ts": "1431898639.004267"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "kona lounge -&gt; porno palace instead",
+        "ts": "1431898645.004268"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ohh",
+        "ts": "1431900483.004269"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1431900488.004270"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "nice",
+        "ts": "1431900488.004271"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whod you go with",
+        "ts": "1431900502.004272"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Just some friends ",
+        "ts": "1431901669.004273"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Idk where Kevin and John are",
+        "ts": "1431901680.004274"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U046AEEDH|vallejo314> uploaded a file: <https:\/\/599usd.slack.com\/files\/vallejo314\/F04T674KG\/img_201505137_173150.jpg|Slack for Android Upload> and commented: I got accidentally seated near this scrub",
+        "file": {
+            "id": "F04T674KG",
+            "created": 1431901931,
+            "timestamp": 1431901931,
+            "name": "IMG_201505137_173150.jpg",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U046AEEDH",
+            "editable": false,
+            "size": 384495,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F04T674KG-d5d34394cc\/img_201505137_173150.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F04T674KG-d5d34394cc\/download\/img_201505137_173150.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F04T674KG\/img_201505137_173150.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F04T674KG\/download\/img_201505137_173150.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04T674KG-39fd64b379\/img_201505137_173150_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04T674KG-39fd64b379\/img_201505137_173150_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04T674KG-39fd64b379\/img_201505137_173150_360.png",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04T674KG-39fd64b379\/img_201505137_173150_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04T674KG-39fd64b379\/img_201505137_173150_720.png",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04T674KG-39fd64b379\/img_201505137_173150_1024.png",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/vallejo314\/F04T674KG\/img_201505137_173150.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F04T674KG-d5d34394cc",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+                "id": "Fc04T676E4",
+                "created": 1431901940,
+                "timestamp": 1431901940,
+                "user": "U046AEEDH",
+                "comment": "I got accidentally seated near this scrub"
+            }
+        },
+        "user": "U046AEEDH",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U046AEEDH|vallejo314>",
+        "bot_id": null,
+        "ts": "1431901940.004275"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "gaybois",
+        "ts": "1431902310.004276"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "tfti",
+        "ts": "1431907209.004277"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "damn dat masters hood",
+        "ts": "1431914181.004278"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im taking grad pics today too lel",
+        "ts": "1431915406.004279"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Lel are you best photographer ",
+        "ts": "1431916770.004280"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i wasn't photographing people",
+        "ts": "1431916856.004281"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i was being photographed",
+        "ts": "1431916859.004282"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "you didn't take grad photos last year?",
+        "ts": "1431917229.004283"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no",
+        "ts": "1431917358.004284"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i was too poor",
+        "ts": "1431917364.004285"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "oh",
+        "ts": "1431917701.004286"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "wat",
+        "ts": "1431917703.004287"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "did you hire a professional photographer?",
+        "ts": "1431919114.004288"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "hey",
+        "ts": "1431931777.004289"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<@U045MBNTQ> <@U045MBFTN>",
+        "ts": "1431931782.004290"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "guess what i got back?",
+        "ts": "1431931785.004291"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1431931786.004292"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "?",
+        "ts": "1431931791.004293"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "R:star:",
+        "ts": "1431931797.004294"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ";^)",
+        "ts": "1431931800.004295"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "AWW SHIEETTT",
+        "ts": "1431931802.004296"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":^)",
+        "ts": "1431931803.004297"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":lelstar:",
+        "ts": "1431931805.004298"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "SHIEEEEET BOI",
+        "ts": "1431931805.004299"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fucking :lelstar:",
+        "ts": "1431931817.004300"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lelstar is OP emoji name",
+        "ts": "1431931822.004301"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "xd",
+        "ts": "1431931827.004302"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we can play tmrw bbY!!",
+        "ts": "1431931835.004303"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "yeeeee",
+        "ts": "1431931859.004304"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn, they may have deleted the character though",
+        "ts": "1431931974.004305"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "might have to regrind :disappointed:",
+        "ts": "1431931977.004306"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just gotta rek y'all in some races",
+        "ts": "1431931994.004307"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":+1:",
+        "ts": "1431931998.004308"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "shipit",
+        "ts": "1431932001.004309"
+    },
+    {
+        "type": "message",
+        "user": "U046YFKJY",
+        "text": "<http:\/\/images.cheezburger.com\/completestore\/2011\/11\/2\/aa83c0c4-2123-4bd3-8097-966c9461b30c.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/images.cheezburger.com\/completestore\/2011\/11\/2\/aa83c0c4-2123-4bd3-8097-966c9461b30c.jpg",
+                "fallback": "500x376px image",
+                "image_url": "http:\/\/images.cheezburger.com\/completestore\/2011\/11\/2\/aa83c0c4-2123-4bd3-8097-966c9461b30c.jpg",
+                "image_width": 500,
+                "image_height": 376,
+                "image_bytes": 23942,
+                "id": 1
+            }
+        ],
+        "ts": "1431932001.004310"
+    }
+]

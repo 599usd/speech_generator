@@ -1,0 +1,3782 @@
+[
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "thoughts?",
+        "ts": "1433940530.003451"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<https:\/\/github.com\/babin101\/DevKeyboard>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "babin101\/DevKeyboard",
+                "title_link": "https:\/\/github.com\/babin101\/DevKeyboard",
+                "text": "DevKeyboard - The keyboard developed by Ben Woodman, to make programmers lives easier.",
+                "fallback": "GitHub: babin101\/DevKeyboard",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/10786372?v=3&s=400",
+                "from_url": "https:\/\/github.com\/babin101\/DevKeyboard",
+                "thumb_width": 150,
+                "thumb_height": 150,
+                "id": 1
+            }
+        ],
+        "ts": "1433940531.003452"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "looks too weird",
+        "ts": "1433953225.003454"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Don't be a nerd",
+        "ts": "1433956097.003455"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Just showing you guys something I found online :(",
+        "ts": "1433956121.003456"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Well why was it so nerdy ",
+        "ts": "1433956195.003457"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "You've only got yourself to blame ",
+        "ts": "1433956207.003458"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Fuuu I'm about to get in a plane again ",
+        "ts": "1433956230.003459"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Pray it doesn't get taken over by kebab",
+        "ts": "1433956252.003460"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "shet, maybe i should learn that shit",
+        "ts": "1433958784.003461"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Lol my in flight wifi is injecting html for a flight overlay",
+        "ts": "1433960357.003462"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "oh no",
+        "ts": "1433960384.003463"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "injectaroonies!",
+        "ts": "1433960387.003464"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that's a pretty Chinese government move",
+        "ts": "1433960843.003465"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "just spent some time at the trading desks",
+        "ts": "1433960864.003466"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "seems like the work is fun, and I learned a lot",
+        "ts": "1433960871.003467"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "the traders here seem to really like the front office developers since we make their lives so much easier",
+        "ts": "1433960886.003468"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls talk to me I have nothing to do atm my dev instance still hasn't been provisioned",
+        "ts": "1433960996.003469"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":(((((",
+        "ts": "1433961029.003470"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls",
+        "ts": "1433961030.003471"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls",
+        "ts": "1433961030.003472"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls",
+        "ts": "1433961031.003473"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls",
+        "ts": "1433961031.003474"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls",
+        "ts": "1433961032.003475"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls",
+        "ts": "1433961032.003476"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls",
+        "ts": "1433961032.003477"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm talking to you",
+        "ts": "1433962302.003478"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "let's talk",
+        "ts": "1433962303.003479"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yay",
+        "ts": "1433962308.003480"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "talking talking talking",
+        "ts": "1433962313.003481"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "how's your day been so far at gaynova?",
+        "ts": "1433962375.003482"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":^)",
+        "ts": "1433962397.003483"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not speaking to you",
+        "ts": "1433962403.003484"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "anymore",
+        "ts": "1433962404.003485"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pl0x",
+        "ts": "1433962431.003486"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I just watched some IRA and 401(k) videos on khanacademy",
+        "ts": "1433962457.003487"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "#planningforthefuture",
+        "ts": "1433962461.003488"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "gotta get on dat tax deferred hype",
+        "ts": "1433962524.003489"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "WOW u are SOOOOO DANK!!!!!",
+        "ts": "1433962568.003490"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^))))",
+        "ts": "1433962570.003491"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "u gon max out your IRA and 401(k) yearly contributions??????????",
+        "ts": "1433962628.003492"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "?????????????????",
+        "ts": "1433962630.003493"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm thinking of budgeting to do that",
+        "ts": "1433962637.003494"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i mean that's the plan right baby?",
+        "ts": "1433962657.003495"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "my 401k contributions start in like 3 months doe",
+        "ts": "1433962673.003496"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":((",
+        "ts": "1433962674.003497"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "mine too :(((((((",
+        "ts": "1433962748.003498"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "watching all these investment videos makes me want to not keep much money in the bank",
+        "ts": "1433962783.003499"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "instead I feel like I should get in the money market and mutual fund game",
+        "ts": "1433962798.003500"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or invest in hearthstone packs",
+        "ts": "1433962818.003501"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or amazon coins",
+        "ts": "1433962823.003502"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "if only there were exchanges for pepes",
+        "ts": "1433962861.003503"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "there are only OTC products on Ebay :disappointed:",
+        "ts": "1433962896.003504"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "man so many sad faces today",
+        "ts": "1433962901.003505"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i bet you hate your job",
+        "ts": "1433962964.003506"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm probably going to be found dead in a toilet stall in the office in a few days",
+        "ts": "1433963075.003507"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "gonna flush my head down the toilet to stop the misery",
+        "ts": "1433963100.003508"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "btw has your release failed yet?",
+        "ts": "1433963190.003509"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "have you lost Enova billions yet?",
+        "ts": "1433963197.003510"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "Enova guaranteed a loss of billions when they hired that fuccboi",
+        "ts": "1433963819.003511"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I should tell the traders to short enova stock",
+        "ts": "1433963883.003512"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'd make the company tons of $$$$$$$",
+        "ts": "1433963894.003513"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "gotta get dat bonus",
+        "ts": "1433963898.003514"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "you just gotta tell them they hired kevin, they'll take care of the rest",
+        "ts": "1433963911.003515"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "maybe with the profits we'll get another party",
+        "edited": {
+            "user": "U046AEEDH",
+            "ts": "1433963943.000000"
+        },
+        "ts": "1433963934.003516"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so I just learned I can bring a date to the CTC anniversary party",
+        "ts": "1433964843.003518"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "free invite to whomever is willing to suck muh d at the end of the night",
+        "ts": "1433964856.003519"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":^)",
+        "ts": "1433964858.003520"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "bring me",
+        "ts": "1433966415.003521"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "only if you promise to get hosed with me",
+        "ts": "1433966560.003522"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":^)",
+        "ts": "1433966576.003523"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ware is my phone :disappointed:",
+        "ts": "1433967071.003524"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "did you leave it in a taxi like Minjae?",
+        "ts": "1433967091.003525"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's taking forever to ship to me :disappointed:",
+        "ts": "1433967100.003526"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":enova: pls",
+        "ts": "1433967107.003527"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "company phone?",
+        "ts": "1433967156.003528"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1433967165.003529"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "whatre you getting again?",
+        "ts": "1433967181.003530"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "6+???",
+        "ts": "1433967623.003531"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1433967627.003532"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I just got my gpb",
+        "ts": "1433967628.003533"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "gpb?",
+        "ts": "1433967648.003534"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "do you mean gbp?",
+        "ts": "1433967651.003535"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "gpb?",
+        "ts": "1433967658.003536"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":pound::pound::pound::pound: -&gt; :poultry_leg::poultry_leg::poultry_leg::poultry_leg:",
+        "ts": "1433967669.003537"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "good boy points?",
+        "ts": "1433967675.003538"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "dank",
+        "ts": "1433967676.003539"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Yea my b",
+        "ts": "1433967676.003540"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Driving on the wrong side of the road has gotten me confused ",
+        "ts": "1433967686.003541"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Why do you have to wait 3 months for your 401k contributions to start?",
+        "ts": "1433967713.003542"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Do you have to work 6 months before they let you enroll?",
+        "ts": "1433967725.003543"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that's a pretty common thing",
+        "ts": "1433967734.003544"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "because a lot of companies have semi annual or quarterly enrollment",
+        "ts": "1433967745.003545"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "What",
+        "ts": "1433967763.003546"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "actually, strike that, it's just a common policy to have them wait a while before enrolling",
+        "ts": "1433967765.003547"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I didn't have to eat at all...",
+        "ts": "1433967769.003548"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Wait",
+        "ts": "1433967770.003549"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it minimizes the employer's risk",
+        "edited": {
+            "user": "U046AEEDH",
+            "ts": "1433967779.000000"
+        },
+        "ts": "1433967772.003550"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Okay I waited two weeks ",
+        "ts": "1433967776.003551"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "My second paycheck I started contributing to my 401k",
+        "ts": "1433967788.003553"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I'm poor as duck ",
+        "ts": "1433967791.003554"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Don't do it ",
+        "ts": "1433967793.003555"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I'm net negative every month ",
+        "ts": "1433967801.003556"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "great advice",
+        "ts": "1433967803.003557"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "For my bank account ",
+        "ts": "1433967806.003558"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the original 401k plan had me contributing on the 2nd week",
+        "ts": "1433967808.003559"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lel",
+        "ts": "1433967811.003560"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Actually not anymore ",
+        "ts": "1433967817.003561"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but the new plan that i'm on is after 6 months",
+        "ts": "1433967818.003562"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "But I was contributing 45% ",
+        "ts": "1433967823.003563"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^(",
+        "ts": "1433967824.003564"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "My first half year ",
+        "ts": "1433967827.003565"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then 0",
+        "ts": "1433967832.003566"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "?",
+        "ts": "1433967832.003567"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you know there's a yearly limit of 18000?",
+        "ts": "1433967834.003568"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Gotta max it out every year ",
+        "ts": "1433967835.003569"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just maxing out asap",
+        "ts": "1433967836.003570"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ".....",
+        "ts": "1433967838.003571"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "When I started last year",
+        "ts": "1433967844.003572"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "were you contributing 18000\/12?",
+        "ts": "1433967844.003573"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I started in July ",
+        "ts": "1433967847.003574"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "So to max out ",
+        "ts": "1433967853.003575"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh I see",
+        "ts": "1433967859.003576"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "By December ",
+        "ts": "1433967861.003577"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "gotcha",
+        "ts": "1433967865.003578"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I needed to change it to be that high ",
+        "ts": "1433967870.003579"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I also put in 5.5k to my Roth IRA ",
+        "ts": "1433967879.003580"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeh boi",
+        "ts": "1433967884.003581"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "ROTH IRA OP",
+        "ts": "1433967886.003582"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I'm fuckin poor pls halp",
+        "ts": "1433967887.003583"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I can't touch any of that money ",
+        "ts": "1433967895.003584"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Just buy lottos",
+        "ts": "1433967904.003585"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "My bank account is &lt; 10k now ",
+        "ts": "1433967906.003586"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "How do I love ",
+        "ts": "1433967911.003587"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Live",
+        "ts": "1433967914.003588"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you can let others touch you and get more money",
+        "ts": "1433967916.003589"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wowzers",
+        "ts": "1433967918.003590"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "&lt; $10k",
+        "ts": "1433967920.003591"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so bad",
+        "ts": "1433967921.003592"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just buy lottery tickets",
+        "ts": "1433967922.003593"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "It's terrible ",
+        "ts": "1433967924.003594"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you're basically homeless",
+        "ts": "1433967926.003595"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like jason suggested",
+        "ts": "1433967926.003596"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Last time this happened to me",
+        "ts": "1433967931.003597"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Was when I was in school",
+        "ts": "1433967934.003598"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Potential for 1^10% roi",
+        "ts": "1433967940.003599"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "kelvin is just 2 privileged",
+        "ts": "1433967946.003600"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Should I go to the Edinburgh zoo gais?",
+        "ts": "1433967958.003601"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wow mang",
+        "ts": "1433967959.003602"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I have $400 in my account right now",
+        "ts": "1433967964.003603"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Nah we're going to set up a gbp trading shop",
+        "ts": "1433967967.003604"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I need to survive until next monday when I get paid",
+        "ts": "1433967970.003605"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Wit",
+        "ts": "1433967970.003606"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "What",
+        "ts": "1433967972.003607"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Wtf",
+        "ts": "1433967974.003608"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "How",
+        "ts": "1433967976.003609"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "And make \u00a3\u00a3\u00a3\u00a3\u00a3",
+        "ts": "1433967978.003610"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not everyone is rich like you kelvin",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1433967989.000000"
+        },
+        "ts": "1433967981.003611"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I spent the money I made doing internships on tuition and stuff",
+        "ts": "1433967993.003613"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and room and board",
+        "ts": "1433968000.003614"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "etc...",
+        "ts": "1433968001.003615"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no point in explaining yourself novi",
+        "ts": "1433968013.003616"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it limited the amount my parents had to help me",
+        "ts": "1433968016.003617"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "kelvin won't understand the struggles of the non 1%'ers",
+        "ts": "1433968021.003618"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you fucking cis privileged scum",
+        "ts": "1433968028.003619"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":simple_smile:",
+        "ts": "1433968031.003620"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "My parents didn't pay for anything my second or third year",
+        "ts": "1433968042.003621"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I had to fucking TA ",
+        "ts": "1433968049.003622"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "It was a tough life as a TA man ",
+        "ts": "1433968064.003623"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wow you guys got tuition wavers for being undergrad TA's?",
+        "ts": "1433968065.003624"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wtf",
+        "ts": "1433968067.003625"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "*waivers",
+        "ts": "1433968073.003626"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no they don't i'm p sure",
+        "ts": "1433968074.003627"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "They waive our tuition and then pay us 2k a month ",
+        "ts": "1433968078.003628"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "oh wtf",
+        "ts": "1433968081.003629"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "GG",
+        "ts": "1433968082.003630"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "OP",
+        "ts": "1433968083.003631"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "etf",
+        "ts": "1433968084.003632"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "TA OP",
+        "ts": "1433968084.003633"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wtf",
+        "ts": "1433968085.003634"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "OP OP OP",
+        "ts": "1433968085.003635"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I wouldn't know what to do",
+        "ts": "1433968085.003636"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wtf",
+        "ts": "1433968086.003637"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "grad TA's don't even get that good a deal at UIUC",
+        "ts": "1433968094.003638"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that's so friggin OP",
+        "ts": "1433968099.003639"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "UIUC is poor af",
+        "ts": "1433968099.003640"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Yo man ",
+        "ts": "1433968104.003641"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "GGGGGGGGGGGGGG",
+        "ts": "1433968106.003642"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I had to teach ",
+        "ts": "1433968109.003643"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Seventy undergrads every semester ",
+        "ts": "1433968120.003644"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "#worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth",
+        "ts": "1433968121.003645"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "#worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth #worth",
+        "ts": "1433968126.003646"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Okay just kidding ",
+        "ts": "1433968128.003647"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's pretty worth mang",
+        "ts": "1433968132.003648"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wtf",
+        "ts": "1433968132.003649"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "It wasn't a full tuition waiver ",
+        "ts": "1433968133.003650"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "gtfo",
+        "ts": "1433968135.003651"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "friggin UC Berkeley",
+        "ts": "1433968141.003652"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so privileged",
+        "ts": "1433968147.003653"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that's why CA is broke",
+        "ts": "1433968147.003654"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I had to pay ~400",
+        "ts": "1433968150.003655"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "cause CA gave all its money to Kelvin",
+        "ts": "1433968154.003656"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "&gt;.&gt;",
+        "ts": "1433968156.003657"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Out of my own god damn pocket ",
+        "ts": "1433968160.003658"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "It's a public school!!!",
+        "ts": "1433968168.003659"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "The public should pay for it",
+        "ts": "1433968174.003660"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":ca: :gift: :dollar: :kelvin:",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1433968202.000000"
+        },
+        "ts": "1433968179.003661"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "But internships ",
+        "ts": "1433968216.003665"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Gave good money ",
+        "ts": "1433968220.003666"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "That's how I survived ",
+        "ts": "1433968228.003667"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "T_T",
+        "ts": "1433968233.003668"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "man if I could have gotten a TA deal like dat...",
+        "ts": "1433968240.003669"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "People these days are so privileged ",
+        "ts": "1433968243.003670"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I only got 6.8k a month for my internships :(",
+        "ts": "1433968255.003671"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Nowadays they get like 9k+",
+        "ts": "1433968262.003672"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "go intern again",
+        "ts": "1433968268.003673"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ez",
+        "ts": "1433968269.003674"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "They make more money than me ",
+        "ts": "1433968280.003675"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "6.8 not including stipend?",
+        "ts": "1433968282.003676"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "But they don't get equity ",
+        "ts": "1433968285.003677"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Stipend? You mean housing?",
+        "ts": "1433968296.003678"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeah",
+        "ts": "1433968299.003679"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "or did they just give you housing?",
+        "ts": "1433968303.003680"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Yeah not including stipend ",
+        "ts": "1433968305.003681"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "kk",
+        "ts": "1433968308.003682"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's okay novi",
+        "ts": "1433968315.003683"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you don't need to cry about your poorness",
+        "ts": "1433968320.003684"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":disappointed:",
+        "ts": "1433968324.003685"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you're working at a trading company",
+        "ts": "1433968326.003686"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "We're all there with you",
+        "ts": "1433968327.003687"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you'll be rich novi",
+        "ts": "1433968333.003688"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "richer than this fuccboi kelvin",
+        "ts": "1433968337.003689"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Until you get your fat Christmas bonuses",
+        "ts": "1433968339.003690"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls",
+        "ts": "1433968340.003691"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Pls remember us",
+        "ts": "1433968341.003692"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you sold your soul",
+        "ts": "1433968342.003693"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Pls ",
+        "ts": "1433968348.003694"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I was running my salary numbers today",
+        "ts": "1433968352.003695"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Penny for a beggar?",
+        "ts": "1433968353.003696"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I forgot to account for the fact",
+        "ts": "1433968357.003697"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Could I please get a copper",
+        "ts": "1433968359.003698"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that to max out my 401k this year",
+        "ts": "1433968364.003699"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I'm so bored on this bus ",
+        "ts": "1433968368.003700"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'd need t contribute a lot from each paycheck",
+        "ts": "1433968372.003701"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Lol yeah",
+        "ts": "1433968376.003702"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "thanks for reminding me Kelvin",
+        "ts": "1433968378.003703"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "T_T",
+        "ts": "1433968379.003704"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ofc u nogger",
+        "ts": "1433968381.003705"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I had to contribute 45%",
+        "ts": "1433968382.003706"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wtf",
+        "ts": "1433968382.003707"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "don't be stupid navdoop",
+        "ts": "1433968385.003708"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's fine",
+        "ts": "1433968388.003709"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or you just don't contribute to your 401k",
+        "ts": "1433968393.003710"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "If you need the money don't do it ",
+        "ts": "1433968394.003711"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and invest in bitcoin",
+        "ts": "1433968396.003712"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "all of your money",
+        "ts": "1433968399.003713"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I just need to get my first paychecki + signing bonus and I should be golden",
+        "ts": "1433968399.003714"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I just got lucky and got to TA",
+        "ts": "1433968402.003715"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "my expenses aren't that high",
+        "ts": "1433968410.003716"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Man people fight over those jobs in Berkeley like it was gold ",
+        "ts": "1433968413.003717"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "But once you're in ",
+        "ts": "1433968420.003718"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "You're always in ",
+        "ts": "1433968422.003719"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn",
+        "ts": "1433968429.003720"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i bet you guys were part of a TA Union",
+        "ts": "1433968434.003721"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1433968435.003722"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Hard to not get a TA job ",
+        "ts": "1433968436.003723"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "No I didn't join ",
+        "ts": "1433968440.003724"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Are there chavs in Scotland?",
+        "ts": "1433968444.003725"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I wasn't gonna give them ten bucks from my paycheck",
+        "ts": "1433968449.003726"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i thought chavs were more like a UK thing",
+        "ts": "1433968456.003727"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wait",
+        "ts": "1433968461.003728"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "is scotland in the uk",
+        "ts": "1433968463.003729"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Scotland is in the UK",
+        "ts": "1433968463.003730"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Dunbass",
+        "ts": "1433968465.003731"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1433968465.003732"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "my b",
+        "ts": "1433968467.003733"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck the UK",
+        "ts": "1433968471.003734"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck England",
+        "ts": "1433968473.003735"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck Britain",
+        "ts": "1433968475.003736"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Should I eat chicken tikka masala while I'm here?",
+        "ts": "1433968489.003737"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "nah Chavs are a British thing",
+        "ts": "1433968489.003738"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm sure chavs are a london thing",
+        "ts": "1433968494.003739"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "mostly",
+        "ts": "1433968495.003740"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Traditional Scottish cuisine ",
+        "ts": "1433968496.003741"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "there are Scottish equivalents of Chavs though",
+        "ts": "1433968498.003742"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "go meet some chavs",
+        "ts": "1433968508.003743"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and hope they don't shank ur nan",
+        "ts": "1433968513.003744"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so I just ran the numbers",
+        "ts": "1433968535.003745"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "if I max out my roth IRA and my 401k",
+        "ts": "1433968548.003746"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "who gives a shit noviiiiiii",
+        "ts": "1433968551.003747"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Wait if your 401k starts in three months ",
+        "ts": "1433968551.003748"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just contribute",
+        "ts": "1433968553.003749"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "That means you need to contribute like 75% of those pay checks ",
+        "ts": "1433968565.003750"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "not a big deal",
+        "ts": "1433968572.003751"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Wut",
+        "ts": "1433968581.003752"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "because I'll still have $$$ from the previous months",
+        "ts": "1433968582.003753"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm looking at it as a whole",
+        "ts": "1433968588.003754"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Basically those pay checks ",
+        "ts": "1433968592.003755"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Are gonna be chump change ",
+        "ts": "1433968603.003756"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "not a big deal",
+        "ts": "1433968609.003757"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Cause you still have to pay taxes ",
+        "ts": "1433968613.003758"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "though it might be prudent",
+        "ts": "1433968620.003759"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "not to max out my 401k this year",
+        "ts": "1433968626.003760"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but I'm not sure",
+        "ts": "1433968628.003761"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Yeah ",
+        "ts": "1433968629.003762"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I shouldn't have any problem doing so",
+        "ts": "1433968632.003763"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I think it's reasonable not to do it ",
+        "ts": "1433968634.003764"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "regardless",
+        "ts": "1433968635.003765"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I mean I ran the numbers",
+        "ts": "1433968642.003766"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "max out your bitcoin\/litecoin\/dogecoin investments",
+        "ts": "1433968643.003767"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "You might spend too much money your first couple of months by accident ",
+        "ts": "1433968645.003768"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I doubt it",
+        "ts": "1433968651.003769"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "haven't been spending much money",
+        "ts": "1433968655.003770"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "this fucking guy",
+        "ts": "1433968661.003771"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "are you serious",
+        "ts": "1433968662.003772"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I figured I'd have $1000 food and drink expenditures per month",
+        "ts": "1433968665.003773"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you're gonna blow $$$$$ on alcohol",
+        "ts": "1433968671.003774"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "probably $1k just on alky",
+        "ts": "1433968675.003775"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls",
+        "ts": "1433968679.003776"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then you're gonna blow $1k on blow",
+        "ts": "1433968688.003777"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then blow another $1k on blowjobs",
+        "ts": "1433968696.003778"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "stop blowing so much",
+        "ts": "1433968701.003779"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "on blow stuff",
+        "ts": "1433968704.003780"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "at the end of this whole year I'll prolly have like $5k in the bank",
+        "ts": "1433968716.003781"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":confused:",
+        "ts": "1433968717.003782"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so maybe I shouldn't max it out",
+        "ts": "1433968722.003783"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'll have to think about this pretty hard",
+        "ts": "1433968727.003784"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck you",
+        "ts": "1433968732.003785"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you're not even 21",
+        "ts": "1433968734.003786"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "stop worrying",
+        "ts": "1433968736.003787"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "good fiscal policy is ageless my dear friend",
+        "ts": "1433968771.003788"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm not saying you shouldn't think about it",
+        "ts": "1433968778.003789"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm saying you shouldn't worry about it",
+        "ts": "1433968782.003790"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "which idk if you are",
+        "ts": "1433968786.003791"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just take it easy and buy yourself something nice my friendo",
+        "ts": "1433968804.003792"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and think about it next month",
+        "ts": "1433968808.003793"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "reward yourself for not having caught AIDS and dying in college",
+        "ts": "1433968822.003794"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Wait ",
+        "ts": "1433968840.003795"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or you could just max out everything",
+        "ts": "1433968843.003796"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel",
+        "ts": "1433968843.003797"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "When I visit ",
+        "ts": "1433968844.003798"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "We have to blow 1k on alcy",
+        "ts": "1433968851.003799"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lol I don't have anything I really wanna buy atm",
+        "ts": "1433968854.003800"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls u srs",
+        "ts": "1433968858.003801"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Pls ",
+        "ts": "1433968859.003802"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "each?",
+        "ts": "1433968861.003803"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Total",
+        "ts": "1433968864.003804"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh",
+        "ts": "1433968866.003805"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck you novi you're going to think of something to blow money on",
+        "ts": "1433968867.003806"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeah I'm down for that",
+        "ts": "1433968870.003807"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "we'll drink like kings",
+        "ts": "1433968874.003808"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Yesss",
+        "ts": "1433968881.003809"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i mean we're gonna blow $500 or so",
+        "ts": "1433968885.003810"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "on dinner",
+        "ts": "1433968886.003811"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "After we blow three hundred on alinea",
+        "ts": "1433968888.003812"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so yeah",
+        "ts": "1433968889.003813"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe",
+        "ts": "1433968890.003814"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "don't forget the drinks mangggggggg",
+        "ts": "1433968899.003815"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "idk how much more that would make the bill",
+        "ts": "1433968903.003816"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I'm getting off the bus ",
+        "ts": "1433968905.003817"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1433968905.003818"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "So I'll talk to you nigs later",
+        "ts": "1433968912.003819"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "k",
+        "ts": "1433968916.003820"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "see ya",
+        "ts": "1433968918.003821"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "man I'm talking with Minjae about utilities shit and responsibility shit",
+        "ts": "1433968940.003822"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and he's half flustered by all of it",
+        "ts": "1433968951.003823"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "do I have to be the man of the house?",
+        "ts": "1433968957.003824"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "who managed the utilities and shit in your old apartment kshu?",
+        "ts": "1433968998.003825"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you mean at school?",
+        "ts": "1433969015.003826"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeh",
+        "ts": "1433969020.003827"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "gary had his name on everything",
+        "ts": "1433969027.003828"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but it's not like he managed anything",
+        "ts": "1433969032.003829"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just set autopay",
+        "ts": "1433969038.003830"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "gotcha",
+        "ts": "1433969039.003831"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then we work out the $$ later",
+        "ts": "1433969042.003832"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and in the end",
+        "ts": "1433969063.003833"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we didn't really divvy up the costs or anything",
+        "ts": "1433969070.003834"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it was more like",
+        "ts": "1433969076.003835"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "over time",
+        "ts": "1433969077.003836"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "each of us three probably spent within 4-5%",
+        "ts": "1433969098.003837"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "more or less",
+        "ts": "1433969104.003838"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "compared to each other",
+        "ts": "1433969107.003839"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so nbd",
+        "ts": "1433969107.003840"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeah nbd",
+        "ts": "1433969149.003841"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "also I've been talking with people in the office",
+        "ts": "1433969156.003842"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "some of them are living in River north",
+        "ts": "1433969160.003843"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like we didn't even split the cost of rent the way we should have if we wanted to be \"fair\"",
+        "ts": "1433969161.003844"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "they're paying like $1200-$1400 for studios",
+        "ts": "1433969170.003845"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we just split it evenly three-ways",
+        "ts": "1433969170.003846"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "why you getting ripped off bby?",
+        "ts": "1433969174.003847"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i could have lived in a $1400 studio",
+        "ts": "1433969185.003848"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but those are shit",
+        "ts": "1433969186.003849"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like i get that i don't really need that much space",
+        "ts": "1433969209.003850"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh lol I didn't know",
+        "ts": "1433969209.003851"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but it's nice to have the space",
+        "ts": "1433969212.003852"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "didn't look at studios",
+        "ts": "1433969214.003853"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "my place is like ~650 sqft",
+        "ts": "1433969223.003854"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not sure i'd want to do like ~500ish",
+        "ts": "1433969228.003855"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ya feel?",
+        "ts": "1433969236.003856"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I feel",
+        "ts": "1433969248.003857"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I feel it all",
+        "ts": "1433969250.003858"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not only that, but i think my studio is overall nicer",
+        "ts": "1433969252.003859"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like more recently renovated",
+        "ts": "1433969256.003860"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "than many of the other options",
+        "ts": "1433969260.003861"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "gotcha",
+        "ts": "1433969305.003862"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck",
+        "ts": "1433969316.003863"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like i just looked on domu",
+        "ts": "1433969319.003864"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "found a studio for $1350ish\/mo",
+        "ts": "1433969325.003865"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "~430 sqft",
+        "ts": "1433969328.003866"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "!!!!",
+        "ts": "1433969329.003867"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "too small imo?",
+        "ts": "1433969331.003868"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeah that is pretty small",
+        "ts": "1433969338.003869"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but it is livable",
+        "ts": "1433969346.003870"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like when i was looking i just really didn't want my bed to literally be in the same room as the living room",
+        "ts": "1433969353.003871"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that's fair",
+        "ts": "1433969360.003872"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like i still have a \"bedroom\" kinda",
+        "ts": "1433969361.003873"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "w\/e i'm probably going to buy a place a year or so from now",
+        "ts": "1433969388.003874"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "tfw homeowner :simple_smile:",
+        "ts": "1433969422.003875"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it'll be nice",
+        "ts": "1433969438.003876"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "get a lot of insurance for the place and I'll burn it down",
+        "ts": "1433969442.003877"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "much cheaper than renting i think",
+        "ts": "1433969444.003878"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "is it?",
+        "ts": "1433969450.003879"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "by much i mean like",
+        "ts": "1433969454.003880"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "depends on how nice of a place you get",
+        "ts": "1433969456.003881"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe the same",
+        "ts": "1433969457.003882"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel",
+        "ts": "1433969457.003883"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "or how many bedrooms",
+        "ts": "1433969461.003884"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe ~$200 more or less",
+        "ts": "1433969463.003885"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "well it certainly won't be worse",
+        "ts": "1433969464.003886"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "at the very least",
+        "ts": "1433969468.003887"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "payments will go towards building my own equity right?",
+        "ts": "1433969475.003888"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "instead of literally just all of it goes to someone else",
+        "ts": "1433969482.003889"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and none of it back to me",
+        "ts": "1433969485.003890"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like maybe 60% of my monthly expenses that are property related",
+        "ts": "1433969504.003891"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yup",
+        "ts": "1433969506.003892"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "will go towards paying the principal of the mortgage",
+        "ts": "1433969511.003893"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the rest for interest and HOA",
+        "ts": "1433969514.003894"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "which is sure as shit better than 100% of it going to someone not me",
+        "ts": "1433969526.003895"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1433969526.003896"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "60% might be a bit much",
+        "ts": "1433969528.003897"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wait",
+        "ts": "1433969537.003898"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "nvm",
+        "ts": "1433969537.003899"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "based on the mortgage calculators",
+        "ts": "1433969540.003900"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's too little",
+        "ts": "1433969541.003901"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1433969543.003902"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "if anything too little lol",
+        "ts": "1433969546.003903"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe like 70%",
+        "ts": "1433969548.003904"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I could see that",
+        "ts": "1433969552.003905"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "depends on a lot of stuff",
+        "ts": "1433969553.003906"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but then again interest compounded over many years can be quite hiugh",
+        "ts": "1433969561.003907"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "*high",
+        "ts": "1433969563.003908"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "depends on the interest of the loan you're able to get",
+        "ts": "1433969575.003909"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah but these calculators give you an idea of how much to expect",
+        "ts": "1433969577.003910"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm trying to aim for like",
+        "ts": "1433969584.003911"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe a 20yr fixed @ 3.5",
+        "ts": "1433969591.003912"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "3.5 is p good",
+        "ts": "1433969598.003913"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i think that would be solid",
+        "ts": "1433969602.003914"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "30 years right now are around 4",
+        "ts": "1433969607.003915"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "15s are around 3.2",
+        "ts": "1433969611.003916"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "3.1",
+        "ts": "1433969613.003917"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but the monthly for a 15 might make it a little cost-prohibitive to buy",
+        "ts": "1433969624.003918"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so maybe a 20 would be a solid middle ground",
+        "ts": "1433969635.003919"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but idk shit about this stuff",
+        "ts": "1433969644.003920"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm just guessing",
+        "ts": "1433969646.003921"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeah",
+        "ts": "1433969651.003922"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "this is all too speculative",
+        "ts": "1433969659.003923"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "need to hire JDs dad",
+        "ts": "1433969662.003924"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1433969663.003925"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you haven't really looked around much",
+        "ts": "1433969665.003926"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lel",
+        "ts": "1433969668.003927"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i've looked a fair bit",
+        "ts": "1433969673.003928"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just randomly at night",
+        "ts": "1433969675.003929"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "idk if he would take you on as a client",
+        "ts": "1433969676.003930"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "2poor",
+        "ts": "1433969678.003931"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "prob",
+        "ts": "1433969680.003932"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm 2poor too",
+        "ts": "1433969681.003933"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's okay",
+        "ts": "1433969684.003934"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe later",
+        "ts": "1433969685.003935"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "if we get married doe",
+        "ts": "1433969695.003936"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "then he might be interested",
+        "ts": "1433969698.003937"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "dat combined income",
+        "ts": "1433969699.003938"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "<@U03UNR40S>: you're staying in chitown 4 reals?",
+        "ts": "1433969720.003939"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "there's great opportunities here",
+        "ts": "1433969744.003940"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "btw let me know when you guys wanna quit your silly tech companies and join the dark side",
+        "ts": "1433969759.003941"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":simple_smile:",
+        "ts": "1433969763.003942"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you can be like me and have to get to work every day by 7:50AM",
+        "ts": "1433969773.003943"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "(:",
+        "ts": "1433969925.003944"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "But retire at 40?",
+        "ts": "1433969929.003945"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I'm down",
+        "ts": "1433969933.003946"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "eh I get to leave around 5-5:30",
+        "ts": "1433969946.003947"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "9 hour workday",
+        "ts": "1433969948.003948"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "not too bad",
+        "ts": "1433969952.003949"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Holy shit ",
+        "ts": "1433970006.003950"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "That's a life decision Kevin ",
+        "ts": "1433970010.003951"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Too cool for me ",
+        "ts": "1433970013.003952"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "We at our hostel now ",
+        "ts": "1433970017.003953"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "why you guys so opposed to waking up early :disappointed:",
+        "ts": "1433970036.003954"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "if you guys got to work earlier I could chat with you guys more",
+        "ts": "1433970046.003955"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "since you guys don't get active until real late",
+        "ts": "1433970056.003956"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":(((",
+        "ts": "1433970116.003957"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I get in at ten!!!",
+        "ts": "1433970120.003958"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Everyone else just sleeps in ",
+        "ts": "1433970129.003959"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Cause they were in school",
+        "ts": "1433970136.003960"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "10 is still more than 2 hours after when I get in",
+        "ts": "1433970198.003961"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls",
+        "ts": "1433970199.003962"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wake up so early that you can see the sun rise",
+        "ts": "1433970244.003963"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and see the dew on the morning grass",
+        "ts": "1433970250.003964"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and see the beautiful cardio bunnies getting a run in before they head to work",
+        "ts": "1433970261.003965"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "there are cardio bunnies at all hours of the day mang",
+        "ts": "1433970629.003966"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":rabbit: ",
+        "ts": "1433970678.003967"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "part of me likes waking up earlier",
+        "ts": "1433970702.003968"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no you don't",
+        "ts": "1433970706.003969"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it makes it seem like there is more time in the day",
+        "ts": "1433970707.003970"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":disappointed:",
+        "ts": "1433970710.003971"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you caught me",
+        "ts": "1433970712.003972"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1433970716.003973"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm secretly super salty I don't get to roll into the office around lunchtime",
+        "ts": "1433970721.003974"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i mean you have less time at night then bby",
+        "ts": "1433970722.003975"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i got in at 1:20 today",
+        "ts": "1433970730.003976"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "#swag",
+        "ts": "1433970742.003977"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "jk, only because i WFH from 10 to like 12",
+        "ts": "1433970753.003978"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "then showered, ate",
+        "ts": "1433970759.003979"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and headed in",
+        "ts": "1433970762.003980"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "dis guy",
+        "ts": "1433970779.003981"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "is that not okay? :confused:",
+        "ts": "1433970785.003982"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so you're gonna leave around 6:30-7?",
+        "ts": "1433970788.003983"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":confounded:",
+        "ts": "1433970791.003984"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "nah it's fine",
+        "ts": "1433970792.003985"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "as long as you get your work done who cares?",
+        "ts": "1433970798.003986"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'll probably leave at like 5:30",
+        "ts": "1433970803.003987"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "there's nothing for me to do today",
+        "ts": "1433970808.003988"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "slow day",
+        "ts": "1433970809.003989"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I feel ya",
+        "ts": "1433970812.003990"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what about you?",
+        "ts": "1433970817.003991"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wanna grab food?",
+        "ts": "1433970820.003992"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "idk if I wanna stay until 5:30",
+        "ts": "1433970830.003993"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "oh",
+        "ts": "1433970833.003994"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'll leave earlier then",
+        "ts": "1433970836.003995"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nbd",
+        "ts": "1433970837.003996"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm pretty much out of things to do today",
+        "ts": "1433970837.003997"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yah",
+        "ts": "1433970840.003998"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1433970841.003999"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeah we can try and get food",
+        "ts": "1433970843.004000"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "when did you want to head out?",
+        "ts": "1433970850.004001"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "hrm",
+        "ts": "1433970856.004002"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'd say like maybe around 5",
+        "ts": "1433970864.004003"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "?",
+        "ts": "1433970864.004004"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you?",
+        "ts": "1433970866.004005"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "sure that works for me",
+        "ts": "1433970872.004006"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'll just keep watching financial theory videos",
+        "ts": "1433970878.004007"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe i should refactor code",
+        "ts": "1433970949.004008"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeh boi",
+        "ts": "1433970970.004009"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "or you could watch financial theory videos too",
+        "ts": "1433970975.004010"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":simple_smile:",
+        "ts": "1433970976.004011"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "dank",
+        "ts": "1433970980.004012"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "would probably be kinda helpful to learn",
+        "ts": "1433970986.004013"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe i should watch screencasts of UI stuff",
+        "ts": "1433971000.004014"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":O",
+        "ts": "1433971001.004015"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that wouldn't be too bad",
+        "ts": "1433971098.004016"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "also I think having a basic knowledge of financial products and how they work is good life knowledge",
+        "ts": "1433971116.004017"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what do you mean by \"financial product\"",
+        "ts": "1433971129.004018"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "can you define all of these terms for me?",
+        "ts": "1433971251.004019"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "securities, equities, swaps, indexes, forwards, futures, options?",
+        "ts": "1433971279.004020"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and then tell me how they work?",
+        "ts": "1433971289.004021"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "basically all of the common financial instruments",
+        "ts": "1433971302.004022"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i can't really define them, and i guess i'd only really know generally what indexes, futures, and options are",
+        "ts": "1433971304.004023"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that people invest with and trade on",
+        "ts": "1433971307.004024"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "getting a working knowledge of basic financial products doesn't take long imo",
+        "ts": "1433971340.004025"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you can just go online and learn that ish, or read a book",
+        "ts": "1433971348.004026"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I know khanacademy has some basic finance videos",
+        "ts": "1433971355.004027"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "then we can be dank theoertical financial speculators togethers",
+        "ts": "1433971387.004028"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "make everyone else jelly",
+        "ts": "1433971399.004029"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "can we just walk around texas\/oklahoma",
+        "ts": "1433971426.004030"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and try to find oil fields?",
+        "ts": "1433971439.004031"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that no one has developed?",
+        "ts": "1433971443.004032"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and become oil barons?",
+        "ts": "1433971446.004033"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "except that the government often owns mineral rights even in private property",
+        "ts": "1433971471.004034"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "for instance in Cook county you only own your property to a certain depth",
+        "ts": "1433971480.004035"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "after that the government has the right to any kinds of resources there",
+        "ts": "1433971493.004036"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it might be all of Illinois and not just Cook county",
+        "ts": "1433971512.004037"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm not sure how applicable that is to everywhere",
+        "ts": "1433971695.004038"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because i remember reading\/hearing something about how that kind of \"depth\" stuff was a chicago thing",
+        "ts": "1433971712.004039"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because of all the railroads and shit that are under the city",
+        "ts": "1433971720.004040"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh that makes sense",
+        "ts": "1433971775.004041"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "also I think that basically all coal and oil deposits on the mainland US have been identified by this point",
+        "ts": "1433971795.004042"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "or at least a huge percentage of them",
+        "ts": "1433971801.004043"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we gotta go exploring mang",
+        "ts": "1433971809.004044"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "there's bound to be riches out there for us",
+        "ts": "1433971817.004045"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1433971818.004046"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "should we get dowsing rods?",
+        "ts": "1433971827.004047"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that's how people find oil and coal deposits right?",
+        "ts": "1433971833.004048"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "or is it just underground water?",
+        "ts": "1433971837.004049"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i don't really know",
+        "ts": "1433971842.004050"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe this is too hard for us",
+        "ts": "1433971845.004051"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe we should just waste away our lives in Minecraft",
+        "ts": "1433971850.004052"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and find diamonds there",
+        "ts": "1433971855.004053"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "instead",
+        "ts": "1433971856.004054"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what you in the mood to eat novi?",
+        "ts": "1433971864.004055"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "p much anything",
+        "ts": "1433971900.004056"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but preferably not too far from my office",
+        "ts": "1433971907.004057"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "actually I wanna get wow bao",
+        "ts": "1433971913.004058"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lmao",
+        "ts": "1433971921.004059"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "okay that works for me",
+        "ts": "1433971923.004060"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's kind of funny",
+        "ts": "1433971951.004061"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I haven't had a drink since moving to the city on Sunday",
+        "ts": "1433971960.004062"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "been too busy and Minjae wasn't in the mood to drink",
+        "ts": "1433971973.004063"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wow bao closes at 5:30",
+        "ts": "1433971974.004064"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the one in my building",
+        "ts": "1433971977.004065"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "rekt",
+        "ts": "1433971977.004066"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we 5 it is",
+        "ts": "1433971982.004067"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that's when we leave",
+        "ts": "1433971986.004068"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1433971986.004069"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeah and we're both like right there",
+        "ts": "1433972013.004070"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so we can still go and get it",
+        "ts": "1433972015.004071"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "alright, imma head out",
+        "ts": "1433973268.004072"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "see you at wow bao",
+        "ts": "1433973273.004073"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "aight",
+        "ts": "1433973296.004074"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm wrapping up something real quick",
+        "ts": "1433973303.004075"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so i might be a little late",
+        "ts": "1433973309.004076"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Kkk imma just order then",
+        "ts": "1433973549.004077"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "You guys are so cool",
+        "ts": "1433980729.004078"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I wish I could live in Chicago",
+        "ts": "1433980736.004079"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "And be super cheap",
+        "ts": "1433980742.004080"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "sup guyz",
+        "ts": "1433982885.004081"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "fuck finals",
+        "ts": "1433982891.004082"
+    }
+]

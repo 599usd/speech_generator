@@ -1,0 +1,130 @@
+[
+    {
+        "user": "U046AEEDH",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046AEEDH|vallejo314> has joined the channel",
+        "ts": "1427437355.000002"
+    },
+    {
+        "user": "U045MBFTN",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MBFTN|jasonwang> has joined the channel",
+        "ts": "1427437366.000003"
+    },
+    {
+        "user": "U045MBNTQ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MBNTQ|reyarch> has joined the channel",
+        "ts": "1427437446.000004"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "sheeeeeeeeeeeee",
+        "ts": "1427437448.000005"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "dank memer",
+        "ts": "1427437450.000006"
+    },
+    {
+        "user": "U045MBQBN",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MBQBN|rayce> has joined the channel",
+        "ts": "1427437455.000007"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wait",
+        "ts": "1427437461.000008"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what the fuck",
+        "ts": "1427437463.000009"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh okay",
+        "ts": "1427437465.000010"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "\/giphy fml",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/i45Ah1dE2odI4\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/sleeping-with-sirens-fml-kellin-i45Ah1dE2odI4>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/i45Ah1dE2odI4\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 673724,
+                "title": "fml",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/sleeping-with-sirens-fml-kellin-i45Ah1dE2odI4"
+            }
+        ],
+        "ts": "1427437511.000011"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "\/giphy cards against humanity",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media3.giphy.com\/media\/Mvpn0sBpe5ig0\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/drugs-dont-do-kids-tw-Mvpn0sBpe5ig0>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/Mvpn0sBpe5ig0\/giphy.gif",
+                "image_width": 500,
+                "image_height": 282,
+                "image_bytes": 634387,
+                "title": "cards against humanity",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/drugs-dont-do-kids-tw-Mvpn0sBpe5ig0"
+            }
+        ],
+        "ts": "1427437530.000012"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "\/giphy dank memes",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media.giphy.com\/media\/wfFUlkf6HQzuw\/giphy-tumblr.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/reaction-wfFUlkf6HQzuw>",
+                "image_url": "http:\/\/media.giphy.com\/media\/wfFUlkf6HQzuw\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 141,
+                "image_bytes": 1613077,
+                "title": "dank memes",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/reaction-wfFUlkf6HQzuw"
+            }
+        ],
+        "ts": "1427437540.000013"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "rip",
+        "ts": "1427437576.000014"
+    },
+    {
+        "user": "U045MFQ3C",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MFQ3C|tlaister> has joined the channel",
+        "ts": "1427438673.000015"
+    }
+]

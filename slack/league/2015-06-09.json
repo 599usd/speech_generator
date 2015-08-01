@@ -1,0 +1,89 @@
+[
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah 3s OP",
+        "ts": "1433835905.000081"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we're 3-0 on `DunGaF`",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1433835913.000000"
+        },
+        "ts": "1433835908.000082"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<!channel>: league after warriors lose, okay?",
+        "ts": "1433902931.000002"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "<!channel>: we playing this shit game?",
+        "ts": "1433909338.000003"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Warriors played a shit game",
+        "ts": "1433909695.000004"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "):",
+        "ts": "1433909698.000005"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/puu.sh\/ij9mj\/6ff84220ba.png>",
+        "attachments": [
+            {
+                "fallback": "929x1080px image",
+                "image_url": "http:\/\/puu.sh\/ij9mj\/6ff84220ba.png",
+                "image_width": 929,
+                "image_height": 1080,
+                "image_bytes": 1445920,
+                "from_url": "http:\/\/puu.sh\/ij9mj\/6ff84220ba.png",
+                "id": 1
+            }
+        ],
+        "ts": "1433910180.000006"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Top kek",
+        "ts": "1433914532.000008"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Did you guys win?",
+        "ts": "1433914536.000009"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we're 5-0",
+        "ts": "1433914550.000010"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "Gold 3",
+        "ts": "1433914551.000011"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lmao",
+        "ts": "1433914552.000012"
+    }
+]

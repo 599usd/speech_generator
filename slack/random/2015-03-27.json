@@ -1,0 +1,30 @@
+[
+    {
+        "user": "U045T05DE",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045T05DE|shil> has joined the channel",
+        "ts": "1427469887.000000"
+    },
+    {
+        "user": "U046PCGDV",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046PCGDV|weirdodunno> has joined the channel",
+        "ts": "1427490398.000000"
+    },
+    {
+        "user": "U046T9LSZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046T9LSZ|numba1> has joined the channel",
+        "ts": "1427518394.000002"
+    },
+    {
+        "user": "U04642Y4L",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04642Y4L|clai99> has joined the channel",
+        "ts": "1427519285.000003"
+    }
+]

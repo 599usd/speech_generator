@@ -1,0 +1,9 @@
+[
+    {
+        "user": "U04NBCC1U",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U04NBCC1U|chrisl24> has joined the channel",
+        "ts": "1430936186.000003"
+    }
+]

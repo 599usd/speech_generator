@@ -1,0 +1,2572 @@
+[
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/www.bestbuy.com\/site\/lg-29-ips-led-hd-219-ultrawide-monitor-black\/9222018.p?acampID=0&amp;ref=8575135&amp;loc=0&amp;id=1219399592125&amp;skuId=9222018>",
+        "attachments": [
+            {
+                "service_name": "Best Buy",
+                "title": "LG - 29\" IPS LED HD 21:9 UltraWide Monitor - Black",
+                "title_link": "http:\/\/www.bestbuy.com\/site\/lg-29-ips-led-hd-219-ultrawide-monitor-black\/9222018.p?acampID=0&ref=8575135&loc=0&id=1219399592125&skuId=9222018",
+                "text": "29&amp;#34; IPS LED HD 21:9 UltraWide Monitor, Read customer reviews and buy online at Best Buy.",
+                "fallback": "Best Buy: LG - 29\" IPS LED HD 21:9 UltraWide Monitor - Black",
+                "thumb_url": "http:\/\/pisces.bbystatic.com\/image2\/BestBuy_US\/images\/products\/9222\/9222018_sa.jpg;canvasHeight=210;canvasWidth=210",
+                "from_url": "http:\/\/www.bestbuy.com\/site\/lg-29-ips-led-hd-219-ultrawide-monitor-black\/9222018.p?acampID=0&ref=8575135&loc=0&id=1219399592125&skuId=9222018",
+                "thumb_width": 210,
+                "thumb_height": 210,
+                "id": 1
+            }
+        ],
+        "ts": "1427535586.000227"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/slickdeals.net\/f\/7731271-sennheiser-hd700-open-headphones-550-free-shipping>",
+        "attachments": [
+            {
+                "service_name": "Slickdeals",
+                "title": "Sennheiser HD700 Open Headphones $550 + Free Shipping",
+                "title_link": "http:\/\/slickdeals.net\/f\/7731271-sennheiser-hd700-open-headphones-550-free-shipping",
+                "text": "Update: This popular deal is now available again. Focus <http:\/\/Camera.com|Camera.com> has Sennheiser HD700 Open Headphones on sale for $549.99. Shipping is free. Thanks iconian",
+                "fallback": "Slickdeals: Sennheiser HD700 Open Headphones $550 + Free Shipping",
+                "thumb_url": "http:\/\/slickdeals.net\/attachment\/3\/5\/9\/4\/0\/2\/8\/150x150\/3331459.thumb",
+                "from_url": "http:\/\/slickdeals.net\/f\/7731271-sennheiser-hd700-open-headphones-550-free-shipping",
+                "thumb_width": 150,
+                "thumb_height": 150,
+                "id": 1
+            }
+        ],
+        "ts": "1427535720.000229"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wtf",
+        "ts": "1427568287.000231"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats a cheap monitor",
+        "ts": "1427568289.000232"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "\/giphy edm",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media2.giphy.com\/media\/Ll51Fymhn2oso\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/edm-krewella-Ll51Fymhn2oso>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/Ll51Fymhn2oso\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 759254,
+                "title": "edm",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/edm-krewella-Ll51Fymhn2oso"
+            }
+        ],
+        "ts": "1427578161.000233"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "\/giphy lollapalooza",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/xTiTnB2qfyC8L39Ppu\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/lollapalooza-timelapse-rain-xTiTnB2qfyC8L39Ppu>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/xTiTnB2qfyC8L39Ppu\/giphy.gif",
+                "image_width": 450,
+                "image_height": 253,
+                "image_bytes": 2043580,
+                "title": "lollapalooza",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/lollapalooza-timelapse-rain-xTiTnB2qfyC8L39Ppu"
+            }
+        ],
+        "ts": "1427578174.000234"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "2dank",
+        "ts": "1427579640.000235"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you can see navy pier :)))))))))))",
+        "ts": "1427579656.000236"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U046PCGDV|weirdodunno> commented on <@U03UNR40S|wyaeiga>'s file <https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg|TV stand :^)>: this is shit",
+        "file": {
+            "id": "F046R5K29",
+            "created": 1427498929,
+            "timestamp": 1427498929,
+            "name": "IMG_20150386_182832.jpg",
+            "title": "TV stand :^)",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U03UNR40S",
+            "editable": false,
+            "size": 3252991,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/img_20150386_182832.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/download\/img_20150386_182832.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/img_20150386_182832.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/download\/img_20150386_182832.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 267,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 534,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 759,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F046R5K29-32ce2504a7",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 7
+        },
+        "comment": {
+            "id": "Fc046YDL0B",
+            "created": 1427586147,
+            "timestamp": 1427586147,
+            "user": "U046PCGDV",
+            "comment": "this is shit"
+        },
+        "ts": "1427586147.000237"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wow",
+        "ts": "1427586334.000238"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so bm",
+        "ts": "1427586336.000239"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U03UNR40S|wyaeiga> commented on <@U03UNR40S|wyaeiga>'s file <https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg|TV stand :^)>: please fuck off and die, :gary: ",
+        "file": {
+            "id": "F046R5K29",
+            "created": 1427498929,
+            "timestamp": 1427498929,
+            "name": "IMG_20150386_182832.jpg",
+            "title": "TV stand :^)",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U03UNR40S",
+            "editable": false,
+            "size": 3252991,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/img_20150386_182832.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/download\/img_20150386_182832.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/img_20150386_182832.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/download\/img_20150386_182832.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 267,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 534,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 759,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F046R5K29-32ce2504a7",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 7
+        },
+        "comment": {
+            "id": "Fc046YDZPF",
+            "created": 1427586357,
+            "timestamp": 1427586357,
+            "user": "U03UNR40S",
+            "comment": "please fuck off and die, :gary: "
+        },
+        "ts": "1427586357.000240"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U045T05DE|shil> commented on <@U03UNR40S|wyaeiga>'s file <https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg|TV stand :^)>: fuck I have the same one at home lol\n",
+        "file": {
+            "id": "F046R5K29",
+            "created": 1427498929,
+            "timestamp": 1427498929,
+            "name": "IMG_20150386_182832.jpg",
+            "title": "TV stand :^)",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U03UNR40S",
+            "editable": false,
+            "size": 3252991,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/img_20150386_182832.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/download\/img_20150386_182832.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/img_20150386_182832.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/download\/img_20150386_182832.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 267,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 534,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 759,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F046R5K29-32ce2504a7",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 7
+        },
+        "comment": {
+            "id": "Fc04696CHS",
+            "created": 1427586793,
+            "timestamp": 1427586793,
+            "user": "U045T05DE",
+            "comment": "fuck I have the same one at home lol\n"
+        },
+        "ts": "1427586793.000241"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U03UNR40S|wyaeiga> commented on <@U03UNR40S|wyaeiga>'s file <https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg|TV stand :^)>: do you actually?\n",
+        "file": {
+            "id": "F046R5K29",
+            "created": 1427498929,
+            "timestamp": 1427498929,
+            "name": "IMG_20150386_182832.jpg",
+            "title": "TV stand :^)",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U03UNR40S",
+            "editable": false,
+            "size": 3252991,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/img_20150386_182832.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/download\/img_20150386_182832.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/img_20150386_182832.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/download\/img_20150386_182832.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 267,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 534,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 759,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F046R5K29-32ce2504a7",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 7
+        },
+        "comment": {
+            "id": "Fc046YEY8Z",
+            "created": 1427586807,
+            "timestamp": 1427586807,
+            "user": "U03UNR40S",
+            "comment": "do you actually?\n"
+        },
+        "ts": "1427586807.000242"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U045T05DE|shil> commented on <@U03UNR40S|wyaeiga>'s file <https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg|TV stand :^)>: its really similar",
+        "file": {
+            "id": "F046R5K29",
+            "created": 1427498929,
+            "timestamp": 1427498929,
+            "name": "IMG_20150386_182832.jpg",
+            "title": "TV stand :^)",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U03UNR40S",
+            "editable": false,
+            "size": 3252991,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/img_20150386_182832.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/download\/img_20150386_182832.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/img_20150386_182832.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/download\/img_20150386_182832.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 267,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 534,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 759,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F046R5K29-32ce2504a7",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 7
+        },
+        "comment": {
+            "id": "Fc046YEY9X",
+            "created": 1427586814,
+            "timestamp": 1427586814,
+            "user": "U045T05DE",
+            "comment": "its really similar"
+        },
+        "ts": "1427586814.000243"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U045T05DE|shil> commented on <@U03UNR40S|wyaeiga>'s file <https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg|TV stand :^)>: like almost exactly the same",
+        "file": {
+            "id": "F046R5K29",
+            "created": 1427498929,
+            "timestamp": 1427498929,
+            "name": "IMG_20150386_182832.jpg",
+            "title": "TV stand :^)",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U03UNR40S",
+            "editable": false,
+            "size": 3252991,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/img_20150386_182832.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/download\/img_20150386_182832.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/img_20150386_182832.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/download\/img_20150386_182832.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 267,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 534,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 759,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F046R5K29-32ce2504a7",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 7
+        },
+        "comment": {
+            "id": "Fc046YEYAV",
+            "created": 1427586823,
+            "timestamp": 1427586823,
+            "user": "U045T05DE",
+            "comment": "like almost exactly the same"
+        },
+        "ts": "1427586823.000244"
+    },
+    {
+        "type": "message",
+        "subtype": "file_comment",
+        "text": "<@U03UNR40S|wyaeiga> commented on <@U03UNR40S|wyaeiga>'s file <https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg|TV stand :^)>: pls come visit me bby i'm lonely",
+        "file": {
+            "id": "F046R5K29",
+            "created": 1427498929,
+            "timestamp": 1427498929,
+            "name": "IMG_20150386_182832.jpg",
+            "title": "TV stand :^)",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U03UNR40S",
+            "editable": false,
+            "size": 3252991,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/img_20150386_182832.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F046R5K29-32ce2504a7\/download\/img_20150386_182832.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/img_20150386_182832.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F046R5K29\/download\/img_20150386_182832.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 267,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 534,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 759,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/wyaeiga\/F046R5K29\/img_20150386_182832.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F046R5K29-32ce2504a7",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 7
+        },
+        "comment": {
+            "id": "Fc046YEYB5",
+            "created": 1427586824,
+            "timestamp": 1427586824,
+            "user": "U03UNR40S",
+            "comment": "pls come visit me bby i'm lonely"
+        },
+        "ts": "1427586824.000245"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "shil come visit me",
+        "ts": "1427586842.000246"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "my apt is nice i promis",
+        "ts": "1427586848.000247"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "right the fuck now?",
+        "ts": "1427586868.000248"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "DUH",
+        "ts": "1427586875.000249"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "PLEASE",
+        "ts": "1427586877.000250"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1427586878.000251"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "8)",
+        "ts": "1427586878.000252"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "but how bby",
+        "ts": "1427586882.000253"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "walking prob eziest",
+        "ts": "1427586890.000254"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "but what about tumbling?",
+        "ts": "1427586910.000255"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "x))))))))))))))))))))))",
+        "ts": "1427586922.000256"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "furgot abt dat x)",
+        "ts": "1427586925.000257"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "XP",
+        "ts": "1427586956.000258"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "do you think if I try really hard",
+        "ts": "1427587025.000259"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "then belvedere will back shilbburgers",
+        "ts": "1427587035.000260"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "?",
+        "ts": "1427587037.000261"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "only if you didn't shorten the name",
+        "ts": "1427587047.000262"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "maybe Ill take out a loan from :enova:",
+        "ts": "1427587054.000263"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "from shil b burgers and investments and talent agency",
+        "ts": "1427587056.000264"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you can take out a loan from :enova: and have your company be bought out by :belvedere: and then use :square: as your payment platform",
+        "ts": "1427587080.000265"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then hire :gary: as your CEO",
+        "ts": "1427587094.000266"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "RS bonus exp weekend??????",
+        "ts": "1427587094.000267"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "wow how'd we ever live without these dank customojies",
+        "ts": "1427587107.000268"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then dank slack bot auto responses",
+        "ts": "1427587116.000269"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary:",
+        "ts": "1427587119.000270"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "RS bonus exp weekend??????",
+        "ts": "1427587120.000271"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ayy",
+        "ts": "1427587124.000272"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1427587125.000273"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "are yyou gonna ever visit us again this year kevin :disappointed:",
+        "ts": "1427587167.000274"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah i'm gonna head down maybe next weekend or the one after the next",
+        "ts": "1427587179.000275"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm gonna take my speakers and shit :disappointed:",
+        "ts": "1427587188.000276"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "come the one after",
+        "ts": "1427587190.000277"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why the one after",
+        "ts": "1427587195.000278"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "I'm not gonna be here next weekend",
+        "ts": "1427587200.000279"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "oh weal",
+        "ts": "1427587203.000280"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "goin to indyadutulu",
+        "ts": "1427587207.000281"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck <http:\/\/A.Ro|A.Ro>",
+        "ts": "1427587216.000282"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ";^)",
+        "ts": "1427587217.000283"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "&gt;&lt;",
+        "ts": "1427587222.000284"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt;&lt;",
+        "ts": "1427587225.000285"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt;&lt;",
+        "ts": "1427587226.000286"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt;,&lt;",
+        "ts": "1427587228.000287"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;.",
+        "ts": "1427587229.000288"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;....,&lt;",
+        "ts": "1427587234.000289"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt;,,,,&lt;",
+        "ts": "1427587238.000290"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt;,&lt;",
+        "ts": "1427587240.000291"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt;&lt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&lt;&gt;",
+        "ts": "1427587243.000292"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "let's go visit JD",
+        "ts": "1427587245.000293"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\\&gt;,&lt;",
+        "ts": "1427587246.000294"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you know indy and south bend",
+        "ts": "1427587252.000295"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "aren't close",
+        "ts": "1427587254.000296"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "right?",
+        "ts": "1427587255.000297"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i know",
+        "ts": "1427587260.000298"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "okay",
+        "ts": "1427587262.000299"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i'm just saying at some point",
+        "ts": "1427587265.000300"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just making sure",
+        "ts": "1427587265.000301"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "isn't he",
+        "ts": "1427587270.000302"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "JD's at UIUC this weekend kek",
+        "ts": "1427587272.000303"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "he's at UIUC",
+        "ts": "1427587273.000304"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "right now",
+        "ts": "1427587274.000305"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "yeh",
+        "ts": "1427587274.000306"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1427587274.000307"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "ayy",
+        "ts": "1427587278.000308"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1427587278.000309"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ayy",
+        "ts": "1427587281.000310"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1427587281.000311"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ayy",
+        "ts": "1427587282.000312"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1427587282.000313"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ayy",
+        "ts": "1427587284.000314"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1427587284.000315"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary:",
+        "ts": "1427587284.000316"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "RS bonus exp weekend??????",
+        "ts": "1427587284.000317"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ayy",
+        "ts": "1427587285.000318"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ayy",
+        "ts": "1427587285.000319"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1427587285.000320"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1427587285.000321"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "ayy",
+        "ts": "1427587286.000322"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1427587286.000323"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary:",
+        "ts": "1427587289.000324"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary:",
+        "ts": "1427587289.000325"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "RS bonus exp weekend??????",
+        "ts": "1427587290.000326"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "RS bonus exp weekend??????",
+        "ts": "1427587290.000327"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary:",
+        "ts": "1427587290.000328"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "RS bonus exp weekend??????",
+        "ts": "1427587290.000329"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary:",
+        "ts": "1427587290.000330"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "RS bonus exp weekend??????",
+        "ts": "1427587290.000331"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary:",
+        "ts": "1427587291.000332"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "RS bonus exp weekend??????",
+        "ts": "1427587291.000333"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary:",
+        "ts": "1427587291.000334"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "RS bonus exp weekend??????",
+        "ts": "1427587291.000335"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary:",
+        "ts": "1427587292.000336"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary:",
+        "ts": "1427587292.000337"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "RS bonus exp weekend??????",
+        "ts": "1427587292.000338"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "RS bonus exp weekend??????",
+        "ts": "1427587292.000339"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": ":gary:",
+        "ts": "1427587297.000340"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "RS bonus exp weekend??????",
+        "ts": "1427587297.000341"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": ":gary2:",
+        "ts": "1427587301.000342"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "Topre keyboards????",
+        "ts": "1427587301.000343"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary3:",
+        "ts": "1427587305.000344"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "I'm best Dustforce player alive :kappa:",
+        "ts": "1427587305.000345"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "why am i so cool that i get 3 emotes?",
+        "ts": "1427587316.000346"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because grooby doo is our favorite doggy",
+        "ts": "1427587326.000347"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1427587327.000348"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "8)",
+        "ts": "1427587327.000349"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ya iiiiiii want one :angry:",
+        "ts": "1427587338.000350"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":shil:",
+        "ts": "1427587342.000351"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": ":simple_smile:",
+        "ts": "1427587376.000352"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "give me a cool macro",
+        "ts": "1427587382.000353"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "is 15 lbs of rice for ~$24 a bad deal? i don't know",
+        "ts": "1427587386.000354"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "what kind of rice",
+        "ts": "1427587404.000355"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "asking my mom right now lol",
+        "ts": "1427587409.000356"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "she said if its Basmati then it's cash deal",
+        "ts": "1427587424.000357"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "botan",
+        "ts": "1427587430.000358"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "calrose",
+        "ts": "1427587431.000359"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "dafuq",
+        "ts": "1427587435.000360"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yellow skin asian people rice",
+        "ts": "1427587436.000361"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "idk",
+        "ts": "1427587437.000362"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "probably",
+        "ts": "1427587441.000363"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm sure it's aight",
+        "ts": "1427587445.000364"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":shil:",
+        "ts": "1427587447.000365"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "I'm a downs boy :kreygasm:",
+        "ts": "1427587447.000366"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "yeh",
+        "ts": "1427587448.000367"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": ":rea:",
+        "ts": "1427587454.000368"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary3:",
+        "ts": "1427587455.000369"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+        "ts": "1427587455.000370"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary2:",
+        "ts": "1427587484.000371"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "NORMIES GET OUT",
+        "ts": "1427587484.000372"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "oh did you bad bois pay rent?",
+        "ts": "1427587700.000373"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "gotta do dat do dat still",
+        "ts": "1427587706.000374"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck that",
+        "ts": "1427587707.000375"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "get evicted",
+        "ts": "1427587712.000376"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "idgaf",
+        "ts": "1427587715.000377"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "yeh",
+        "ts": "1427587716.000378"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":wink:",
+        "ts": "1427587718.000379"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "cum live wit me insted bby",
+        "ts": "1427587722.000380"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "dont you mean",
+        "ts": "1427587723.000381"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "idof",
+        "ts": "1427587724.000382"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "idof?",
+        "ts": "1427587734.000383"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "i dream of fallafel",
+        "ts": "1427587739.000384"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "eh idof is ok",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1427587758.000000"
+        },
+        "ts": "1427587750.000385"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "i think its pretty good",
+        "ts": "1427587764.000387"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "where is :belvedere: again?",
+        "ts": "1427587781.000388"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "one of the few places where I could eat for lunch and not get rekt by the post meal sleepies",
+        "ts": "1427587787.000389"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "how far will you be from :enova:?",
+        "ts": "1427587789.000390"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "monroe and canal",
+        "ts": "1427587791.000391"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "hmm",
+        "ts": "1427587793.000392"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "okay",
+        "ts": "1427587794.000393"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "like 3 or 4 blox",
+        "ts": "1427587796.000394"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah like 2 blocks N and 2 blocks W",
+        "ts": "1427587802.000395"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "yeh",
+        "ts": "1427587805.000396"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": ":_)",
+        "ts": "1427587806.000397"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1427587811.000398"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "lets get lunch together",
+        "ts": "1427587813.000399"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "everyday",
+        "ts": "1427587815.000400"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "x))))))))))))))))))))))))))",
+        "ts": "1427587819.000401"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "idk about errday but ye let's go get food",
+        "ts": "1427587826.000402"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you ever had saucy porka before?",
+        "ts": "1427587831.000403"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we can have bro lunch dates there",
+        "ts": "1427587842.000404"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "na I havent",
+        "ts": "1427587859.000405"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's pretty good",
+        "ts": "1427587864.000406"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "well it better be",
+        "ts": "1427587876.000407"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "cuz now my expections are this high",
+        "ts": "1427587891.000408"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": ":arrow_double_up:",
+        "ts": "1427587907.000409"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lmao",
+        "ts": "1427587911.000410"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ayy",
+        "ts": "1427587913.000411"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1427587913.000412"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy dank",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media0.giphy.com\/media\/11JzdPW0c8rp6\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/art-trippy-beautiful-11JzdPW0c8rp6>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/11JzdPW0c8rp6\/giphy.gif",
+                "image_width": 500,
+                "image_height": 350,
+                "image_bytes": 267339,
+                "title": "dank",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/art-trippy-beautiful-11JzdPW0c8rp6"
+            }
+        ],
+        "ts": "1427587929.000413"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "let's just only get mcdonalds together",
+        "ts": "1427587931.000414"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy mcd",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media3.giphy.com\/media\/P3wVRBcKs7Ys\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/yoseob-cutiepie-yang-P3wVRBcKs7Ys>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/P3wVRBcKs7Ys\/giphy.gif",
+                "image_width": 450,
+                "image_height": 253,
+                "image_bytes": 498396,
+                "title": "mcd",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/yoseob-cutiepie-yang-P3wVRBcKs7Ys"
+            }
+        ],
+        "ts": "1427587938.000415"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy mcdonalds",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media3.giphy.com\/media\/T7BxcCN4wXiV2\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/cheezburger-mcdonalds-win-T7BxcCN4wXiV2>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/T7BxcCN4wXiV2\/giphy.gif",
+                "image_width": 400,
+                "image_height": 317,
+                "image_bytes": 1179939,
+                "title": "mcdonalds",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/cheezburger-mcdonalds-win-T7BxcCN4wXiV2"
+            }
+        ],
+        "ts": "1427587943.000416"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy mcdonalds",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media4.giphy.com\/media\/EYRoAh7aqgwGQ\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/mcdonalds-olympics-EYRoAh7aqgwGQ>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/EYRoAh7aqgwGQ\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 417138,
+                "title": "mcdonalds",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/mcdonalds-olympics-EYRoAh7aqgwGQ"
+            }
+        ],
+        "ts": "1427587948.000417"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy belvedere",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/17A1h0ivKOszC\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/park-georgia-belvedere-17A1h0ivKOszC>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/17A1h0ivKOszC\/giphy.gif",
+                "image_width": 576,
+                "image_height": 384,
+                "image_bytes": 492988,
+                "title": "belvedere",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/park-georgia-belvedere-17A1h0ivKOszC"
+            }
+        ],
+        "ts": "1427587956.000418"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy bk",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media4.giphy.com\/media\/7fX6KDbQPP2j6\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/buster-keaton-bk-7fX6KDbQPP2j6>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/7fX6KDbQPP2j6\/giphy.gif",
+                "image_width": 245,
+                "image_height": 180,
+                "image_bytes": 942760,
+                "title": "bk",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/buster-keaton-bk-7fX6KDbQPP2j6"
+            }
+        ],
+        "ts": "1427587959.000419"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy belvedere",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/o2v2ostVhSncY\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/lady-gaga-artpop-14-o2v2ostVhSncY>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/o2v2ostVhSncY\/giphy.gif",
+                "image_width": 245,
+                "image_height": 200,
+                "image_bytes": 875747,
+                "title": "belvedere",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/lady-gaga-artpop-14-o2v2ostVhSncY"
+            }
+        ],
+        "ts": "1427587961.000420"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy belvedere",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media2.giphy.com\/media\/10jpAaRPyVv3dS\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/80s-tv-mr-belvedere-sashay-away-10jpAaRPyVv3dS>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/10jpAaRPyVv3dS\/giphy.gif",
+                "image_width": 480,
+                "image_height": 360,
+                "image_bytes": 935523,
+                "title": "belvedere",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/80s-tv-mr-belvedere-sashay-away-10jpAaRPyVv3dS"
+            }
+        ],
+        "ts": "1427587968.000421"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy belvedere",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media4.giphy.com\/media\/10jpAaRPyVv3dS\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/80s-tv-mr-belvedere-sashay-away-10jpAaRPyVv3dS>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/10jpAaRPyVv3dS\/giphy.gif",
+                "image_width": 480,
+                "image_height": 360,
+                "image_bytes": 935523,
+                "title": "belvedere",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/80s-tv-mr-belvedere-sashay-away-10jpAaRPyVv3dS"
+            }
+        ],
+        "ts": "1427587971.000422"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy belvedere",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media0.giphy.com\/media\/o2v2ostVhSncY\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/lady-gaga-artpop-14-o2v2ostVhSncY>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/o2v2ostVhSncY\/giphy.gif",
+                "image_width": 245,
+                "image_height": 200,
+                "image_bytes": 875747,
+                "title": "belvedere",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/lady-gaga-artpop-14-o2v2ostVhSncY"
+            }
+        ],
+        "ts": "1427587975.000423"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy belvedere",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media0.giphy.com\/media\/JLqKAtz2yypva\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/mr-belvedere-sitting-pretty-maureen-ohara-JLqKAtz2yypva>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/JLqKAtz2yypva\/giphy.gif",
+                "image_width": 300,
+                "image_height": 221,
+                "image_bytes": 1002514,
+                "title": "belvedere",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/mr-belvedere-sitting-pretty-maureen-ohara-JLqKAtz2yypva"
+            }
+        ],
+        "ts": "1427587979.000424"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy investment banking",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media3.giphy.com\/media\/8wSKVxAfRh4Y\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/off-takes-cyclist-8wSKVxAfRh4Y>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/8wSKVxAfRh4Y\/giphy.gif",
+                "image_width": 320,
+                "image_height": 179,
+                "image_bytes": 329088,
+                "title": "investment banking",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/off-takes-cyclist-8wSKVxAfRh4Y"
+            }
+        ],
+        "ts": "1427587987.000425"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "lmao wut is this",
+        "ts": "1427587990.000426"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy software",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media0.giphy.com\/media\/4Nz0Lezw8WY6I\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/gas-met-reports-4Nz0Lezw8WY6I>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/4Nz0Lezw8WY6I\/giphy.gif",
+                "image_width": 500,
+                "image_height": 282,
+                "image_bytes": 1623762,
+                "title": "software",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/gas-met-reports-4Nz0Lezw8WY6I"
+            }
+        ],
+        "ts": "1427587997.000427"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy front end",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/O0ddEQTeUVpg4\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/community-tangled-jeff-winger-O0ddEQTeUVpg4>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/O0ddEQTeUVpg4\/giphy.gif",
+                "image_width": 245,
+                "image_height": 200,
+                "image_bytes": 712174,
+                "title": "front end",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/community-tangled-jeff-winger-O0ddEQTeUVpg4"
+            }
+        ],
+        "ts": "1427587997.000428"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy math",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media0.giphy.com\/media\/wpOlajG23Up5S\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/physics-math-latex-wpOlajG23Up5S>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/wpOlajG23Up5S\/giphy.gif",
+                "image_width": 435,
+                "image_height": 260,
+                "image_bytes": 94460,
+                "title": "math",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/physics-math-latex-wpOlajG23Up5S"
+            }
+        ],
+        "ts": "1427588005.000429"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy physics",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media0.giphy.com\/media\/XtrOLkNaJpNtK\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/physics-chemistry-XtrOLkNaJpNtK>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/XtrOLkNaJpNtK\/giphy.gif",
+                "image_width": 240,
+                "image_height": 135,
+                "image_bytes": 141158,
+                "title": "physics",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/physics-chemistry-XtrOLkNaJpNtK"
+            }
+        ],
+        "ts": "1427588010.000430"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy math",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media0.giphy.com\/media\/mh26RZngY41JS\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/art-math-mh26RZngY41JS>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/mh26RZngY41JS\/giphy.gif",
+                "image_width": 450,
+                "image_height": 457,
+                "image_bytes": 883175,
+                "title": "math",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/art-math-mh26RZngY41JS"
+            }
+        ],
+        "ts": "1427588016.000431"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy topology",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media0.giphy.com\/media\/RZix7ieatknde\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/animation-3d-math-RZix7ieatknde>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/RZix7ieatknde\/giphy.gif",
+                "image_width": 360,
+                "image_height": 188,
+                "image_bytes": 238306,
+                "title": "topology",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/animation-3d-math-RZix7ieatknde"
+            }
+        ],
+        "ts": "1427588025.000432"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy torus",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/kD9kGqo1o1hCM\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/avril-own-one-ok-rock-kD9kGqo1o1hCM>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/kD9kGqo1o1hCM\/giphy.gif",
+                "image_width": 285,
+                "image_height": 216,
+                "image_bytes": 693963,
+                "title": "torus",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/avril-own-one-ok-rock-kD9kGqo1o1hCM"
+            }
+        ],
+        "ts": "1427588035.000433"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy torus",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/3AU0Q6LAN2yxW\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/math-mathematics-3AU0Q6LAN2yxW>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/3AU0Q6LAN2yxW\/giphy.gif",
+                "image_width": 240,
+                "image_height": 240,
+                "image_bytes": 508851,
+                "title": "torus",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/math-mathematics-3AU0Q6LAN2yxW"
+            }
+        ],
+        "ts": "1427588038.000434"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy graph theory",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media2.giphy.com\/media\/hh1Yg10u5OFMY\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/chaos-theory-hh1Yg10u5OFMY>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/hh1Yg10u5OFMY\/giphy.gif",
+                "image_width": 200,
+                "image_height": 275,
+                "image_bytes": 23983,
+                "title": "graph theory",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/chaos-theory-hh1Yg10u5OFMY"
+            }
+        ],
+        "ts": "1427588040.000435"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy number theory",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media.giphy.com\/media\/d32pS1eiqe6oE\/giphy-tumblr.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/animation-physics-math-d32pS1eiqe6oE>",
+                "image_url": "http:\/\/media.giphy.com\/media\/d32pS1eiqe6oE\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 936755,
+                "title": "number theory",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/animation-physics-math-d32pS1eiqe6oE"
+            }
+        ],
+        "ts": "1427588045.000436"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy front end",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/N31TAlhnFHAOY\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/art-alien-bike-N31TAlhnFHAOY>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/N31TAlhnFHAOY\/giphy.gif",
+                "image_width": 500,
+                "image_height": 290,
+                "image_bytes": 581175,
+                "title": "front end",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/art-alien-bike-N31TAlhnFHAOY"
+            }
+        ],
+        "ts": "1427588053.000437"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy league of legends",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media2.giphy.com\/media\/XWzG3yJl1rqrS\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/league-of-legends-lux-leagueoflegends-XWzG3yJl1rqrS>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/XWzG3yJl1rqrS\/giphy.gif",
+                "image_width": 488,
+                "image_height": 500,
+                "image_bytes": 49916,
+                "title": "league of legends",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/league-of-legends-lux-leagueoflegends-XWzG3yJl1rqrS"
+            }
+        ],
+        "ts": "1427588061.000438"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy graphics",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media3.giphy.com\/media\/JvOO00GiS4t4k\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/comments-devil-JvOO00GiS4t4k>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/JvOO00GiS4t4k\/giphy.gif",
+                "image_width": 384,
+                "image_height": 288,
+                "image_bytes": 39206,
+                "title": "graphics",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/comments-devil-JvOO00GiS4t4k"
+            }
+        ],
+        "ts": "1427588068.000439"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy security",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/81xwEHX23zhvy\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/81xwEHX23zhvy>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/81xwEHX23zhvy\/giphy.gif",
+                "image_width": 700,
+                "image_height": 379,
+                "image_bytes": 1950556,
+                "title": "security",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/81xwEHX23zhvy"
+            }
+        ],
+        "ts": "1427588078.000440"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy UI",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media4.giphy.com\/media\/10cnmY4jZohhUk\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/doctor-who-ui-user-interface-10cnmY4jZohhUk>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/10cnmY4jZohhUk\/giphy.gif",
+                "image_width": 245,
+                "image_height": 245,
+                "image_bytes": 668539,
+                "title": "UI",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/doctor-who-ui-user-interface-10cnmY4jZohhUk"
+            }
+        ],
+        "ts": "1427588079.000441"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy lens flare",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media0.giphy.com\/media\/Me1GB9z50XUKQ\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/thengb-wave-the-ngb-lens-flare-Me1GB9z50XUKQ>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/Me1GB9z50XUKQ\/giphy.gif",
+                "image_width": 500,
+                "image_height": 280,
+                "image_bytes": 471731,
+                "title": "lens flare",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/thengb-wave-the-ngb-lens-flare-Me1GB9z50XUKQ"
+            }
+        ],
+        "ts": "1427588086.000442"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lmao",
+        "ts": "1427588089.000443"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy css",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media2.giphy.com\/media\/QYWRecbLiAyYg\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/html5-javascript-css3-QYWRecbLiAyYg>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/QYWRecbLiAyYg\/giphy.gif",
+                "image_width": 583,
+                "image_height": 327,
+                "image_bytes": 49860,
+                "title": "css",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/html5-javascript-css3-QYWRecbLiAyYg"
+            }
+        ],
+        "ts": "1427588091.000444"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i like this lens flare one",
+        "ts": "1427588092.000445"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that's some pretty neato css",
+        "ts": "1427588106.000446"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "dat occilation",
+        "ts": "1427588111.000447"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "look at this cool replacement for javascript alerts :simple_smile:",
+        "ts": "1427588159.000448"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<https:\/\/github.com\/t4t5\/sweetalert>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "t4t5\/sweetalert",
+                "title_link": "https:\/\/github.com\/t4t5\/sweetalert",
+                "text": "sweetalert - A beautiful replacement for JavaScript's \"alert\"",
+                "fallback": "GitHub: t4t5\/sweetalert",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/2598660?v=3&s=400",
+                "from_url": "https:\/\/github.com\/t4t5\/sweetalert",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1427588159.000449"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's actually kinda neat",
+        "ts": "1427588163.000451"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "yeh",
+        "ts": "1427588183.000452"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy compilers",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media3.giphy.com\/media\/pvtScjqTWUwes\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/error-syntax-compiler-pvtScjqTWUwes>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/pvtScjqTWUwes\/giphy.gif",
+                "image_width": 300,
+                "image_height": 168,
+                "image_bytes": 320166,
+                "title": "compilers",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/error-syntax-compiler-pvtScjqTWUwes"
+            }
+        ],
+        "ts": "1427588205.000453"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck i bought everything i needed to make curry today",
+        "ts": "1427588209.000454"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and nice",
+        "ts": "1427588212.000455"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i like that the quotation is also relevant to cs 421",
+        "ts": "1427588218.000456"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1427588220.000457"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "8)",
+        "ts": "1427588220.000458"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "lol ya",
+        "ts": "1427588222.000459"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but i forgot to buy oil",
+        "ts": "1427588227.000460"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "nice",
+        "ts": "1427588231.000461"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "zzz and i don't wanna go out again to get it",
+        "ts": "1427588232.000462"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "that extra healthy curry",
+        "ts": "1427588236.000463"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so i'm just making a ham and cheese sandwich then",
+        "ts": "1427588240.000464"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "lol going from a real meal to fullretard",
+        "ts": "1427588254.000465"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\\giphy downs",
+        "ts": "1427588258.000466"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy downs",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/B5fqwJsogOtUc\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/race-danny-mcbride-eastbound-and-down-B5fqwJsogOtUc>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/B5fqwJsogOtUc\/giphy.gif",
+                "image_width": 400,
+                "image_height": 221,
+                "image_bytes": 1878981,
+                "title": "downs",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/race-danny-mcbride-eastbound-and-down-B5fqwJsogOtUc"
+            }
+        ],
+        "ts": "1427588263.000467"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "lel thats pretty good",
+        "ts": "1427588275.000468"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "xD",
+        "ts": "1427588275.000469"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i think golden curry is actually not that awful",
+        "ts": "1427588278.000470"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "in terms of nutrition",
+        "ts": "1427588285.000471"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like it's high on sodium",
+        "ts": "1427588288.000472"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but that's about it",
+        "ts": "1427588289.000473"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "na its aight",
+        "ts": "1427588295.000474"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck dude",
+        "ts": "1427588304.000475"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i've been eating so many",
+        "ts": "1427588307.000476"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy 420",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media4.giphy.com\/media\/uwa35VMtq9yWQ\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/drugs-weed-420-uwa35VMtq9yWQ>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/uwa35VMtq9yWQ\/giphy.gif",
+                "image_width": 350,
+                "image_height": 205,
+                "image_bytes": 992454,
+                "title": "420",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/drugs-weed-420-uwa35VMtq9yWQ"
+            }
+        ],
+        "ts": "1427588308.000477"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "skinny T-K-Ys w\/ flatbread",
+        "ts": "1427588314.000478"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "from potbelly",
+        "ts": "1427588318.000479"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "dece",
+        "ts": "1427588324.000480"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "getting tired of that shit lol",
+        "ts": "1427588331.000481"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's aight but it doesn't compare to A Wreck",
+        "ts": "1427588342.000482"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^(",
+        "ts": "1427588343.000483"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "get the wreck",
+        "ts": "1427588344.000484"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "yeh",
+        "ts": "1427588347.000485"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "man up",
+        "ts": "1427588348.000486"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy manly",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media.giphy.com\/media\/dOP4VWMgj7RxS\/giphy-tumblr.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/transparent-mrw-friend-dOP4VWMgj7RxS>",
+                "image_url": "http:\/\/media.giphy.com\/media\/dOP4VWMgj7RxS\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 124,
+                "image_bytes": 759715,
+                "title": "manly",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/transparent-mrw-friend-dOP4VWMgj7RxS"
+            }
+        ],
+        "ts": "1427588353.000487"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wreck 2 many kcals",
+        "ts": "1427588354.000488"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "<http:\/\/math.stackexchange.com\/questions\/1210765\/from-500-homosapien-engaged-females-what-are-the-oddz-nsfw>",
+        "attachments": [
+            {
+                "title": "From 500 homosapien engaged females, what are the oddz? (NSFW)",
+                "title_link": "http:\/\/math.stackexchange.com\/questions\/1210765\/from-500-homosapien-engaged-females-what-are-the-oddz-nsfw",
+                "text": "Say therere 100 horny females aged 14-20. Given so, what are the odds that every single female engaging in the sexual activity will have at least 1 orgasm? sssssThis doesn't consider factors like s...",
+                "fallback": "From 500 homosapien engaged females, what are the oddz? (NSFW)",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/math\/img\/apple-touch-icon@2.png?v=4ec1df2e49b1",
+                "from_url": "http:\/\/math.stackexchange.com\/questions\/1210765\/from-500-homosapien-engaged-females-what-are-the-oddz-nsfw",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "id": 1
+            }
+        ],
+        "ts": "1427588504.000489"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "mse asking the real questions",
+        "ts": "1427588516.000491"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "coolest guy on MSE",
+        "ts": "1427589231.000492"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "lel",
+        "ts": "1427589885.000493"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "xD",
+        "ts": "1427589886.000494"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck",
+        "ts": "1427590484.000495"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's been removed",
+        "ts": "1427590486.000496"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1427590487.000497"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":^)",
+        "ts": "1427601368.000498"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "8)",
+        "ts": "1427601368.000499"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "Any :league: tonight???",
+        "ts": "1427602212.000500"
+    },
+    {
+        "type": "message",
+        "user": "U04642Y4L",
+        "text": "im down to play",
+        "ts": "1427602899.000501"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "I'm down too, if we get enough to play",
+        "ts": "1427602974.000502"
+    },
+    {
+        "type": "message",
+        "user": "U04642Y4L",
+        "text": "whoes around to play?",
+        "ts": "1427604159.000503"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "No idea mang ",
+        "ts": "1427604216.000504"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "I'll be on here though whenever people come around to play",
+        "ts": "1427604233.000505"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "I can play",
+        "ts": "1427606303.000506"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "Anyone know if Thomas is around? ",
+        "ts": "1427606331.000507"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "And or Jason?",
+        "ts": "1427606334.000508"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "not sure about thomas hes not on gchat",
+        "ts": "1427606394.000509"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "Gg",
+        "ts": "1427606494.000510"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "Guess I'm just gonna watch TV then",
+        "ts": "1427606503.000511"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1427606504.000512"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "8)",
+        "ts": "1427606505.000513"
+    }
+]

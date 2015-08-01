@@ -1,0 +1,1793 @@
+[
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "my baby is in prod and nothing broke",
+        "ts": "1437744798.001820"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "hallelujah",
+        "ts": "1437744808.001821"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "\/giphy praise jesus",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/art-tpp-twitchplayspokemon-M4Y300WcGxFQI>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/M4Y300WcGxFQI\/giphy.gif",
+                "image_width": 250,
+                "image_height": 188,
+                "image_bytes": 843750,
+                "title": "praise jesus",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/art-tpp-twitchplayspokemon-M4Y300WcGxFQI"
+            }
+        ],
+        "ts": "1437744816.001822"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol",
+        "ts": "1437757737.001823"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "pidgeot",
+        "ts": "1437757739.001824"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "#birdjesus",
+        "ts": "1437758865.001825"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so",
+        "ts": "1437758911.001826"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "are you out partying",
+        "ts": "1437758913.001827"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "now",
+        "ts": "1437758915.001828"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "that you launched?",
+        "ts": "1437758916.001829"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "first thing to prod",
+        "ts": "1437758921.001830"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "might as well take the rest of the day off",
+        "ts": "1437758926.001831"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "sike",
+        "ts": "1437759036.001832"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'll be working late today probs",
+        "ts": "1437759040.001833"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "there are other problems I need to fix before I can deploy to the biggest trading desk",
+        "ts": "1437759052.001834"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so",
+        "ts": "1437759480.001835"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "shit is still broken",
+        "ts": "1437759483.001836"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gg",
+        "ts": "1437759483.001837"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why aren't you a good engineer like kevin shu",
+        "ts": "1437759491.001838"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "make thousand line diffs",
+        "ts": "1437759498.001839"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "for no change :simple_smile:",
+        "ts": "1437759503.001840"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "NICEUUUUUU",
+        "ts": "1437761333.001841"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I got my swag bag and ray bans from the party last saturday",
+        "ts": "1437761345.001842"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "apparently someone had found it but they didn't know it was mine",
+        "ts": "1437761354.001843"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut",
+        "ts": "1437761363.001844"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "good thing my ray bans had my name on the box",
+        "ts": "1437761364.001845"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how did you lose it",
+        "ts": "1437761366.001846"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how drunk were you",
+        "ts": "1437761371.001847"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "jesus",
+        "ts": "1437761372.001848"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I got drunk and left it at the club",
+        "ts": "1437761375.001849"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it was 3Am and I had been going since 7PM",
+        "ts": "1437761382.001850"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":confused:",
+        "ts": "1437761384.001851"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gotta be responsible man",
+        "ts": "1437761417.001852"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "dont get too fucked up tomorrow",
+        "ts": "1437761427.001853"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "dont die from alcohol poisoning pls",
+        "ts": "1437761431.001854"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "errryyones gonna be buying you drinks for your 21st",
+        "ts": "1437761445.001855"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "tomorrow isn't my birthday....",
+        "ts": "1437761469.001856"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "the party is scheduled for August 8th",
+        "ts": "1437761476.001857"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1437761482.001858"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wait",
+        "ts": "1437761484.001859"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im dum",
+        "ts": "1437761484.001860"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "my birthday is August 4th",
+        "ts": "1437761485.001861"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "okay",
+        "ts": "1437761488.001862"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "well",
+        "ts": "1437761490.001863"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "august 3rd",
+        "ts": "1437761492.001864"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "prepare your liver",
+        "ts": "1437761494.001865"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "take a day off from work",
+        "ts": "1437761500.001866"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and just drink the whole day",
+        "ts": "1437761505.001867"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "go to a random bar",
+        "ts": "1437761508.001868"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and casually show your id",
+        "ts": "1437761514.001869"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "free dranks",
+        "ts": "1437761516.001870"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I can't take a day off work",
+        "ts": "1437761630.001871"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":disappointed:",
+        "ts": "1437761634.001872"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why",
+        "ts": "1437761685.001873"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "i just spent the last 5 minutes trying to send myself \"ayylmao\" over sockets",
+        "ts": "1437762282.001874"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ayy lmao",
+        "ts": "1437762455.001875"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1437762455.001876"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so a girl I kinda knew for years and hung out with from time to time just got a new bf",
+        "ts": "1437767105.001877"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I was kinda into her and I think she might have been into me, but she had a boyfriend most of the time",
+        "ts": "1437767116.001878"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "anyways, people told me that she may or may not be into me, but I basically ignored her, but whenever she was around she'd always come and say hi",
+        "ts": "1437767145.001879"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but now that she has a bf I get closure on the whole situation",
+        "ts": "1437767165.001880"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I can now peacefully tell her to burn in hell in my mind as opposed to wondering if there was any possibility there",
+        "ts": "1437767187.001881"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":^)",
+        "ts": "1437767191.001882"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I think that she was a tease but had no idea",
+        "ts": "1437767205.001883"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "the mixed signals were strong with that one",
+        "ts": "1437767213.001884"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "remember boys, non-single women are useless outside of the office",
+        "ts": "1437767370.001885"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "<@U045MBNTQ> <@U03UNR40S> remember when I was talking about how Rahul and Albert were churning munchery signup credit?",
+        "ts": "1437768009.001886"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U045MBFTN|jasonwang> uploaded a file: <https:\/\/599usd.slack.com\/files\/jasonwang\/F085918AW\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F085918AW",
+            "created": 1437768024,
+            "timestamp": 1437768024,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U045MBFTN",
+            "editable": false,
+            "size": 65627,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F085918AW-8a85ffcb28\/slack_for_ios_upload.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F085918AW-8a85ffcb28\/download\/slack_for_ios_upload.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F085918AW\/slack_for_ios_upload.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F085918AW\/download\/slack_for_ios_upload.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F085918AW-4056e1a3c9\/slack_for_ios_upload_64.jpg",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F085918AW-4056e1a3c9\/slack_for_ios_upload_80.jpg",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F085918AW-4056e1a3c9\/slack_for_ios_upload_360.jpg",
+            "thumb_360_w": 360,
+            "thumb_360_h": 203,
+            "thumb_480": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F085918AW-4056e1a3c9\/slack_for_ios_upload_480.jpg",
+            "thumb_480_w": 480,
+            "thumb_480_h": 270,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F085918AW-4056e1a3c9\/slack_for_ios_upload_160.jpg",
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/jasonwang\/F085918AW\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F085918AW-8a85ffcb28",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U045MBFTN",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U045MBFTN|jasonwang>",
+        "bot_id": null,
+        "ts": "1437768027.001887"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1437770298.001888"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "novi",
+        "ts": "1437770299.001889"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "just wow",
+        "ts": "1437770299.001890"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "&gt; just because theres a goalie doesn't mean you can't score",
+        "ts": "1437770310.001891"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "novi you fucked up.",
+        "ts": "1437770317.001892"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm not that kinda guy m8",
+        "ts": "1437770544.001893"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "more and more I feel like I really should embrace that mentality",
+        "ts": "1437770564.001894"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but",
+        "ts": "1437770565.001895"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what if she was actually unhappy",
+        "ts": "1437770569.001896"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and she needed you to escape",
+        "ts": "1437770572.001897"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "then she should break it off",
+        "ts": "1437770579.001898"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "when a girl cheats it",
+        "ts": "1437770582.001899"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "*it's a bad sign",
+        "ts": "1437770586.001900"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "she needs you to protect her",
+        "ts": "1437770588.001901"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I don'",
+        "ts": "1437770595.001902"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "*don't need that kind of drama in my life",
+        "ts": "1437770601.001903"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "not worth",
+        "ts": "1437770603.001904"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "mmm",
+        "ts": "1437770668.001905"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but",
+        "ts": "1437770679.001906"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you said she got a \"new bf\"",
+        "ts": "1437770682.001907"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what about that time in between",
+        "ts": "1437770687.001908"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "too early for you to settle?",
+        "ts": "1437770695.001909"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I only have it a half hearted effort",
+        "ts": "1437770713.001910"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "she wasn't even around for most of the time after she broke up with her bf because she graduated early or was taking classes near home or some shit",
+        "ts": "1437770736.001911"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "regardless, over the years I knew her I realized that nothing long term could last",
+        "ts": "1437770751.001912"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I just wanted to hit it, but by the end it was so tiring to deal with her that I didn't care for it much",
+        "ts": "1437770766.001913"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "all she was, I think, was a pretty face that liked to spend time with me",
+        "ts": "1437770795.001914"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1437770802.001915"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats",
+        "ts": "1437770803.001916"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "harsh.",
+        "ts": "1437770806.001917"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so now what",
+        "ts": "1437770810.001918"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you're not friends anymore?",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1437770815.000000"
+        },
+        "ts": "1437770814.001919"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "we're still friendly",
+        "ts": "1437770868.001921"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but we never text each other or anything",
+        "ts": "1437770875.001922"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "\"Friendly\" is different from being friends :disappointed:",
+        "ts": "1437770883.001923"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":cry:",
+        "ts": "1437770886.001924"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so",
+        "ts": "1437770893.001925"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you'd say hi",
+        "ts": "1437770894.001926"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when you see them",
+        "ts": "1437770896.001927"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but thats it",
+        "ts": "1437770898.001928"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "hi and a hug",
+        "ts": "1437770903.001929"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but yeah",
+        "ts": "1437770906.001930"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1437770913.001931"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "are hugs normal",
+        "ts": "1437770918.001932"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "she's actually less than useless to me now",
+        "ts": "1437770922.001933"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i think hugs are weird",
+        "ts": "1437770924.001934"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "idk",
+        "ts": "1437770926.001935"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "hugs are pretty normal mang",
+        "ts": "1437770931.001936"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i think its weird to initiate one",
+        "ts": "1437770932.001937"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's weird if you're weird about it",
+        "ts": "1437770942.001938"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "well",
+        "ts": "1437770953.001939"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i just dont initiate one",
+        "ts": "1437770956.001940"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats it",
+        "ts": "1437770960.001941"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i never thought oh i should hug that person",
+        "ts": "1437770965.001942"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but when they initiate it",
+        "ts": "1437770975.001943"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "then yah",
+        "ts": "1437770978.001944"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "sure",
+        "ts": "1437770978.001945"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "idk",
+        "ts": "1437770986.001946"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "idk how to interact with people",
+        "ts": "1437770995.001947"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":confused:",
+        "ts": "1437771078.001948"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "maybe just a little",
+        "ts": "1437771083.001949"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "when I see a lot of female friends I give them a hug hello and a hug goodbye",
+        "ts": "1437771110.001950"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "anyways, core lesson: never get hung up on a girl and if she gets a new bf she becomes p useless to you unless she has cute friends that like you",
+        "ts": "1437771193.001951"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "if you ever get friendzoned or teased to oblivion, walk away and burn her memory from your mind",
+        "ts": "1437771218.001952"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "she ain't worth it",
+        "ts": "1437771224.001953"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "she's never worth it",
+        "ts": "1437771228.001954"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "putting you in that situation implicitly means she ain't worth it",
+        "ts": "1437771237.001955"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1437774488.001956"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "life lessons",
+        "ts": "1437774489.001957"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "from novi",
+        "ts": "1437774490.001958"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "pls",
+        "ts": "1437774501.001959"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "teach me more senpai",
+        "ts": "1437774504.001960"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "ask me a question and ye shall receive thy answer",
+        "ts": "1437775282.001961"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I can tell you what to do in a specific situation",
+        "ts": "1437775298.001962"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "or perhaps why spending lots of time with a non-single girl is less than useless",
+        "ts": "1437775312.001963"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol",
+        "ts": "1437775335.001964"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we can talk in november",
+        "ts": "1437775338.001965"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we can all drink and share",
+        "ts": "1437775393.001966"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wouldn't that be nice?",
+        "ts": "1437775412.001967"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that would be gr8",
+        "ts": "1437775725.001968"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i mean it all depends on what you want",
+        "ts": "1437776111.001969"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and what you think you can get",
+        "ts": "1437776114.001970"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "???",
+        "ts": "1437776126.001971"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "where have you been all day",
+        "ts": "1437776136.001972"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "2dank4u",
+        "ts": "1437776142.001973"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt; spending lots of time with a non-single girl is less than useless",
+        "ts": "1437776143.001974"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that's what i was talking about",
+        "ts": "1437776155.001975"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol",
+        "ts": "1437776165.001976"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i agree",
+        "ts": "1437776183.001977"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "with kevin for once",
+        "ts": "1437776186.001978"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like what if you're not interested and you're just friends",
+        "ts": "1437776193.001979"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is that useless",
+        "ts": "1437776194.001980"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm sure that's not what novi was getting at",
+        "ts": "1437776204.001981"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1437776211.001982"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "novi was just talking about the grab and smash",
+        "ts": "1437776212.001983"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut",
+        "ts": "1437776216.001984"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like it's pointless to talk to people who aren't single",
+        "ts": "1437776223.001985"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "2 dank terms 4 me",
+        "ts": "1437776224.001986"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "if you want to fuck them",
+        "ts": "1437776228.001987"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that's how novi's brain works",
+        "ts": "1437776231.001988"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1437776280.001989"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn novi is gonna have a tough married time",
+        "ts": "1437776307.001990"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when all his friends are also married",
+        "ts": "1437776312.001991"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "if he finds someone worth marrying, i'm sure he'll change :heart:",
+        "ts": "1437776349.001992"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but what if",
+        "ts": "1437776357.001993"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "be less of a fratstar",
+        "ts": "1437776357.001994"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "he doesn't marry",
+        "ts": "1437776358.001995"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "then gg",
+        "ts": "1437776361.001996"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "novi is going to die alone",
+        "ts": "1437776364.001997"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "he'll be that lechorous old man",
+        "ts": "1437776366.001998"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "going to clubs in his 40s",
+        "ts": "1437776373.001999"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "he'll be the pedo from family guy",
+        "ts": "1437776375.002000"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hitting on the 20 somethings",
+        "ts": "1437776378.002001"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "uh",
+        "ts": "1437776380.002002"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "if I'm married then the situation totally changes",
+        "ts": "1437776396.002003"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "because then what I want out of a person also changes",
+        "ts": "1437776401.002004"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we're talking about the situation",
+        "ts": "1437776411.002005"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "where you haven't married",
+        "ts": "1437776417.002006"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "talking to a non-single girl that is the gf or wife of a friend is different",
+        "ts": "1437776450.002007"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but isn't it \"less than useless\"",
+        "ts": "1437776481.002008"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "no",
+        "ts": "1437776487.002009"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "because making the girl happy and being friends with her improves your own friendship with the guy",
+        "ts": "1437776502.002010"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "whereas a non-single girl who is not the gf of a friend of yours offers you nothing more than an unfruitful timesink",
+        "ts": "1437776520.002011"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "even if you guys are good friends?",
+        "ts": "1437776641.002012"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you can be good friends with a girl, but it's rare",
+        "ts": "1437776751.002013"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and there might be friend zoning involved",
+        "ts": "1437776758.002014"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and you also have to ask yourself if there were a romantic situation between you two while you were alone",
+        "ts": "1437776771.002015"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "what would happen?",
+        "ts": "1437776774.002016"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i still don't understand the concept",
+        "ts": "1437776781.002017"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "of friend zoning",
+        "ts": "1437776784.002018"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah mutually platonic relationships",
+        "ts": "1437776814.002019"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "isn't a friendzone",
+        "ts": "1437776818.002020"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so i don't know what novi is talking about",
+        "ts": "1437776822.002021"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the way i've always understood it is that a friendzone is just when you want to be more than friends but she doesn't",
+        "ts": "1437776853.002022"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or vice versa",
+        "ts": "1437776859.002023"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and anyways, i've already talked to novi about this but i feel like if you're in a romantic situation between you and some girl who is not single",
+        "ts": "1437776908.002024"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "1) you were looking for it",
+        "ts": "1437776912.002025"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or 2) she was looking for it",
+        "ts": "1437776916.002026"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i feel like at any point prior to ending up in a \"romantic situation\" either of you would have had plenty of time to stop",
+        "ts": "1437776945.002027"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so i'm also not sure what novi's point was",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1437776967.000000"
+        },
+        "ts": "1437776962.002028"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and holy shit, Fnatic went 18-0 in LCS?",
+        "ts": "1437777091.002030"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "unreal",
+        "ts": "1437777093.002031"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "that was abrupt",
+        "ts": "1437777107.002032"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Holy sheet",
+        "ts": "1437777151.002033"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Also Kevin and I are working under different situational assumptions",
+        "ts": "1437777169.002034"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut",
+        "ts": "1437777176.002035"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fnatic is great at CS:GO too kevin! :simple_smile:",
+        "ts": "1437777914.002036"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "who're the top 3 league teams",
+        "ts": "1437777938.002037"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "currently",
+        "ts": "1437777943.002038"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "based off of like elo",
+        "ts": "1437777946.002039"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "probably 2 korean teams",
+        "ts": "1437778063.002040"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then fnatic",
+        "ts": "1437778065.002041"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not in any specific order",
+        "ts": "1437778080.002042"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1437778152.002043"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "cs:go is like",
+        "ts": "1437778155.002044"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fnatic",
+        "ts": "1437778159.002045"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "tsm",
+        "ts": "1437778159.002046"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and c9",
+        "ts": "1437778162.002047"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "nip is really good too",
+        "ts": "1437778166.002048"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but they haven't been playing well recently",
+        "ts": "1437778170.002049"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn",
+        "ts": "1437778491.002050"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "only those teams because koreans don't play CSGO",
+        "ts": "1437778498.002051"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1437778498.002052"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why dont they play",
+        "ts": "1437778911.002053"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats the better question",
+        "ts": "1437778914.002054"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "cause CS GO is a shit game",
+        "ts": "1437778923.002055"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":confused:",
+        "ts": "1437778924.002056"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "^",
+        "ts": "1437778949.002057"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wtf",
+        "ts": "1437779021.002058"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "none of you even play it",
+        "ts": "1437779023.002059"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i don't think you guys should hate on it",
+        "ts": "1437779031.002060"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":confused:",
+        "ts": "1437779032.002061"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":confused:",
+        "ts": "1437779033.002062"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":confused:",
+        "ts": "1437779034.002063"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":confused:",
+        "ts": "1437779035.002064"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they hate us cause they ain't us",
+        "ts": "1437779043.002065"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<https:\/\/www.youtube.com\/watch?v=To0ax73EJCQ>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "A more honest csgo trailer",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=To0ax73EJCQ",
+                "author_name": "Endridfps",
+                "author_link": "https:\/\/www.youtube.com\/user\/endridfps",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/To0ax73EJCQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: A more honest csgo trailer",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/To0ax73EJCQ?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=To0ax73EJCQ",
+                "id": 1
+            }
+        ],
+        "ts": "1437779287.002066"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel",
+        "ts": "1437780895.002068"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut",
+        "ts": "1437780897.002069"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what is this trailer",
+        "ts": "1437780901.002070"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why dont you just play with us kevin :disappointed:",
+        "ts": "1437780909.002071"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "rip",
+        "ts": "1437785172.002072"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "i can't go home because i had too much to drink",
+        "ts": "1437785184.002073"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "qq",
+        "ts": "1437785184.002074"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats why you gotta work in sf.....",
+        "ts": "1437790087.002075"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<https:\/\/soundcloud.com\/kore-wa-hentai\/tokyo-chopp?in=blue_evoker\/sets\/hentaidude>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Tokyo Chopp [prod. Lord ~ Kyo] [ft. Shiki(TMNS)] by HENTAI DUDE",
+                "title_link": "https:\/\/soundcloud.com\/kore-wa-hentai\/tokyo-chopp?in=blue_evoker\/sets\/hentaidude",
+                "author_name": "HENTAI DUDE",
+                "author_link": "https:\/\/soundcloud.com\/kore-wa-hentai",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000108523044-xk2w9j-t500x500.jpg",
+                "text": "[Expand description for lyrics]\nFREE DOWNLOAD : <https:\/\/hentaidude.bandcamp.com\/track\/tokyo-chopp-prod-lord-kyo-ft-shiki-tmns>\nvisual : <https:\/\/www.youtube.com\/watch?v=t2we10nvE7A>\ninstrumental : <https:\/\/soundcloud.com\/lord_kyo\/a-k-i-h-a-b-a-r-a>\nProduced by <https:\/\/soundcloud.com\/lord_kyo>\nEdited by <https:\/\/soundcloud.com\/doujinshi>\nFeaturing <https:\/\/soundcloud.com\/thetmns>\n\n\n[Verse 1 : Shiki(TMNS)]\nWanna be with you, mitsu\nI'm obsessed but you don't have a clue\nHow onii chan feels when I sniff your pantsu\nMight seem overzealous know this coming out tha blue\nBut i always get jealous when somebody text you\nEven when i'm with the fellas all im thinkin bout,  \nMy imouto chan What else can a nigga do?\n\nI express my love in each and every way,  \nSenpai borderline yandere, \nShe looks moe in cosplay but in casual clothes,  \nShawty still the same Now im growing deranged,  \nTryin to cope with the pain, \nOf hiding my love,  swear this shit's a shame\nFeel high like a dove when She's calls my name, \nBut lower than Satan when she leave mane\n\nIm the ecchi kami, can't stop me,  \nlive in a moving castle, you can ask Miyazaki or my nigga Tortoro \nGettin ecchi with a loli call her princess Mononoke,\ncuz she always bad ass with her onii\n\nIm the real sis con king not a phony,\nwhile these other weeaboo mother fuckers just trollin, \non shota shit, senpai give her dick, \nthen afterwards never wanna leave my grips\n\nYeah yeah nigga that's the gameplan\nKilling weaboos like Son of Sam,\nGot an ecchi clan filled with lolis man\nNiggas say I should stop don't give a damn\n\nAnd that's real talk, it aint my fault,\nThat imoutos attack me like an onslaught\nJust praying dawg that I don't get caught,\nWith yo sister man with her pantsu off\n\nOr I could get a felony, like, and that's not cool\nUhm.. This is parody music guys, you know\nJust having fun, we protect the lolis, we protect the imoutos\nExcept in certain cases, those are special\n\n[Verse 2 : Hentai Dude]\n(REAL SENPAI SHIT, 2015, WHOOP)\nUh, Shiki kill that shit\nDoujinshi on the beat\nI got yo shawty on my dick\n\nWhile we ridin round tokyo, we tryina hit a lick\nteam imouto, moe gang is what we reppin while we dip\n\nYeah I'm tryina stack that yen, anime girls, i'm tryina get in\n2d shawty, hop in my benz, I don't care, just bring yo friends\nUh\n\nGirl I'm tryina come and chill wit you\nFlip a doujin in the bed, i'm readin manga till its two\nTell me that you lovin senpai, girl I'm knowin that it's true\nCuz you actin all moe, and vanilla in my view\n\nSo this one's for them waifus\nStraight 2d flexin, my laifu\t\nIf you fuck wit hentai, you my dude\nLet the beat ride out, keep it nice and smooth, yo\n\n[Cue Bible Black Sample]\nHentai Dude : Hello? Yeah I got a question, do you really think you like me?\nShiragi : But darling, I don't understand why you're asking such a thing\nHentai Dude : Well I mean you know, it's just because I'm 3d and your 2d, you know we--\nShiragi : The truth is that I actually love you\nHentai Dude : oH.. oh you love me? Yeah I don't know about that, we're kinda pushin it a little too fast, we might need to... slow it dow--\nShiragi : You're so mean, my feelings are not a fake\nHentai Dude : nO no, I didn't mean it like that\n*muffled crying*\nHentai Dude : i'm sorr-, bae, bae, no, bae, bae, wait\n\n(10\/10 voice acting)\n\n[Outro]\nGot my 2d shawties with me\nAnd this 2d world to see\nIt's like an anime, I be\nWith my kouhais, keep it g\nx2\n\nWhoo\nTeam Imouto x Moe Gang, 2015\nShoutout Doujinshi, for making this beat\nYou're a god in your own dimension\nUntouchable\nMay the anime girls be with you\nTwerk\n",
+                "fallback": "SoundCloud Audio: Link: Tokyo Chopp [prod. Lord ~ Kyo] [ft. Shiki(TMNS)] by HENTAI DUDE",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F193680576&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/kore-wa-hentai\/tokyo-chopp?in=blue_evoker\/sets\/hentaidude",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "id": 1
+            }
+        ],
+        "ts": "1437792424.002076"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "holy fuck A+ 10\/10",
+        "ts": "1437792578.002078"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's ACTUALLY",
+        "ts": "1437792586.002079"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "s",
+        "ts": "1437792587.002080"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "o",
+        "ts": "1437792588.002081"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "g",
+        "ts": "1437792589.002082"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "u",
+        "ts": "1437792589.002083"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "d",
+        "ts": "1437792590.002084"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you guys",
+        "ts": "1437792762.002085"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I have enough gold for an arena run",
+        "ts": "1437792766.002086"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "need to dinner I'll watch after bby",
+        "ts": "1437792959.002087"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls halp me drafterino",
+        "ts": "1437792997.002088"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'll wait doe",
+        "ts": "1437792998.002089"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "nice",
+        "ts": "1437794080.002090"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "so we doing something tonight?",
+        "ts": "1437794085.002091"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i guess i can stay up a little bit",
+        "ts": "1437794088.002092"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "aight",
+        "ts": "1437794095.002093"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm back now",
+        "ts": "1437794097.002094"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "let's play league",
+        "ts": "1437794099.002095"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "is it happening?????",
+        "ts": "1437794127.002096"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "<http:\/\/i.imgur.com\/7drHiqr.gifv>",
+        "attachments": [
+            {
+                "service_name": "Imgur",
+                "title": "Ron Paul - It's Happening GIF [IMGUR]",
+                "title_link": "http:\/\/i.imgur.com\/7drHiqr.gifv",
+                "fallback": "Imgur: Ron Paul - It's Happening GIF [IMGUR]",
+                "thumb_url": "https:\/\/i.imgur.com\/7drHiqrh.jpg",
+                "video_html_width": "312",
+                "video_html_height": "213",
+                "video_url": "https:\/\/i.imgur.com\/7drHiqr.mp4",
+                "video_html": "<video poster=\"https:\/\/i.imgur.com\/7drHiqrh.jpg\" src=\"https:\/\/i.imgur.com\/7drHiqr.mp4\" width=\"312\" height=\"213\" autoplay=\"autoplay\" preload=\"auto\" muted=\"muted\" loop=\"loop\" webkit-playsinline><\/video>",
+                "from_url": "http:\/\/i.imgur.com\/7drHiqr.gifv",
+                "thumb_width": 312,
+                "thumb_height": 213,
+                "id": 1
+            }
+        ],
+        "ts": "1437794127.002097"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1437794138.002099"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "are you on skype?",
+        "ts": "1437794169.002100"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'll get on in a sec",
+        "ts": "1437794176.002101"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuck u gais",
+        "ts": "1437797705.002102"
+    }
+]

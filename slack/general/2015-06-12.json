@@ -1,0 +1,2045 @@
+[
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "You nigs buy cs go???",
+        "ts": "1434096656.004161"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Is it on sale?",
+        "ts": "1434096659.004162"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "<!channel>: if you haven't bought cs go go buy it :csgo: ",
+        "ts": "1434097245.004163"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Actually wait until it's on sale",
+        "ts": "1434097395.004164"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "As a daily deal or flash deal",
+        "ts": "1434097401.004165"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "If it isn't. But it on the last day ",
+        "ts": "1434097405.004166"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "fug smoked salmon schmear too stronk",
+        "ts": "1434114940.004167"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Ya dude dem lox is always overpowering",
+        "ts": "1434116360.004168"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I actually got a lot of sleep last night",
+        "ts": "1434116823.004169"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "tfw you're not constantly tired at work",
+        "ts": "1434116832.004170"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<!channel>: I have a really crappy wireless signal in my room, and moving the router might not be an option. Anyone have any experience with ethernet over coax? example: <http:\/\/www.amazon.com\/Actiontec-Ethernet-Existing-ECB2500C-Connected\/dp\/B001XUQOHE>",
+        "attachments": [
+            {
+                "text": "<http:\/\/Amazon.com|Amazon.com>: Actiontec Ethernet over Coax Adapter for Homes with MoCA Routers or Existing ECB2500C Connected: Electronics",
+                "fallback": "<http:\/\/Amazon.com|Amazon.com>: Actiontec Ethernet over Coax Adapter for Homes with MoCA Routers or Existing ECB2500C Connected: Electronics",
+                "from_url": "http:\/\/www.amazon.com\/Actiontec-Ethernet-Existing-ECB2500C-Connected\/dp\/B001XUQOHE",
+                "id": 1
+            }
+        ],
+        "ts": "1434128615.004171"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm gonna order one and see how it works",
+        "ts": "1434129120.004173"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "Just get a better router ya nignog",
+        "ts": "1434136188.004174"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Man the router was pretty good and Minjae bought it",
+        "ts": "1434136310.004175"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "anyways, I got a different model than the one I posted in chat",
+        "ts": "1434137105.004176"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and the ethernet via coax supports up to 100mbps internet, and we only have a 50 meg line so it should be good",
+        "ts": "1434137130.004177"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "anyone else having a rather slow day?",
+        "ts": "1434137710.004178"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "my manager doesn't really wanna give me too much to work on\/explain a lot of things to me until I've had my options training next week as that stuff is really relevant to what I'm doing",
+        "ts": "1434137733.004179"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ye",
+        "ts": "1434138011.004180"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "apparently matplotlib can't handle multithreading in python",
+        "ts": "1434138040.004181"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "kinda blows",
+        "ts": "1434138041.004182"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Lolol",
+        "ts": "1434138110.004183"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "What are you trying to do?",
+        "ts": "1434138119.004184"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "im just making like a basic options widget that can compute theo prices\/risks and plot them efficiently",
+        "ts": "1434138197.004185"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "maybe add some slider action and 3d\/contour plotting",
+        "ts": "1434138217.004186"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "but plotting itself takes a nontrivial amount of time (not too long but noticable)",
+        "ts": "1434138238.004187"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "so i was going thread the computation and plotting and ec",
+        "ts": "1434138260.004188"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "etc",
+        "ts": "1434138262.004189"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "but apparently after i forked a thread running a matplotlib function, the thread just hung silently until my computer crashed lolol",
+        "ts": "1434138305.004190"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "then i looked up some shit after restarting and saw that matplotlib isnt thread safe",
+        "ts": "1434138336.004191"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "like what the fuck is the point of making scientific computing graphic library thats not thread safe lmao",
+        "ts": "1434138355.004192"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "well, the idea was that the graph wouldn't be constantly updated lol",
+        "ts": "1434138640.004193"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you'd probably have to use a better threadsafe graphics lib to do that kind of work",
+        "ts": "1434138657.004194"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "no well pylab\/pyplot supports dynamic updates via sliders and such",
+        "ts": "1434138676.004195"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "the numerical processing libs themselves are multithreaded",
+        "ts": "1434138677.004196"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and written in C and FORTRAN",
+        "ts": "1434138692.004197"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "the problem is apparently that some functions require main in order to be running",
+        "ts": "1434138718.004198"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "such as the show function",
+        "ts": "1434138722.004199"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "which draws the graph lol",
+        "ts": "1434138730.004200"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "but whatever this is meant to just help visualize random shits to help with the trader training",
+        "ts": "1434138788.004201"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lol k",
+        "ts": "1434138839.004202"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "honestly, funny as it seems, I think doing the UI in javascript in the form of a webapp might be faster than matplotlib",
+        "ts": "1434138868.004203"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but then I could be wrong",
+        "ts": "1434138870.004204"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I certainly know that javascript can take really fast updates",
+        "ts": "1434138883.004205"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "for UI work",
+        "ts": "1434138887.004206"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Ya I was initially planning on writing a django app and draw the graphs using d3 or something like that",
+        "ts": "1434138907.004207"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "but im super shit at web dev and i dont know any js",
+        "ts": "1434138918.004208"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":disappointed:",
+        "ts": "1434138924.004209"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": ":confused:",
+        "ts": "1434138927.004210"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "but i actually have  a lot of experience with matplotlib so i figured itd be faster and would suit my purposes",
+        "ts": "1434138962.004211"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "#rekt",
+        "ts": "1434139135.004212"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I honestly thought that matplotlib was kinda shit",
+        "ts": "1434139152.004213"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "really?",
+        "ts": "1434139190.004214"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "what didn't you like about it",
+        "ts": "1434139195.004215"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "besides inability to multithread lolol",
+        "ts": "1434139203.004216"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lol well I only ever used it for random class shit in 357",
+        "ts": "1434139223.004217"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and maybe one other class",
+        "ts": "1434139228.004218"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and I was like it's OK but it wasn't particularly snappy or extensible",
+        "ts": "1434139247.004219"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it just worked well for simple plots, but I don't think it was made for complex plotting",
+        "ts": "1434139258.004220"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "well what do you mean by complex?",
+        "ts": "1434139270.004221"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "i feel like the quality of the plots that come out is pretty good with respect to its ease of use",
+        "ts": "1434139294.004222"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Well, I'd consider what d3 can do to be complex if I had to make a comparison",
+        "ts": "1434139513.004223"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I agree with your statement, but matlplotlib is in no way in the same league as other graphics\/plotting tools",
+        "ts": "1434139543.004224"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "well ya but matplotlib isnt meant for the same kind of plotting that d3 is",
+        "ts": "1434139672.004225"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "i think for scientific computing it does the job decently well",
+        "ts": "1434139687.004226"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "and its especially appealing since it doesnt require too much or any ui experience from the guy writing the code",
+        "ts": "1434139714.004227"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "who also probably doesn't care about the way it looks so long as the visualization accurately reflects the data",
+        "ts": "1434139738.004228"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "fair enough mang",
+        "ts": "1434139797.004229"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that being said, if you plan on writing a tool for traders that they'd use all the time",
+        "ts": "1434139815.004230"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "taking some extra time to make it look nicer goes a long way",
+        "ts": "1434139824.004231"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "loll na man this isnt a tool for traders",
+        "ts": "1434139857.004232"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "its for the training",
+        "ts": "1434139862.004233"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "the traders have ballin as software and visualizers lolol",
+        "ts": "1434139877.004234"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lol",
+        "ts": "1434139924.004235"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "are you in training right now or something?",
+        "ts": "1434139932.004236"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "or are you prepping for it?",
+        "ts": "1434139935.004237"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "na im just bored",
+        "ts": "1434139944.004238"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "family is gone for the week and im looking after the dog",
+        "ts": "1434139952.004239"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "got myself a fifth of woodford and a six pack",
+        "ts": "1434139970.004240"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "thought it would last almost a week",
+        "ts": "1434139980.004241"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "finished 1\/3 of the fifth yesterday :confused:",
+        "ts": "1434139988.004242"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "too g\u00fcd",
+        "ts": "1434140015.004243"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that shit is really good",
+        "ts": "1434140029.004244"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "but 3 pricey",
+        "ts": "1434140031.004245"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "just wait till you're a ballin' ass baller making ballin' ass amounts of money",
+        "ts": "1434140057.004246"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "then it'll be 1 pricey",
+        "edited": {
+            "user": "U046AEEDH",
+            "ts": "1434140071.000000"
+        },
+        "ts": "1434140068.004247"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "loll ya we'll see",
+        "ts": "1434140078.004249"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "but are you ready to be trashed all week when I move in :simple_smile:",
+        "ts": "1434140089.004250"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "f^yeah",
+        "ts": "1434140104.004251"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I got really trashed Wednesday night at Kevin's",
+        "ts": "1434140123.004252"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "was just drinking whiskey on the rocks all night",
+        "ts": "1434140131.004253"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I totally underestimated how much I had drank",
+        "ts": "1434140145.004254"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ya dude kevin told me haha",
+        "ts": "1434140146.004255"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "puked in the bushes outside of Minjae's place",
+        "ts": "1434140153.004256"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "nice",
+        "ts": "1434140158.004257"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "keeping the poison outdoors",
+        "ts": "1434140162.004258"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm considerate like that",
+        "ts": "1434140168.004259"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so",
+        "ts": "1434140169.004260"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "do I just afk and leave now?",
+        "ts": "1434140172.004261"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "my boss already left for the day",
+        "ts": "1434140176.004262"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and I have nothing to do",
+        "ts": "1434140178.004263"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "lol ya dude its friday",
+        "ts": "1434140185.004264"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "and the market just closed",
+        "ts": "1434140195.004265"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "so nothing to do",
+        "ts": "1434140198.004266"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "cept drink",
+        "ts": "1434140202.004267"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "idk if Imma drink today",
+        "ts": "1434140209.004268"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "dayuuum arent ctc bros goin out?",
+        "ts": "1434140222.004269"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "perhaps but that'd be later today",
+        "ts": "1434140241.004270"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and I need to go do stuff at my apartment",
+        "ts": "1434140246.004271"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm not unpacked yet because of weird shit that's been happening with my living situation",
+        "ts": "1434140259.004272"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "whats happening?",
+        "ts": "1434140269.004273"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "we didn't have gas or internet until yesterday",
+        "ts": "1434140280.004274"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and actually",
+        "ts": "1434140281.004275"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "we still don't have gas because when the tech came in to turn it on he needed a fireplace key to verify the safety of the fireplace",
+        "ts": "1434140296.004276"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but we didn't have one",
+        "ts": "1434140300.004277"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so we won't have gas (aka hot water) until next Wednesday",
+        "ts": "1434140309.004278"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so gay",
+        "ts": "1434140311.004279"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "jeez thats some shit",
+        "ts": "1434140374.004280"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "just boil water on the stove and bathe on the balcony",
+        "ts": "1434140390.004281"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "like your forefathers :simple_smile:",
+        "ts": "1434140393.004282"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "damn dude the slack is vacant today",
+        "ts": "1434140407.004283"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "no gas = no stove",
+        "ts": "1434140409.004284"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "shit no electric stove?",
+        "ts": "1434140415.004285"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "nope we have a gas stove",
+        "ts": "1434140420.004286"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "nice the classic",
+        "ts": "1434140425.004287"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I like gas stoves mang",
+        "ts": "1434140430.004288"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Minjae did bring a water boiler",
+        "ts": "1434140438.004289"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but we don't have any buckets",
+        "ts": "1434140443.004290"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "sheeit",
+        "ts": "1434140459.004291"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "dude i cant wait to start working",
+        "ts": "1434140482.004292"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "been so bored at home",
+        "ts": "1434140486.004293"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "since ive been back I read 2 papers and that book that ctc gave you",
+        "ts": "1434140506.004294"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "i dont think i'll change out of my robe for the next week",
+        "ts": "1434140535.004295"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lel nice",
+        "ts": "1434140550.004296"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "i actually look like a drunk lolol",
+        "ts": "1434140563.004297"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I was gonna say feel free to move into the apartment early if you want",
+        "ts": "1434140569.004298"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "can't dude :confused:",
+        "ts": "1434140579.004299"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "you remember my dog lolol",
+        "ts": "1434140586.004300"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "when does your family get back?",
+        "ts": "1434140592.004301"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "next friday",
+        "ts": "1434140596.004302"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "they're ballin it up in paris",
+        "ts": "1434140601.004303"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "in france",
+        "ts": "1434140607.004304"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "not new york",
+        "ts": "1434140609.004305"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lol they're getting ripped off Paris NY is definitely the better value",
+        "edited": {
+            "user": "U046AEEDH",
+            "ts": "1434140698.000000"
+        },
+        "ts": "1434140686.004306"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "idk dude, with this strong dollar, europe is decent place to travel to right now",
+        "ts": "1434140765.004308"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "even so Paris NY is probably the better value",
+        "ts": "1434140802.004309"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's so shitty they'll pay you to come",
+        "ts": "1434140805.004310"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "tfw your tourism revenue is negative",
+        "ts": "1434140812.004311"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":^)",
+        "ts": "1434140814.004312"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ya dude put the team on the taxpayers backs",
+        "ts": "1434140898.004313"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "fuuuuuuuuck",
+        "ts": "1434140998.004314"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I should just leave the office",
+        "ts": "1434141001.004315"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I think that the rest of the FOD team is busy today",
+        "ts": "1434141007.004316"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "or at least until the end",
+        "ts": "1434141013.004317"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "because there was some production issue or something",
+        "ts": "1434141019.004318"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ya dude just gtfo",
+        "ts": "1434141208.004319"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "just gonna let the song of the day finish first",
+        "ts": "1434141294.004320"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "apparently people who have birthdays during the week get to pick a song of choice that is played after the markets close each day",
+        "ts": "1434141328.004321"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so a different person and a different song each day",
+        "ts": "1434141336.004322"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "nice",
+        "ts": "1434141355.004323"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "you should pick smell yo dick for your birthday",
+        "ts": "1434141364.004324"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I feel like that might not fit in with the rest of the songs",
+        "ts": "1434141376.004325"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "right now \"Carribean Queen\" by Billy Ocean is playing",
+        "ts": "1434141385.004326"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ya dude the perfect precursor",
+        "ts": "1434141397.004327"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pls",
+        "ts": "1434141416.004328"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's actually gonna be a tough choice",
+        "ts": "1434141422.004329"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "also this song ain't half bad, pretty catchy",
+        "ts": "1434141432.004330"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ya dude that 80' jam",
+        "ts": "1434141465.004331"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I should go walk around and see what other people are doing on the tea",
+        "ts": "1434141533.004332"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "*team",
+        "ts": "1434141536.004333"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "the other people in my pod are a bit on the more middle aged side and so they're not too crazy",
+        "ts": "1434141551.004334"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "also I think that most of them commute from the suburbs and have kids",
+        "ts": "1434141559.004335"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "fasho",
+        "ts": "1434141573.004336"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "jk I just did",
+        "ts": "1434141706.004337"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "they're all actually doing work",
+        "ts": "1434141709.004338"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "sheeit",
+        "ts": "1434141776.004339"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "dude you were right about this song lolol",
+        "ts": "1434141794.004340"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "apparently it was rerecorded for different parts of the world",
+        "ts": "1434141820.004341"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "like \"African Queen\" or \"European Queen\"",
+        "ts": "1434141829.004342"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it was #1 on the black singles chart when it came out",
+        "ts": "1434141836.004343"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "hahahaha",
+        "ts": "1434141872.004344"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ultimate scam",
+        "ts": "1434141878.004345"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "is it your dream to one day scam the markets with a brilliant but dickish strategy?",
+        "ts": "1434142038.004346"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "meh not really",
+        "ts": "1434142119.004347"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "usually when the market gets scammed good enough theres a correction",
+        "ts": "1434142137.004348"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "and even if i didnt face trial for my shenanigans I wouldn't be able to realize much profit",
+        "ts": "1434142154.004349"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "holy shit novi wtf did you do to me",
+        "ts": "1434142276.004350"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "<https:\/\/www.youtube.com\/watch?v=P6GFJb02FlM>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "http:\/\/www.youtube.com\/",
+                "title": "KOOL &amp; THE GANG (COLLECTION) HD",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=P6GFJb02FlM",
+                "author_name": "Pedro Seeker",
+                "author_link": "http:\/\/www.youtube.com\/channel\/UCSeZTAZYe9BoJGFMUANHNEw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/P6GFJb02FlM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: KOOL & THE GANG (COLLECTION) HD",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/P6GFJb02FlM?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=P6GFJb02FlM",
+                "id": 1
+            }
+        ],
+        "ts": "1434142277.004351"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "the funkiest shit i ever heard",
+        "ts": "1434142285.004353"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":notes: play that funky music brown boy :notes:",
+        "ts": "1434142320.004354"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "dude seriously",
+        "ts": "1434142330.004355"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "80's funk is really good mang",
+        "ts": "1434142359.004356"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lyrically and musically",
+        "ts": "1434142365.004357"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ya man haha",
+        "ts": "1434142366.004358"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but unfortunately we don't have enough coke and baggy pants anymore to recreate such music",
+        "ts": "1434142388.004359"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ya dude and definitely not enough stds",
+        "ts": "1434142425.004360"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "what an edgy comment",
+        "ts": "1434142447.004361"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you know what else I love?",
+        "ts": "1434142454.004362"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "there are lots of classes and code related to maximum edge",
+        "ts": "1434142463.004363"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ya dude",
+        "ts": "1434142471.004364"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "got rake in the edge",
+        "ts": "1434142474.004365"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I can legit talk about being edgy",
+        "ts": "1434142478.004366"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's great",
+        "ts": "1434142480.004367"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<http:\/\/www.mtgsalvation.com\/forums\/creativity\/custom-card-creation\/612057-generating-magic-cards-using-deep-recurrent-neural>",
+        "attachments": [
+            {
+                "text": "Hello! I'm a PhD candidate researcher in computer science who has been investigating the use of deep neural networks for classification and problem solving t...",
+                "fallback": "Hello! I'm a PhD candidate researcher in computer science who has been investigating the use of deep neural networks for classification and problem solving t...",
+                "from_url": "http:\/\/www.mtgsalvation.com\/forums\/creativity\/custom-card-creation\/612057-generating-magic-cards-using-deep-recurrent-neural",
+                "id": 1
+            }
+        ],
+        "ts": "1434142516.004368"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wish I knew more about the mechanics of magic",
+        "ts": "1434142523.004370"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "lmao",
+        "ts": "1434142534.004371"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "magics actually pretty fun",
+        "ts": "1434142541.004372"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "i played a lil with my brazilian friend back in middle school cuz he had a shit ton of cards",
+        "ts": "1434142554.004373"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I heard it's definitely really complex doe",
+        "ts": "1434142575.004374"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "like tons of mechanics and shit",
+        "ts": "1434142579.004375"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ya man",
+        "ts": "1434142631.004376"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "i mean we never got into any of that",
+        "ts": "1434142636.004377"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "cuz we were just boys",
+        "ts": "1434142639.004378"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "but i mean there are still huge competitions",
+        "ts": "1434142650.004379"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's still the most popular card game in the world right?",
+        "ts": "1434142679.004380"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "followed by yu gi oh?",
+        "ts": "1434142685.004381"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "yeh i think so",
+        "ts": "1434142686.004382"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lel the power creep in yu gi oh is so real",
+        "ts": "1434142712.004383"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I remember when they started making 4 star cards that were like straight up superior to old 4 star cards in every way",
+        "ts": "1434142741.004384"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and then they stopped making vanilla cards",
+        "ts": "1434142748.004385"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "now every monster card has an effect of some kind",
+        "ts": "1434142756.004386"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "dayum",
+        "ts": "1434143138.004387"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "never really followed yugioh",
+        "ts": "1434143149.004388"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you remember fusion?",
+        "ts": "1434143158.004389"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and how it was a garbage mechanic?",
+        "ts": "1434143164.004390"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "yeh",
+        "ts": "1434143165.004391"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that no one used ever?",
+        "ts": "1434143167.004392"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "except for in the show?",
+        "ts": "1434143173.004393"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "yeh",
+        "ts": "1434143220.004394"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "they pretty much replaced that mechanic with tuners and synchro summoning",
+        "ts": "1434143320.004395"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "which was a lot easier to do and was generally a lot less specific in terms of what was required to summon a synchro monster",
+        "ts": "1434143337.004396"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "ohh man ya i remember that shit from the show lolol",
+        "ts": "1434143374.004397"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "never really knew what was going on",
+        "ts": "1434143380.004398"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "but it was pretty exciting",
+        "ts": "1434143384.004399"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I remember the first time what I watched 5D's",
+        "ts": "1434143415.004400"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "the one with the motorbikes",
+        "ts": "1434143420.004401"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it was the first time I saw the mechanic",
+        "ts": "1434143431.004402"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you should go the yu gi oh wikia and look at certain OTK or FTK decks",
+        "ts": "1434143451.004403"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's amazing how broken some mechanics are",
+        "ts": "1434143458.004404"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Sip",
+        "ts": "1434145143.004405"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Sup",
+        "ts": "1434145146.004406"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Magic is superior ",
+        "ts": "1434145148.004407"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "It's also great that for competitive there is modern and standard ",
+        "ts": "1434145158.004408"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Standard is only the last two blocks ",
+        "ts": "1434145164.004409"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "And I think two core packs",
+        "ts": "1434145173.004410"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "So they don't really have to worry about power creep ",
+        "ts": "1434145183.004411"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Instead the most powerful cards are the ones printed most early lol",
+        "ts": "1434145194.004412"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh i can see that",
+        "ts": "1434162036.004413"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "before they had much experience with what makes cards powerful and what doesn't",
+        "ts": "1434162051.004414"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "wutchu up to novidoop",
+        "ts": "1434162253.004415"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lol not unpacking",
+        "ts": "1434162390.004416"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm just tired",
+        "ts": "1434162393.004417"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and want to go to bed early",
+        "ts": "1434162396.004418"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and then be somewhat productive tomorrow",
+        "ts": "1434162400.004419"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's that first week schedule adjustment period",
+        "ts": "1434162409.004420"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you?",
+        "ts": "1434162412.004421"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "yeh i gotchu",
+        "ts": "1434162551.004422"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "chillin at the ballmer peak and writing some more code lol",
+        "ts": "1434162564.004423"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I wish slack had a board with all of our names on it",
+        "ts": "1434162598.004424"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and :dank: stickers that we got through the week for being :dank:",
+        "ts": "1434162610.004425"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "because you've just earned a :dank: sticker my friend",
+        "ts": "1434162617.004426"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": ":')",
+        "ts": "1434162627.004427"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "but fuck i have a headache but my mom took the only bottle of ibuprofen in the house",
+        "ts": "1434162651.004428"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "probably gonna get some tomorrow",
+        "ts": "1434162658.004429"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lel don't take that with liquor",
+        "ts": "1434162703.004430"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "lol yeh",
+        "ts": "1434162745.004431"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so apparently my dad got some high power NSAIDs from India",
+        "ts": "1434162779.004432"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "they don't sell them OTC here anymore",
+        "ts": "1434162787.004433"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Lol what does high power mean",
+        "ts": "1434162918.004434"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Just like a higher dose per pill?",
+        "ts": "1434162928.004435"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's like a stronker Ibuprofen",
+        "ts": "1434162932.004436"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's a different chemical",
+        "ts": "1434162939.004437"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's not ibuprofen or acetemenophen",
+        "ts": "1434162954.004438"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\"novi is a fucking faggot\" - gary wang 2015",
+        "ts": "1434162969.004439"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "novi, that's just cocaine",
+        "ts": "1434162975.004440"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "plus heroin",
+        "ts": "1434162988.004441"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh then my dad is doing it wrong",
+        "ts": "1434162989.004442"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "he swallowed instead of snorted",
+        "ts": "1434162993.004443"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the singh family special pill",
+        "ts": "1434163013.004444"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "\/giphy choji naruto jutsu",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/naruto-shippuden-ino-yamanaka-choji-akimichi-149hGZQdIU22ME>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/149hGZQdIU22ME\/giphy.gif",
+                "image_width": 500,
+                "image_height": 280,
+                "image_bytes": 808524,
+                "title": "choji naruto jutsu",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/naruto-shippuden-ino-yamanaka-choji-akimichi-149hGZQdIU22ME"
+            }
+        ],
+        "ts": "1434163069.004449"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Nice",
+        "ts": "1434163377.004450"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "I'm catching up on GoT now",
+        "ts": "1434163385.004451"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "what episode are you on?",
+        "ts": "1434163407.004452"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "5",
+        "ts": "1434164210.004453"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "s05e05?",
+        "ts": "1434164220.004454"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Yeh",
+        "ts": "1434164756.004455"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's been getting p dank lately",
+        "ts": "1434165465.004456"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Ya dude that's what I hear",
+        "ts": "1434165605.004457"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Trying to catch up so as not to get spoiled",
+        "ts": "1434165617.004458"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's pretty exciting for me because now they're deviating from the books",
+        "ts": "1434165629.004459"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so I don't know what's going to happen",
+        "ts": "1434165634.004460"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "also",
+        "ts": "1434165635.004461"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "#stannisthemannis",
+        "ts": "1434165637.004462"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you'll see in 4 episodes",
+        "ts": "1434165641.004463"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Oh baby",
+        "ts": "1434165747.004464"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "what happened in episode 5 again?",
+        "ts": "1434165780.004465"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Uhh nothing so far lol",
+        "ts": "1434165794.004466"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "There's 10 minutes left though so I'll let you know",
+        "ts": "1434165809.004467"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "What the fuck stone men?!",
+        "ts": "1434166318.004468"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "out of nowhere lel",
+        "ts": "1434166329.004469"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U03UNR40S|wyaeiga> uploaded a file: <https:\/\/599usd.slack.com\/files\/wyaeiga\/F06A3J5HB\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F06A3J5HB",
+            "created": 1434166571,
+            "timestamp": 1434166571,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U03UNR40S",
+            "editable": false,
+            "size": 509618,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F06A3J5HB-9297966fb6\/slack_for_ios_upload.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F06A3J5HB-9297966fb6\/download\/slack_for_ios_upload.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F06A3J5HB\/slack_for_ios_upload.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F06A3J5HB\/download\/slack_for_ios_upload.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F06A3J5HB-ee6e7bbff4\/slack_for_ios_upload_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F06A3J5HB-ee6e7bbff4\/slack_for_ios_upload_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F06A3J5HB-ee6e7bbff4\/slack_for_ios_upload_360.png",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F06A3J5HB-ee6e7bbff4\/slack_for_ios_upload_480.png",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F06A3J5HB-ee6e7bbff4\/slack_for_ios_upload_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F06A3J5HB-ee6e7bbff4\/slack_for_ios_upload_720.png",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F06A3J5HB-ee6e7bbff4\/slack_for_ios_upload_960.png",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F06A3J5HB-ee6e7bbff4\/slack_for_ios_upload_1024.png",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/wyaeiga\/F06A3J5HB\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F06A3J5HB-9297966fb6",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U03UNR40S",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U03UNR40S|wyaeiga>",
+        "bot_id": null,
+        "ts": "1434166584.004470"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "popped a chub in about ~.58s",
+        "ts": "1434166611.004471"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "\/giphy boner",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/scared-workaholics-adam-devine-xwXPRoAJNcKhq>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/xwXPRoAJNcKhq\/giphy.gif",
+                "image_width": 245,
+                "image_height": 245,
+                "image_bytes": 1808050,
+                "title": "boner",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/scared-workaholics-adam-devine-xwXPRoAJNcKhq"
+            }
+        ],
+        "ts": "1434166790.004472"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "He's a hottie",
+        "ts": "1434167147.004473"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "Hot little slut",
+        "ts": "1434167154.004474"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "And to think I coulda seen it live if you hadn't been a big meanboi and just come here :\/",
+        "ts": "1434167203.004475"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you could have just brought your dog to the city",
+        "ts": "1434167473.004476"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":disappointed:",
+        "ts": "1434167474.004477"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Na man he woulda woken up everyone in your apartment lol",
+        "ts": "1434168067.004478"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lel I'm the only one here",
+        "ts": "1434169002.004479"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "because we don't have hot water",
+        "ts": "1434169008.004480"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and Morgan doesn't start till later",
+        "ts": "1434169012.004481"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Loll sheeit I see. ",
+        "ts": "1434169709.004482"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Dis bourbon too good man",
+        "ts": "1434169719.004483"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "giphy doesn't have a match for woodford",
+        "ts": "1434169741.004484"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":disappointed:",
+        "ts": "1434169742.004485"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "if they had a match I'm sure it would like a five gum commercial except with more oak barrels",
+        "ts": "1434169770.004486"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Lol ya maybe",
+        "ts": "1434170378.004487"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "The flavors simultaneously light and smokey and with ice has a sweet aftertaste ",
+        "ts": "1434170409.004488"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Not to mention its use as being a substitute for Advil lol",
+        "ts": "1434170455.004489"
+    }
+]

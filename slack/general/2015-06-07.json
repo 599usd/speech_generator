@@ -1,0 +1,636 @@
+[
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Wow",
+        "ts": "1433664078.003171"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I am speechless",
+        "ts": "1433664080.003172"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "God dammit Kevin",
+        "ts": "1433664084.003173"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "go back to being cool europoors",
+        "ts": "1433664096.003174"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Why are you up",
+        "ts": "1433664112.003175"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Wtf",
+        "ts": "1433664113.003176"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "My breakfast :(",
+        "ts": "1433664125.003177"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U045MBNTQ|reyarch> uploaded a file: <https:\/\/599usd.slack.com\/files\/reyarch\/F061UD7NY\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F061UD7NY",
+            "created": 1433664134,
+            "timestamp": 1433664134,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U045MBNTQ",
+            "editable": false,
+            "size": 1540857,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F061UD7NY-e12b27d37b\/slack_for_ios_upload.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F061UD7NY-e12b27d37b\/download\/slack_for_ios_upload.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F061UD7NY\/slack_for_ios_upload.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F061UD7NY\/download\/slack_for_ios_upload.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UD7NY-a205b69b38\/slack_for_ios_upload_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UD7NY-a205b69b38\/slack_for_ios_upload_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UD7NY-a205b69b38\/slack_for_ios_upload_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 270,
+            "thumb_480": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UD7NY-a205b69b38\/slack_for_ios_upload_480.png",
+            "thumb_480_w": 480,
+            "thumb_480_h": 360,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UD7NY-a205b69b38\/slack_for_ios_upload_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UD7NY-a205b69b38\/slack_for_ios_upload_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 540,
+            "thumb_960": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UD7NY-a205b69b38\/slack_for_ios_upload_960.png",
+            "thumb_960_w": 960,
+            "thumb_960_h": 720,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UD7NY-a205b69b38\/slack_for_ios_upload_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 768,
+            "image_exif_rotation": 3,
+            "permalink": "https:\/\/599usd.slack.com\/files\/reyarch\/F061UD7NY\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F061UD7NY-e12b27d37b",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U045MBNTQ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U045MBNTQ|reyarch>",
+        "bot_id": null,
+        "ts": "1433664154.003178"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Dat pickled herring",
+        "ts": "1433664314.003179"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "looks solid",
+        "ts": "1433664317.003180"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U03UNR40S|wyaeiga> uploaded a file: <https:\/\/599usd.slack.com\/files\/wyaeiga\/F061UHT4Y\/img_20150606_144245.jpg|Slack for Android Upload>",
+        "file": {
+            "id": "F061UHT4Y",
+            "created": 1433664359,
+            "timestamp": 1433664359,
+            "name": "IMG_20150606_144245.jpg",
+            "title": "Slack for Android Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U03UNR40S",
+            "editable": false,
+            "size": 3213026,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F061UHT4Y-36c7c10962\/img_20150606_144245.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F061UHT4Y-36c7c10962\/download\/img_20150606_144245.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F061UHT4Y\/img_20150606_144245.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F061UHT4Y\/download\/img_20150606_144245.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UHT4Y-3d8ea13a8f\/img_20150606_144245_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UHT4Y-3d8ea13a8f\/img_20150606_144245_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UHT4Y-3d8ea13a8f\/img_20150606_144245_360.png",
+            "thumb_360_w": 267,
+            "thumb_360_h": 360,
+            "thumb_480": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UHT4Y-3d8ea13a8f\/img_20150606_144245_480.png",
+            "thumb_480_w": 356,
+            "thumb_480_h": 480,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UHT4Y-3d8ea13a8f\/img_20150606_144245_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UHT4Y-3d8ea13a8f\/img_20150606_144245_720.png",
+            "thumb_720_w": 534,
+            "thumb_720_h": 720,
+            "thumb_960": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UHT4Y-3d8ea13a8f\/img_20150606_144245_960.png",
+            "thumb_960_w": 712,
+            "thumb_960_h": 960,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F061UHT4Y-3d8ea13a8f\/img_20150606_144245_1024.png",
+            "thumb_1024_w": 759,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/wyaeiga\/F061UHT4Y\/img_20150606_144245.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F061UHT4Y-36c7c10962",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U03UNR40S",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U03UNR40S|wyaeiga>",
+        "bot_id": null,
+        "ts": "1433664379.003181"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "my breakfast :disappointed:",
+        "ts": "1433664385.003182"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I just took a shit ",
+        "ts": "1433664855.003183"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "In Norway on a train in the mountains :D",
+        "ts": "1433664868.003184"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Wow fuck you Kevin",
+        "ts": "1433664906.003185"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "How much did that cost ",
+        "ts": "1433664909.003186"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "(\uffe3\u0414\uffe3)\uff89",
+        "ts": "1433664929.003187"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "(\u2212_\u2212\uff03)",
+        "ts": "1433664975.003188"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "thirteen freedom bucks",
+        "ts": "1433665056.003189"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":confused:",
+        "ts": "1433665057.003190"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "So cheap",
+        "ts": "1433665179.003191"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I prefer the term democracy dabloons",
+        "ts": "1433691360.003192"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "dabloons?",
+        "ts": "1433714525.003193"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "are you fucking serious?",
+        "ts": "1433714527.003194"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "dAbloons?&gt;",
+        "ts": "1433714530.003195"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's a doubloon you mongoloid",
+        "ts": "1433714545.003196"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<@U046AEEDH>: have you moved in yet?",
+        "ts": "1433716003.003197"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "moving in soon",
+        "ts": "1433716144.003198"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "packing some shit right now from home",
+        "ts": "1433716149.003199"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "will be leaving in ~1 hour",
+        "ts": "1433716154.003200"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just wondering",
+        "ts": "1433716171.003201"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not going to see you tonight or anything",
+        "ts": "1433716179.003202"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "gotta watch the warriors",
+        "ts": "1433716182.003203"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1433716183.003204"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "heuhuehuehue",
+        "ts": "1433716184.003205"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "jesus",
+        "ts": "1433716219.003206"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so mean kevin",
+        "ts": "1433716226.003207"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what time 4 u?",
+        "ts": "1433716242.003208"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "half past midnight?",
+        "ts": "1433716246.003209"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yah",
+        "ts": "1433716257.003210"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i dont think im staying up",
+        "ts": "1433716261.003211"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im waiting for the dryer",
+        "ts": "1433716265.003212"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "dank, where are you guys right now?",
+        "ts": "1433716272.003213"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "bergen",
+        "ts": "1433716288.003214"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "waow such a beautiful city!!",
+        "ts": "1433716313.003215"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "not like I could hang wiht you",
+        "ts": "1433716571.003216"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "*with",
+        "ts": "1433716573.003217"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I need to be at the office by 8AM",
+        "ts": "1433716578.003218"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you could",
+        "ts": "1433716584.003219"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "be a man",
+        "ts": "1433716585.003220"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and not sleep?",
+        "ts": "1433716590.003221"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1433716592.003222"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1433716593.003223"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just coke yourself up",
+        "ts": "1433716598.003224"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "in the morning",
+        "ts": "1433716599.003225"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "great way to start my career",
+        "ts": "1433716600.003226"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "np",
+        "ts": "1433716600.003227"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "right?",
+        "ts": "1433716601.003228"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh",
+        "ts": "1433716602.003229"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "the classic trader method",
+        "ts": "1433716605.003230"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah nbd",
+        "ts": "1433716609.003231"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "get shitface then get coked out",
+        "ts": "1433716611.003232"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wait",
+        "ts": "1433717097.003233"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what the fuck",
+        "ts": "1433717098.003234"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "8 am???",
+        "ts": "1433717100.003235"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "should i",
+        "ts": "1433717177.003236"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "preorder fallout 4?",
+        "ts": "1433717180.003237"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1433717189.003238"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1433717190.003239"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im pretty hyped about it",
+        "ts": "1433717212.003240"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "bawwwwston",
+        "ts": "1433717220.003241"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "bahhhston",
+        "ts": "1433717226.003242"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeeeeee",
+        "ts": "1433717474.003243"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im poor now thou",
+        "ts": "1433717482.003244"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "though",
+        "ts": "1433717484.003245"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "pls halp kevin",
+        "ts": "1433717487.003246"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "spending too much money in scandinavia",
+        "ts": "1433717494.003247"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "take out a loan through :enova:",
+        "ts": "1433717498.003248"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how",
+        "ts": "1433717740.003249"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what info do they need from me",
+        "ts": "1433717746.003250"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "should i stay up to watch the warriors game?",
+        "ts": "1433717756.003251"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im pretty tired tho",
+        "ts": "1433717763.003252"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "stay up :simple_smile:",
+        "ts": "1433717778.003253"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuuuuu",
+        "ts": "1433717825.003254"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i need to make it to stavanger tomorrow",
+        "ts": "1433717831.003255"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":disappointed:",
+        "ts": "1433718543.003256"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "guess its time to sleep",
+        "ts": "1433718552.003257"
+    }
+]

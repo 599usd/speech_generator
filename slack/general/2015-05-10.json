@@ -1,0 +1,582 @@
+[
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/imgur.com\/r6Tdpzs>",
+        "attachments": [
+            {
+                "service_name": "Imgur",
+                "service_url": "http:\/\/imgur.com",
+                "title": "Saw this at the local BestBuy. It seems like a glorified thumb drive with a display... What's the big deal?",
+                "title_link": "http:\/\/imgur.com\/r6Tdpzs",
+                "fallback": "Imgur Photo: Saw this at the local BestBuy. It seems like a glorified thumb drive with a display... What's the big deal?",
+                "image_url": "http:\/\/i.imgur.com\/r6Tdpzsm.jpg",
+                "image_width": 320,
+                "image_height": 240,
+                "from_url": "http:\/\/imgur.com\/r6Tdpzs",
+                "image_bytes": 16256,
+                "id": 1
+            }
+        ],
+        "ts": "1431241646.001089"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "im installing heroes of the storm",
+        "ts": "1431295720.001091"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "you guys should play with me",
+        "ts": "1431295723.001092"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "maybe when i get  back to sf",
+        "ts": "1431295834.001093"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "did u try it yet?",
+        "ts": "1431295855.001094"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "nope",
+        "ts": "1431296623.001095"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ive had it for a long while though",
+        "ts": "1431296627.001096"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I just met Xiaowaaaaang",
+        "ts": "1431296646.001097"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it was great",
+        "ts": "1431296653.001098"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "much more handsome than I imagined",
+        "ts": "1431296663.001099"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "\/giphy blush",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/eQVLza8dhJA1G\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/nervous-blush-nepeta-eQVLza8dhJA1G>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/eQVLza8dhJA1G\/giphy.gif",
+                "image_width": 200,
+                "image_height": 310,
+                "image_bytes": 136355,
+                "title": "blush",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/nervous-blush-nepeta-eQVLza8dhJA1G"
+            }
+        ],
+        "ts": "1431296675.001102"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol wtf",
+        "ts": "1431296972.001103"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its nichijou",
+        "ts": "1431296979.001104"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Gary and I right now",
+        "ts": "1431301742.001105"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<http:\/\/upload.wikimedia.org\/wikipedia\/en\/0\/03\/Ed,_Edd_n_Eddy_-_Scam_of_the_Century_Coverart.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/0\/03\/Ed,_Edd_n_Eddy_-_Scam_of_the_Century_Coverart.jpg",
+                "fallback": "300x268px image",
+                "image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/0\/03\/Ed,_Edd_n_Eddy_-_Scam_of_the_Century_Coverart.jpg",
+                "image_width": 300,
+                "image_height": 268,
+                "image_bytes": 50568,
+                "id": 1
+            }
+        ],
+        "ts": "1431301780.001108"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whatcha scamming?",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1431305513.000000"
+        },
+        "ts": "1431305510.001110"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "your degrees?",
+        "ts": "1431305515.001112"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "the D",
+        "ts": "1431305939.001113"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "pretty much",
+        "ts": "1431307410.001114"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "our entire final project for this class is non-functional",
+        "ts": "1431307422.001115"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "we made fake code and are falsifying the results",
+        "ts": "1431307431.001116"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "well, somewhat",
+        "ts": "1431307439.001117"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "our ideas are legit and some of the results are based on actual measurements",
+        "ts": "1431307452.001118"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what are you doing",
+        "ts": "1431310313.001119"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "trying to apply shamir's secret sharing to HDFS encryption",
+        "ts": "1431310818.001120"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so how are you faking it",
+        "ts": "1431310865.001121"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "just like",
+        "ts": "1431310949.001122"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "writing code that doesn't actually do anything",
+        "ts": "1431310958.001123"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "because we don't think the prof\/TAs will run it",
+        "ts": "1431310967.001124"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "or can't because of config issues",
+        "ts": "1431310973.001125"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "there's no way they can run the code",
+        "ts": "1431311001.001126"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "they'd need to handle setting up so many deps and shit",
+        "ts": "1431311010.001127"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and even then we could say they fucked up config",
+        "ts": "1431311014.001128"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "LOL",
+        "ts": "1431311095.001129"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1431311098.001130"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "nice",
+        "ts": "1431311099.001131"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "2 gud 4 me",
+        "ts": "1431311102.001132"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why are you guys workin so hard though",
+        "ts": "1431311116.001133"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "LOL",
+        "ts": "1431314209.001134"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "\"working hard\"",
+        "ts": "1431314212.001135"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "good joke m8",
+        "ts": "1431314214.001136"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "finally back",
+        "ts": "1431321840.001137"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "took 2.5 hours",
+        "ts": "1431321842.001138"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "to get home",
+        "ts": "1431321843.001139"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "jesus",
+        "ts": "1431321844.001140"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "gg",
+        "ts": "1431321970.001141"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "did you bart?",
+        "ts": "1431321972.001142"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lel",
+        "ts": "1431321988.001143"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "SF transit is a joke",
+        "ts": "1431321992.001144"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no",
+        "ts": "1431322081.001145"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "bart",
+        "ts": "1431322082.001146"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is down the shitter",
+        "ts": "1431322085.001147"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "&gt;ADVISORY: There is no train service between Fruitvale and Coliseum in either direction. We have a bus bridge established to transport passengers between the two stations.",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1431322104.000000"
+        },
+        "ts": "1431322100.001148"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "your statement = SF transit is a joke :^)",
+        "ts": "1431322101.001149"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im not going to argue with that",
+        "ts": "1431322112.001151"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "everyone knows",
+        "ts": "1431322114.001152"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "sf is shit",
+        "ts": "1431322115.001153"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what you guys doin",
+        "ts": "1431322209.001154"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/streamable.com\/pvus>",
+        "attachments": [
+            {
+                "service_name": "Streamable",
+                "title": "Streamable - simple video sharing",
+                "title_link": "http:\/\/streamable.com\/pvus",
+                "text": "Check out this video on Streamable using your phone, tablet or desktop.",
+                "fallback": "Streamable: Streamable - simple video sharing",
+                "thumb_url": "https:\/\/cdn2.streamable.com\/image\/183e4990f6bb11e4a52f73a745566272.jpg",
+                "video_html_width": "480",
+                "video_html_height": "480",
+                "video_url": "https:\/\/cdn2.streamable.com\/video\/183e4990f6bb11e4a52f73a745566272.mp4",
+                "from_url": "http:\/\/streamable.com\/pvus",
+                "thumb_width": 480,
+                "thumb_height": 480,
+                "id": 1
+            }
+        ],
+        "ts": "1431322247.001155"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol",
+        "ts": "1431322267.001157"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wtf",
+        "ts": "1431322267.001158"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "l love the music",
+        "ts": "1431322286.001159"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm doing some drinking as my college career is over",
+        "ts": "1431322302.001160"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "at this rate we won't even get to play the bulls :disappointed:",
+        "ts": "1431322306.001161"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no finals?",
+        "ts": "1431322321.001162"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn chill",
+        "ts": "1431322323.001163"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "already took my exams",
+        "ts": "1431322327.001164"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "shet",
+        "ts": "1431322331.001165"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "too legit",
+        "ts": "1431322335.001166"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "time to spend the next week drinking very heavily",
+        "ts": "1431322356.001167"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I need to have jaundice by graduation",
+        "ts": "1431322364.001168"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":^)",
+        "ts": "1431322365.001169"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I think I might hump gary later",
+        "ts": "1431322407.001170"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuuuu",
+        "ts": "1431322460.001171"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why cant i be as bro as you guys",
+        "ts": "1431322464.001172"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "because you're not a literal brother in a fraternity",
+        "ts": "1431322483.001173"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lrn2brom8",
+        "ts": "1431322487.001174"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "kevin",
+        "ts": "1431322501.001175"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you there",
+        "ts": "1431322502.001176"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "he's in the hangout",
+        "ts": "1431322522.001177"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut hangout",
+        "ts": "1431322530.001178"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "check in the league channel",
+        "ts": "1431322538.001179"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1431322541.001180"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn are they playin",
+        "ts": "1431322543.001181"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "they were",
+        "ts": "1431322556.001182"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I think they're done",
+        "ts": "1431322558.001183"
+    }
+]

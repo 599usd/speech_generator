@@ -1,0 +1,162 @@
+[
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Lol I'm on a plane with free wifi",
+        "ts": "1433407645.003116"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "This is so weird ",
+        "ts": "1433407647.003117"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "We in ikea land now ",
+        "ts": "1433412675.003118"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "IKEA flagship is outside the city ):",
+        "ts": "1433418302.003119"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "how were the authentic meatballs?",
+        "ts": "1433440269.003120"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<https:\/\/www.youtube.com\/watch?v=REvH4QQyX6E>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "http:\/\/www.youtube.com\/",
+                "title": "The 0 10 0 Ryze Challenge Full Game",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=REvH4QQyX6E",
+                "author_name": "Annie Bot",
+                "author_link": "http:\/\/www.youtube.com\/user\/AnnieBotNA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/REvH4QQyX6E\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The 0 10 0 Ryze Challenge Full Game",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/REvH4QQyX6E?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=REvH4QQyX6E",
+                "id": 1
+            }
+        ],
+        "ts": "1433451336.003121"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Pretty g\u00fcd",
+        "ts": "1433455443.003123"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Update: you'll have a bed and desk. Bring your futon so we can use it as a couch ",
+        "ts": "1433456167.003124"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Oh really? Is it included in the room or is it Morgan's stuff?",
+        "ts": "1433458520.003125"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Morgan's furniture",
+        "ts": "1433458989.003126"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "We just bought it from Ikea yesterday lol",
+        "ts": "1433459001.003127"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'll get him to bring his mattress too, or you could buy one if you want something not as shitty as his",
+        "ts": "1433459031.003128"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "It's a full sized bed",
+        "ts": "1433459035.003129"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Ya the mattress would be useful lol",
+        "ts": "1433466605.003130"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Otherwise I'll just sleep on the futon ",
+        "ts": "1433466612.003131"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "You'll have the mattress availale",
+        "ts": "1433475181.003132"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "he'll have it in sometime next week, so you don't need to worry about getting any furniture",
+        "edited": {
+            "user": "U046AEEDH",
+            "ts": "1433475201.000000"
+        },
+        "ts": "1433475183.003133"
+    },
+    {
+        "type": "message",
+        "user": "U045T05DE",
+        "text": "Nice give him my thanks haha",
+        "ts": "1433475335.003135"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'll send him a garrosh emote",
+        "ts": "1433475447.003136"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":^)",
+        "ts": "1433475453.003137"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<http:\/\/i.4cdn.org\/b\/1433477446731.png>",
+        "attachments": [
+            {
+                "fallback": "1776x1648px image",
+                "image_url": "http:\/\/i.4cdn.org\/b\/1433477446731.png",
+                "image_width": 1776,
+                "image_height": 1648,
+                "image_bytes": 2708958,
+                "from_url": "http:\/\/i.4cdn.org\/b\/1433477446731.png",
+                "id": 1
+            }
+        ],
+        "ts": "1433479523.003138"
+    }
+]

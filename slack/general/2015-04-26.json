@@ -1,0 +1,1189 @@
+[
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/puu.sh\/hrePZ\/090530cc33.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/hrePZ\/090530cc33.png",
+                "fallback": "998x669px image",
+                "image_url": "http:\/\/puu.sh\/hrePZ\/090530cc33.png",
+                "image_width": 998,
+                "image_height": 669,
+                "image_bytes": 52215,
+                "id": 1
+            }
+        ],
+        "ts": "1430039848.009948"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "<http:\/\/www.amazon.com\/Bose-QuietComfort-Acoustic-Cancelling-Headphones\/dp\/B00D42A16E\/ref=sr_1_2?s=electronics&amp;ie=UTF8&amp;qid=1430039851&amp;sr=1-2&amp;keywords=qc20>",
+        "attachments": [
+            {
+                "text": "<http:\/\/Amazon.com|Amazon.com>: Bose QuietComfort 20 Acoustic Noise Cancelling Headphones: Electronics",
+                "fallback": "<http:\/\/Amazon.com|Amazon.com>: Bose QuietComfort 20 Acoustic Noise Cancelling Headphones: Electronics",
+                "from_url": "http:\/\/www.amazon.com\/Bose-QuietComfort-Acoustic-Cancelling-Headphones\/dp\/B00D42A16E\/ref=sr_1_2?s=electronics&ie=UTF8&qid=1430039851&sr=1-2&keywords=qc20",
+                "id": 1
+            }
+        ],
+        "ts": "1430039862.009950"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "<http:\/\/us.akg.com\/akg-k3003-overview-us.html>",
+        "ts": "1430039977.009952"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "^ still the best",
+        "ts": "1430039985.009953"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "<http:\/\/www.amazon.com\/Beats-Pro-Over-Ear-Headphone-Nicki\/dp\/B00ETI24Q2\/ref=sr_1_3?ie=UTF8&amp;qid=1430040003&amp;sr=8-3&amp;keywords=beats+by+dre+nikki>",
+        "attachments": [
+            {
+                "text": "<http:\/\/Amazon.com|Amazon.com>: Beats Pro Over-Ear Headphone - Nicki Pink: Electronics",
+                "fallback": "<http:\/\/Amazon.com|Amazon.com>: Beats Pro Over-Ear Headphone - Nicki Pink: Electronics",
+                "from_url": "http:\/\/www.amazon.com\/Beats-Pro-Over-Ear-Headphone-Nicki\/dp\/B00ETI24Q2\/ref=sr_1_3?ie=UTF8&qid=1430040003&sr=8-3&keywords=beats+by+dre+nikki",
+                "id": 1
+            }
+        ],
+        "ts": "1430040012.009954"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/www.amazon.com\/gp\/product\/B00V9RKSAA\/ref=od_aui_detailpages00?ie=UTF8&amp;psc=1>",
+        "attachments": [
+            {
+                "text": "Shop cell phones and accessories at <http:\/\/Amazon.com|Amazon.com>. You'll find great prices on cases, headsets, and the latest smartphones from carriers like Verizon, AT&amp;T, and Sprint",
+                "fallback": "Shop cell phones and accessories at <http:\/\/Amazon.com|Amazon.com>. You'll find great prices on cases, headsets, and the latest smartphones from carriers like Verizon, AT&amp;T, and Sprint",
+                "from_url": "http:\/\/www.amazon.com\/gp\/product\/B00V9RKSAA\/ref=od_aui_detailpages00?ie=UTF8&psc=1",
+                "id": 1
+            }
+        ],
+        "ts": "1430040215.009956"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "<https:\/\/www.massdrop.com\/buy\/just-mobile-stand>",
+        "attachments": [
+            {
+                "title": "Massdrop",
+                "title_link": "https:\/\/www.massdrop.com\/buy\/just-mobile-stand",
+                "text": "Massdrop is an online community for enthusiasts. Whether you're an audiophile, quilter, backpacker, or style maven, you can connect with others, discuss your interests and favorite products, and save on those products when you buy together.",
+                "fallback": "Massdrop",
+                "thumb_url": "https:\/\/d3jqoivu6qpygv.cloudfront.net\/img_site\/favicon\/wordmark.png",
+                "from_url": "https:\/\/www.massdrop.com\/buy\/just-mobile-stand",
+                "thumb_width": 1500,
+                "thumb_height": 1500,
+                "id": 1
+            }
+        ],
+        "ts": "1430040371.009958"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "<http:\/\/gyazo.com\/d2d4edd16dc894d61826409b0b05cb71>",
+        "attachments": [
+            {
+                "service_name": "Gyazo",
+                "service_url": "https:\/\/gyazo.com",
+                "fallback": "Gyazo Photo: ",
+                "image_url": "https:\/\/bot.gyazo.com\/d2d4edd16dc894d61826409b0b05cb71.png",
+                "image_width": 1191,
+                "image_height": 899,
+                "from_url": "http:\/\/gyazo.com\/d2d4edd16dc894d61826409b0b05cb71",
+                "image_bytes": 392035,
+                "title_link": "http:\/\/gyazo.com\/d2d4edd16dc894d61826409b0b05cb71",
+                "id": 1
+            }
+        ],
+        "ts": "1430040409.009960"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/www.amazon.com\/The-Anchor-Under-Desk-Headphone-Stand\/dp\/B00P31BMHG\/ref=pd_sxp_grid_pt_0_0>",
+        "attachments": [
+            {
+                "text": "<http:\/\/Amazon.com|Amazon.com>: The Anchor - Under-Desk Headphone Stand Mount: Electronics",
+                "fallback": "<http:\/\/Amazon.com|Amazon.com>: The Anchor - Under-Desk Headphone Stand Mount: Electronics",
+                "from_url": "http:\/\/www.amazon.com\/The-Anchor-Under-Desk-Headphone-Stand\/dp\/B00P31BMHG\/ref=pd_sxp_grid_pt_0_0",
+                "id": 1
+            }
+        ],
+        "ts": "1430040514.009962"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "<http:\/\/www.nextdesks.com\/>",
+        "attachments": [
+            {
+                "title": "Named the Best Standing Desks | NextDesk",
+                "title_link": "http:\/\/www.nextdesks.com\/",
+                "text": "Official site of NextDesk. US manufacturer of top-rated standing desks and power adjustable height desks. Stand up to feel better and live longer.",
+                "fallback": "Named the Best Standing Desks | NextDesk",
+                "from_url": "http:\/\/www.nextdesks.com\/",
+                "id": 1
+            }
+        ],
+        "ts": "1430040627.009964"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "<http:\/\/www.amazon.com\/Steelcase-Leap-Fabric-Chair-Black\/dp\/B006H1QYBA>",
+        "attachments": [
+            {
+                "text": "<http:\/\/Amazon.com|Amazon.com>: Steelcase Leap Fabric Chair, Black: Furniture &amp; Decor",
+                "fallback": "<http:\/\/Amazon.com|Amazon.com>: Steelcase Leap Fabric Chair, Black: Furniture &amp; Decor",
+                "from_url": "http:\/\/www.amazon.com\/Steelcase-Leap-Fabric-Chair-Black\/dp\/B006H1QYBA",
+                "id": 1
+            }
+        ],
+        "ts": "1430040798.009966"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/www.amazon.com\/Rain-Design-10032-mStand-Laptop\/dp\/B000OOYECC\/ref=pd_sim_etk_hg_fd__3?ie=UTF8&amp;refRID=07TVT373YZ0FTJ490W20>",
+        "attachments": [
+            {
+                "text": "<http:\/\/Amazon.com|Amazon.com>: mStand Laptop Stand: Computers &amp; Accessories",
+                "fallback": "<http:\/\/Amazon.com|Amazon.com>: mStand Laptop Stand: Computers &amp; Accessories",
+                "from_url": "http:\/\/www.amazon.com\/Rain-Design-10032-mStand-Laptop\/dp\/B000OOYECC\/ref=pd_sim_etk_hg_fd__3?ie=UTF8&refRID=07TVT373YZ0FTJ490W20",
+                "id": 1
+            }
+        ],
+        "ts": "1430040900.009968"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "<http:\/\/www.colorware.com\/p-348-macbook-pro-retina-15-inch.aspx>",
+        "attachments": [
+            {
+                "service_name": "ColorWare",
+                "title": "Custom ColorWare Design",
+                "title_link": "http:\/\/www.colorware.com\/p-348-macbook-pro-retina-15-inch.aspx",
+                "text": "The following is a Custom Design I made at ColorWare.",
+                "fallback": "ColorWare: Custom ColorWare Design",
+                "from_url": "http:\/\/www.colorware.com\/p-348-macbook-pro-retina-15-inch.aspx",
+                "id": 1
+            }
+        ],
+        "ts": "1430041108.009970"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/www.uncovermac.com\/pages\/tailor-made>",
+        "attachments": [
+            {
+                "service_name": "UNCOVER",
+                "service_url": "http:\/\/www.uncovermac.com\/pages\/tailor-made",
+                "text": "We lasercut MacBooks and let their innate light shine through.",
+                "fallback": "UNCOVER: ",
+                "image_url": "http:\/\/cdn.shopify.com\/s\/files\/1\/0187\/6504\/t\/4\/assets\/logo.png?9565408673275508",
+                "from_url": "http:\/\/www.uncovermac.com\/pages\/tailor-made",
+                "image_width": 237,
+                "image_height": 75,
+                "image_bytes": 7956,
+                "id": 1
+            }
+        ],
+        "ts": "1430041112.009972"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/www.amazon.com\/Logitech-Master-Wireless-Mouse-910-004337\/dp\/B00TZR3WRM\/ref=pd_bxgy_e_text_y>",
+        "attachments": [
+            {
+                "text": "<http:\/\/Amazon.com|Amazon.com>: Logitech MX Master Wireless Mouse (910-004337): Computers &amp; Accessories",
+                "fallback": "<http:\/\/Amazon.com|Amazon.com>: Logitech MX Master Wireless Mouse (910-004337): Computers &amp; Accessories",
+                "from_url": "http:\/\/www.amazon.com\/Logitech-Master-Wireless-Mouse-910-004337\/dp\/B00TZR3WRM\/ref=pd_bxgy_e_text_y",
+                "id": 1
+            }
+        ],
+        "ts": "1430041253.009974"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<https:\/\/images-na.ssl-images-amazon.com\/images\/I\/71NBI-RzYZL._SL1600_.jpg>",
+        "attachments": [
+            {
+                "from_url": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/71NBI-RzYZL._SL1600_.jpg",
+                "fallback": "1440x1080px image",
+                "image_url": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/71NBI-RzYZL._SL1600_.jpg",
+                "image_width": 1440,
+                "image_height": 1080,
+                "image_bytes": 207643,
+                "id": 1
+            }
+        ],
+        "ts": "1430041708.009976"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/www.amazon.com\/gp\/product\/B000PWGZOI\/ref=oh_aui_detailpage_o01_s00?ie=UTF8&amp;psc=1>",
+        "attachments": [
+            {
+                "text": "<http:\/\/Amazon.com|Amazon.com> - SPACE Seating Professional Dark Air Grid Back with Black Eco Leather Seat, Managers Chair - Adjustable Home Desk Chairs",
+                "fallback": "<http:\/\/Amazon.com|Amazon.com> - SPACE Seating Professional Dark Air Grid Back with Black Eco Leather Seat, Managers Chair - Adjustable Home Desk Chairs",
+                "from_url": "http:\/\/www.amazon.com\/gp\/product\/B000PWGZOI\/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1",
+                "id": 1
+            }
+        ],
+        "ts": "1430041787.009978"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "<http:\/\/www.staples.com\/Staples-Osgood-Bonded-Leather-Managers-Chair\/product_SS1058639>",
+        "attachments": [
+            {
+                "service_name": "Staples.com",
+                "title": "Staples\u00ae Osgood\u2122 Bonded Leather Managers Chair",
+                "title_link": "http:\/\/www.staples.com\/Staples-Osgood-Bonded-Leather-Managers-Chair\/product_SS1058639",
+                "text": "Shop Staples&amp;reg; for Staples\u00ae Osgood\u2122 Bonded Leather Managers Chair, Black. Enjoy everyday low prices and get everything you need for a home office or business.",
+                "fallback": "Staples.com: Staples\u00ae Osgood\u2122 Bonded Leather Managers Chair",
+                "thumb_url": "http:\/\/www.staples-3p.com\/s7\/is\/image\/Staples\/s0820492_sc7?$std$",
+                "from_url": "http:\/\/www.staples.com\/Staples-Osgood-Bonded-Leather-Managers-Chair\/product_SS1058639",
+                "thumb_width": 180,
+                "thumb_height": 180,
+                "id": 1
+            }
+        ],
+        "ts": "1430041853.009980"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "<http:\/\/www.dxracer.com\/us\/en-us\/>",
+        "attachments": [
+            {
+                "text": "DXRacer USA Home Page",
+                "fallback": "DXRacer USA Home Page",
+                "from_url": "http:\/\/www.dxracer.com\/us\/en-us\/",
+                "id": 1
+            }
+        ],
+        "ts": "1430042069.009982"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "<http:\/\/www.twitch.tv\/pgl_hs\/v\/4317719?t=8h19m58s>",
+        "ts": "1430042497.009984"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "<https:\/\/www.youtube.com\/watch?v=NY9npmRkYyE>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "http:\/\/www.youtube.com\/",
+                "title": "Alesh vs Lothar - RNG Strikes and their reactions",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=NY9npmRkYyE",
+                "author_name": "DisguisedToast",
+                "author_link": "http:\/\/www.youtube.com\/channel\/UCUT8RoNBTJvwW1iErP6-b-A",
+                "thumb_url": "http:\/\/i.ytimg.com\/vi\/NY9npmRkYyE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Alesh vs Lothar - RNG Strikes and their reactions",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"http:\/\/www.youtube.com\/embed\/NY9npmRkYyE?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=NY9npmRkYyE",
+                "id": 1
+            }
+        ],
+        "ts": "1430042801.009985"
+    },
+    {
+        "type": "message",
+        "user": "U046T9LSZ",
+        "text": "<http:\/\/www.reddit.com\/r\/hearthstone\/comments\/33v9am\/how_about_that_trump_vs_dr_boom\/>",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "How about that Trump Vs Dr Boom \u2022 \/r\/hearthstone",
+                "title_link": "http:\/\/www.reddit.com\/r\/hearthstone\/comments\/33v9am\/how_about_that_trump_vs_dr_boom\/",
+                "text": "excellent card edit: <http:\/\/www.twitch.tv\/trumpsc\/v\/4367917> 4:17:13",
+                "fallback": "reddit: How about that Trump Vs Dr Boom \u2022 \/r\/hearthstone",
+                "thumb_url": "https:\/\/www.redditstatic.com\/icon.png",
+                "from_url": "http:\/\/www.reddit.com\/r\/hearthstone\/comments\/33v9am\/how_about_that_trump_vs_dr_boom\/",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "id": 1
+            }
+        ],
+        "ts": "1430042893.009987"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "An interesting take on a classic",
+        "ts": "1430077945.009989"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<http:\/\/i.imgur.com\/o0zH32N.jpg>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/i.imgur.com\/o0zH32N.jpg",
+                "fallback": "756x651px image",
+                "image_url": "http:\/\/i.imgur.com\/o0zH32N.jpg",
+                "image_width": 756,
+                "image_height": 651,
+                "image_bytes": 85209,
+                "id": 1
+            }
+        ],
+        "ts": "1430077948.009990"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt;mfw <https:\/\/pbs.twimg.com\/media\/CDYFyMEUkAAV4jy.png>",
+        "attachments": [
+            {
+                "from_url": "https:\/\/pbs.twimg.com\/media\/CDYFyMEUkAAV4jy.png",
+                "fallback": "497x393px image",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/CDYFyMEUkAAV4jy.png",
+                "image_width": 497,
+                "image_height": 393,
+                "image_bytes": 298421,
+                "id": 1
+            }
+        ],
+        "ts": "1430087108.009992"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "sup niggas",
+        "ts": "1430089417.009994"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im back home",
+        "ts": "1430089419.009995"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "You back in the hood CJ?",
+        "ts": "1430089483.009996"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Guess you not a busta",
+        "ts": "1430089487.009997"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yah",
+        "ts": "1430089488.009998"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuckin",
+        "ts": "1430089490.009999"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "soma",
+        "ts": "1430089493.010000"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "anyone wanna help me",
+        "ts": "1430090457.010001"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "get my dominance",
+        "ts": "1430090458.010002"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I would but I don't have my computer",
+        "ts": "1430090607.010003"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":(",
+        "ts": "1430090615.010004"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":((",
+        "ts": "1430090626.010005"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its k",
+        "ts": "1430090627.010006"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its the thought that counts",
+        "ts": "1430090631.010007"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Not really lel",
+        "ts": "1430090807.010008"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "xD",
+        "ts": "1430090807.010009"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "It's the gold that counts",
+        "ts": "1430090884.010010"
+    },
+    {
+        "text": "<@U03UNR40S|wyaeiga> has started a Google+ Hangout for this channel. <https:\/\/hangoutsapi.talkgadget.google.com\/hangouts\/_\/gywlmzv5ot7dvmdisanetnjnrqa|Click here to join>.",
+        "username": "dankhangoutbot",
+        "bot_id": "B046BDQNM",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1430092151.010011"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/www.reddit.com\/r\/heroesofthestorm\/comments\/33tvk4\/heroes_of_the_dorm_lan_finals_sunday_230pm\/>",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Heroes of the Dorm LAN Finals | Sunday... \u2022 \/r\/heroesofthestorm",
+                "title_link": "http:\/\/www.reddit.com\/r\/heroesofthestorm\/comments\/33tvk4\/heroes_of_the_dorm_lan_finals_sunday_230pm\/",
+                "text": "##This is not a spoiler free zone. Users are encouraged to post about the games in real time. If you do not want things spoiled do not scroll...",
+                "fallback": "reddit: Heroes of the Dorm LAN Finals | Sunday... \u2022 \/r\/heroesofthestorm",
+                "thumb_url": "https:\/\/www.redditstatic.com\/icon.png",
+                "from_url": "http:\/\/www.reddit.com\/r\/heroesofthestorm\/comments\/33tvk4\/heroes_of_the_dorm_lan_finals_sunday_230pm\/",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "id": 1
+            }
+        ],
+        "ts": "1430096511.010012"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "SpoOOk \u30fe(;\uff9f\u0414\uff9f;)\uff7c",
+        "ts": "1430096867.010014"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": ":league:?",
+        "ts": "1430101842.010015"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1430101848.010016"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm down",
+        "ts": "1430101849.010017"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "kelvin is around too",
+        "ts": "1430101851.010018"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "thomas and jason are off doing something but should be back soon",
+        "ts": "1430101859.010019"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and gary is also around",
+        "ts": "1430101863.010020"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "dude",
+        "ts": "1430101867.010021"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "my win % with gary",
+        "ts": "1430101870.010022"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "is",
+        "ts": "1430101871.010023"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "0",
+        "ts": "1430101872.010024"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "lmao",
+        "ts": "1430101878.010025"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's okay",
+        "ts": "1430101880.010026"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1430101881.010027"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Ayy",
+        "ts": "1430101912.010028"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1430101913.010029"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "whose in the hangout?",
+        "ts": "1430101974.010030"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "idk you can just go check it before joining if you click the link",
+        "ts": "1430101985.010031"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "i did",
+        "ts": "1430102024.010032"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "u created it",
+        "ts": "1430102028.010033"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "and u arent in it",
+        "ts": "1430102030.010034"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "u are so cool",
+        "ts": "1430102035.010035"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "X)",
+        "ts": "1430102039.010036"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "XD",
+        "ts": "1430102044.010037"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol",
+        "ts": "1430102162.010038"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "srsly?",
+        "ts": "1430102163.010039"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we have 11.9k messages sent in this slack :simple_smile:",
+        "ts": "1430102182.010040"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its not that much",
+        "ts": "1430102209.010041"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ya i know",
+        "ts": "1430102213.010042"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":anguished:",
+        "ts": "1430102215.010043"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i wanna see the paid stats but i don't wanna pay :disappointed:",
+        "ts": "1430102255.010044"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "maybe we should just roll our own slack solution :simple_smile:",
+        "ts": "1430102263.010045"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "heroes of the dorm",
+        "ts": "1430102825.010046"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is on espn 2????",
+        "ts": "1430102827.010047"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what the fuck",
+        "ts": "1430102834.010048"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why did they upgrade",
+        "ts": "1430102836.010049"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn wtf",
+        "ts": "1430102841.010050"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no srsly look",
+        "ts": "1430102868.010051"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/puu.sh\/hse3b\/f49bb850bd.png>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/puu.sh\/hse3b\/f49bb850bd.png",
+                "fallback": "1091x350px image",
+                "image_url": "http:\/\/puu.sh\/hse3b\/f49bb850bd.png",
+                "image_width": 1091,
+                "image_height": 350,
+                "image_bytes": 36978,
+                "id": 1
+            }
+        ],
+        "ts": "1430102871.010052"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "dman",
+        "ts": "1430102881.010054"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "we should go pro in it",
+        "ts": "1430102884.010055"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ITS TIED",
+        "ts": "1430102965.010056"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "?!?!?!?!?",
+        "ts": "1430102967.010057"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "between who?",
+        "ts": "1430102975.010058"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ASU and Cal",
+        "ts": "1430102980.010059"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "duh",
+        "ts": "1430102980.010060"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1430102983.010061"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "LOL",
+        "ts": "1430102990.010062"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "THANKS ARTOSIS",
+        "ts": "1430102991.010063"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ITS 1-1",
+        "ts": "1430102994.010064"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "NOW ITS TIED",
+        "ts": "1430102997.010065"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "NOW ITS A BEST OF 3",
+        "ts": "1430103001.010066"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "YOU WIN TWO OF THEM YOU WIN!",
+        "ts": "1430103003.010067"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im watching on my xbone lol",
+        "ts": "1430103197.010068"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "dang, kelvinchou2dank",
+        "ts": "1430103208.010069"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Why aren't we playing hots",
+        "ts": "1430103260.010070"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "we should",
+        "ts": "1430103268.010071"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U045MBNTQ|reyarch> uploaded a file: <https:\/\/599usd.slack.com\/files\/reyarch\/F04JMM3HH\/slack_for_ios_upload.jpg|Slack for iOS Upload>",
+        "file": {
+            "id": "F04JMM3HH",
+            "created": 1430103283,
+            "timestamp": 1430103283,
+            "name": "Slack for iOS Upload.jpg",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U045MBNTQ",
+            "editable": false,
+            "size": 1654968,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F04JMM3HH-51e9468a22\/slack_for_ios_upload.jpg",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F04JMM3HH-51e9468a22\/download\/slack_for_ios_upload.jpg",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F04JMM3HH\/slack_for_ios_upload.jpg",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F04JMM3HH\/download\/slack_for_ios_upload.jpg",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04JMM3HH-04712d349b\/slack_for_ios_upload_64.png",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04JMM3HH-04712d349b\/slack_for_ios_upload_80.png",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04JMM3HH-04712d349b\/slack_for_ios_upload_360.png",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04JMM3HH-04712d349b\/slack_for_ios_upload_160.png",
+            "thumb_720": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04JMM3HH-04712d349b\/slack_for_ios_upload_720.png",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_1024": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F04JMM3HH-04712d349b\/slack_for_ios_upload_1024.png",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 6,
+            "permalink": "https:\/\/599usd.slack.com\/files\/reyarch\/F04JMM3HH\/slack_for_ios_upload.jpg",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F04JMM3HH-51e9468a22",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U045MBNTQ",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U045MBNTQ|reyarch>",
+        "bot_id": null,
+        "ts": "1430103293.010072"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_360.png>",
+        "attachments": [
+            {
+                "from_url": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_360.png",
+                "fallback": "360x267px image",
+                "image_url": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F046R5K29-1c84884690\/img_20150386_182832_360.png",
+                "image_width": 360,
+                "image_height": 267,
+                "image_bytes": 174935,
+                "id": 1
+            }
+        ],
+        "ts": "1430103331.010073"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "so dank",
+        "ts": "1430103355.010075"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "shit do we have 5 for leauge now",
+        "ts": "1430103434.010076"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "not right now but we will soon",
+        "ts": "1430103444.010077"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "oh shit actually",
+        "ts": "1430103451.010078"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<@U046T9LSZ> <@U045MFQ3C>",
+        "ts": "1430103466.010079"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Wtf is happening ",
+        "ts": "1430103495.010080"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Why are they underground ",
+        "ts": "1430103500.010081"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "What are those numbers at the bottom ",
+        "ts": "1430103625.010082"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "are they close to each other?",
+        "ts": "1430103635.010083"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like 14 to 15?",
+        "ts": "1430103640.010084"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "if so then that's their team's overall level",
+        "ts": "1430103651.010085"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "otherwise idk it's some hots shit",
+        "ts": "1430103655.010086"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ohhh",
+        "ts": "1430103841.010087"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah 10 and 9",
+        "ts": "1430103842.010088"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what do these things mean",
+        "ts": "1430103902.010089"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im so confused",
+        "ts": "1430103905.010090"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "100 skull golem",
+        "ts": "1430103907.010091"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why are there so many heals",
+        "ts": "1430103936.010092"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "should we all download and play??",
+        "ts": "1430104285.010093"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "lol im down to play it",
+        "ts": "1430104298.010094"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "are we gonna play anything",
+        "ts": "1430104791.010095"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "well i'm just watching hou dal right now",
+        "ts": "1430104805.010096"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im going to eat dinner.",
+        "ts": "1430104816.010097"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "where did everyone go",
+        "ts": "1430106756.010098"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that's a good question",
+        "ts": "1430106762.010099"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Dinner for me",
+        "ts": "1430107028.010100"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Sorry :((",
+        "ts": "1430107031.010101"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Maybe when I get back?",
+        "ts": "1430107098.010102"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "yeah but we still missing like 2 people",
+        "ts": "1430107196.010103"
+    },
+    {
+        "type": "message",
+        "user": "U045MBQBN",
+        "text": "where are all the dank memers",
+        "ts": "1430108922.010104"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I'm back now",
+        "ts": "1430110807.010105"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Just finished dinner ",
+        "ts": "1430110815.010106"
+    },
+    {
+        "text": "<@U03UNR40S|wyaeiga> has started a Google+ Hangout for this channel. <https:\/\/hangoutsapi.talkgadget.google.com\/hangouts\/_\/e2njqzmdhluqy6tnoml7znnw5ib|Click here to join>.",
+        "username": "dankhangoutbot",
+        "bot_id": "B046BDQNM",
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1430110888.010107"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<@U045MFQ3C> <@U045MBQBN>  <@U045MBNTQ>",
+        "ts": "1430110898.010108"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/www.reddit.com\/r\/berkeley\/comments\/33z3nx\/chancellor_dirks_here_lets_talk\/>",
+        "attachments": [
+            {
+                "text": "reddit: the front page of the internet",
+                "fallback": "reddit: the front page of the internet",
+                "from_url": "http:\/\/www.reddit.com\/r\/berkeley\/comments\/33z3nx\/chancellor_dirks_here_lets_talk\/",
+                "id": 1
+            }
+        ],
+        "ts": "1430111854.010109"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<https:\/\/instagram.com\/p\/0vM02UrzQw\/>",
+        "ts": "1430112033.010111"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<@U046AEEDH> you around to league?",
+        "ts": "1430112054.010112"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<@U046PCGDV>:  GET ONNNNNNNNNNNNNNN",
+        "ts": "1430114424.010113"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "league???",
+        "ts": "1430115517.010114"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<https:\/\/career.berkeley.edu\/Major\/EECS.pdf>",
+        "ts": "1430117490.010115"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<https:\/\/career.berkeley.edu\/Major\/CompSci.pdf>",
+        "ts": "1430117564.010116"
+    }
+]

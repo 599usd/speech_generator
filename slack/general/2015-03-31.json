@@ -1,0 +1,1548 @@
+[
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "tfti",
+        "ts": "1427789354.000721"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "\/giphy donk",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media2.giphy.com\/media\/5fpGApuK2ZJEA\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/5fpGApuK2ZJEA>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/5fpGApuK2ZJEA\/giphy.gif",
+                "image_width": 364,
+                "image_height": 276,
+                "image_bytes": 1825707,
+                "title": "donk",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/5fpGApuK2ZJEA"
+            }
+        ],
+        "ts": "1427791930.000722"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "\/giphy bonk",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media2.giphy.com\/media\/zbJj1LJLbpeoM\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/comedy-riot-improv-zbJj1LJLbpeoM>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/zbJj1LJLbpeoM\/giphy.gif",
+                "image_width": 500,
+                "image_height": 282,
+                "image_bytes": 940983,
+                "title": "bonk",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/comedy-riot-improv-zbJj1LJLbpeoM"
+            }
+        ],
+        "ts": "1427823892.000727"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "\/giphy tonka",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media2.giphy.com\/media\/1091CM2Ya451le\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/vintage-nostalgia-turbofist-1091CM2Ya451le>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/1091CM2Ya451le\/giphy.gif",
+                "image_width": 350,
+                "image_height": 255,
+                "image_bytes": 1709422,
+                "title": "tonka",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/vintage-nostalgia-turbofist-1091CM2Ya451le"
+            }
+        ],
+        "ts": "1427824576.000728"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\/giphy cross-boss",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media3.giphy.com\/media\/pjK9Dn1tj6zT2\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/dna-cross-gene-takuya-pjK9Dn1tj6zT2>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/pjK9Dn1tj6zT2\/giphy.gif",
+                "image_width": 245,
+                "image_height": 168,
+                "image_bytes": 977320,
+                "title": "cross-boss",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/dna-cross-gene-takuya-pjK9Dn1tj6zT2"
+            }
+        ],
+        "ts": "1427824608.000729"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<https:\/\/www.youtube.com\/watch?v=K8MzIhbGoQY>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "http:\/\/www.youtube.com\/",
+                "title": "Cross Boss The two fisted 4x4",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=K8MzIhbGoQY",
+                "author_name": "AlyBeeRiken",
+                "author_link": "http:\/\/www.youtube.com\/user\/AlyBeeRiken",
+                "thumb_url": "http:\/\/i.ytimg.com\/vi\/K8MzIhbGoQY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Cross Boss The two fisted 4x4",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"http:\/\/www.youtube.com\/embed\/K8MzIhbGoQY?feature=oembed\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=K8MzIhbGoQY",
+                "id": 1
+            }
+        ],
+        "ts": "1427824630.000730"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "\/giphy truck",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media2.giphy.com\/media\/Yx6DUrMwvHhHW\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/truck-Yx6DUrMwvHhHW>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/Yx6DUrMwvHhHW\/giphy.gif",
+                "image_width": 254,
+                "image_height": 230,
+                "image_bytes": 1859276,
+                "title": "truck",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/truck-Yx6DUrMwvHhHW"
+            }
+        ],
+        "ts": "1427824657.000732"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "sheeee",
+        "ts": "1427826240.000733"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "It",
+        "ts": "1427826597.000734"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i should have told",
+        "ts": "1427827401.000735"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the people who interviewed me as part of gary's background check stuff",
+        "ts": "1427827409.000736"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that he is an active member and advocate of ISIS",
+        "ts": "1427827419.000737"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1427827421.000738"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "[:",
+        "ts": "1427827763.000739"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "who do they know who to interview?",
+        "ts": "1427827770.000740"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "or do they know because NSA",
+        "ts": "1427827779.000741"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "he lists references",
+        "ts": "1427827782.000742"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "oh",
+        "ts": "1427827907.000743"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "not because",
+        "ts": "1427827908.000744"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":nsa:",
+        "ts": "1427827911.000745"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lmao",
+        "ts": "1427827916.000746"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nice",
+        "ts": "1427827916.000747"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "eh its kinda small",
+        "ts": "1427827917.000748"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's okay that's the max size",
+        "ts": "1427827923.000749"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1427827924.000750"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":comcast:",
+        "ts": "1427827928.000751"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1427827930.000752"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":comcast: &gt; :nsa:",
+        "ts": "1427827936.000753"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "sheee",
+        "ts": "1427827945.000754"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "fucking",
+        "ts": "1427827946.000755"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":comcast: kda = 6million",
+        "ts": "1427827948.000756"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "my CPU fan runs at 90%",
+        "ts": "1427827952.000757"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "even when i tell it not to",
+        "ts": "1427827955.000758"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "]:",
+        "ts": "1427827956.000759"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "okay figured it out",
+        "ts": "1427828049.000760"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "LOL",
+        "ts": "1427828156.000761"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wtf",
+        "ts": "1427828156.000762"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you were a reference?",
+        "ts": "1427828159.000763"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "<@U03UNR40S>: stop going to work and play :league: :smile:",
+        "ts": "1427828458.000764"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "hipchat is trash",
+        "ts": "1427832435.000765"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I've got a social event tonight bois",
+        "ts": "1427832714.000766"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "\/giphy dumb sluts",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/iOumrigyiNfXy\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/funny-hbo-iOumrigyiNfXy>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/iOumrigyiNfXy\/giphy.gif",
+                "image_width": 500,
+                "image_height": 435,
+                "image_bytes": 440863,
+                "title": "dumb sluts",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/funny-hbo-iOumrigyiNfXy"
+            }
+        ],
+        "ts": "1427832722.000767"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "mfw the image above describes my feelings",
+        "ts": "1427832747.000768"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "\/giphy mfw",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media1.giphy.com\/media\/Lj8sqZSmZu1oc\/giphy.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/mfw-Lj8sqZSmZu1oc>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/Lj8sqZSmZu1oc\/giphy.gif",
+                "image_width": 460,
+                "image_height": 180,
+                "image_bytes": 665977,
+                "title": "mfw",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/mfw-Lj8sqZSmZu1oc"
+            }
+        ],
+        "ts": "1427834351.000769"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "\/giphy tfw no gf",
+        "attachments": [
+            {
+                "from_url": "http:\/\/media.giphy.com\/media\/enWza00ZSpIT6\/giphy-tumblr.gif",
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/gf-enWza00ZSpIT6>",
+                "image_url": "http:\/\/media.giphy.com\/media\/enWza00ZSpIT6\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 143,
+                "image_bytes": 783342,
+                "title": "tfw no gf",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/gf-enWza00ZSpIT6"
+            }
+        ],
+        "ts": "1427834403.000770"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you guys should go to",
+        "ts": "1427834999.000771"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/maps.google.com|maps.google.com>",
+        "ts": "1427835001.000772"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and play pacman",
+        "ts": "1427835002.000773"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "this gif was just sent to me at work.",
+        "ts": "1427846625.000774"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "best gif.",
+        "ts": "1427846626.000775"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/i.imgur.com\/ESCWFqa.gif>",
+        "attachments": [
+            {
+                "from_url": "http:\/\/i.imgur.com\/ESCWFqa.gif",
+                "fallback": "200x150px image",
+                "image_url": "http:\/\/i.imgur.com\/ESCWFqa.gif",
+                "image_width": 200,
+                "image_height": 150,
+                "image_bytes": 4828211,
+                "id": 1
+            }
+        ],
+        "ts": "1427846627.000776"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lmao",
+        "ts": "1427846827.000778"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ayyyyyyyyyy",
+        "ts": "1427846832.000779"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ayy",
+        "ts": "1427846833.000780"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "lmao",
+        "ts": "1427846833.000781"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wish i had a pc",
+        "ts": "1427846938.000782"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "buy one",
+        "ts": "1427847686.000783"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im waiting for",
+        "ts": "1427848008.000784"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "skylake to come out",
+        "ts": "1427848014.000785"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "are you pro at building pcs?",
+        "ts": "1427848021.000786"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i wouldn't say i'm a pro, but i can build one",
+        "ts": "1427848119.000787"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck you",
+        "ts": "1427848125.000788"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you're shit",
+        "ts": "1427848125.000789"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "not sure what would make someone pro at it",
+        "ts": "1427848127.000790"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i told MIT you're ISIS",
+        "ts": "1427848130.000791"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": ":gary3:",
+        "ts": "1427848134.000792"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+        "ts": "1427848134.000793"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": ":gary2:",
+        "ts": "1427848140.000794"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "NORMIES GET OUT",
+        "ts": "1427848141.000795"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary2: = ISIS",
+        "ts": "1427848145.000796"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "NORMIES GET OUT",
+        "ts": "1427848145.000797"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel i wanted to say",
+        "ts": "1427848156.000798"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "xD",
+        "ts": "1427848157.000799"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "when they asked if you supported any terrorist groups",
+        "ts": "1427848166.000800"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that you were an advocate of ISIS",
+        "ts": "1427848177.000801"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i feel like i should have",
+        "ts": "1427848188.000802"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "that would've been so real",
+        "ts": "1427848202.000803"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why is the order wrong",
+        "ts": "1427848203.000804"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck it was such a stupid interview",
+        "ts": "1427848245.000805"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "all i said was \"no\" the whole time",
+        "ts": "1427848250.000806"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck you gary",
+        "ts": "1427848251.000807"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "was it over the phone? or in person?",
+        "ts": "1427848255.000808"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i should have said yes to everything",
+        "ts": "1427848256.000809"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "LOLOL",
+        "ts": "1427848256.000810"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "and i know, i've done one",
+        "ts": "1427848259.000811"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "phone",
+        "ts": "1427848260.000812"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i know",
+        "ts": "1427848263.000813"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lol wtf",
+        "ts": "1427848267.000814"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it was over the phone",
+        "ts": "1427848268.000815"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you also gave them the wrong address",
+        "ts": "1427848273.000816"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how come I've never done one",
+        "ts": "1427848273.000817"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you fucker",
+        "ts": "1427848274.000818"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "did i really?",
+        "ts": "1427848279.000819"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "rekt",
+        "ts": "1427848282.000820"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "cause you don't have fuckers working for the gov that you need to vouch for",
+        "ts": "1427848284.000821"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1427848288.000822"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you fucking idiot",
+        "ts": "1427848291.000823"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i hope they rescind your offer",
+        "ts": "1427848296.000824"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": ":^(",
+        "ts": "1427848300.000825"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fucking #2606",
+        "ts": "1427848303.000826"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what the fuck do you think i am",
+        "ts": "1427848308.000827"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fucking fucker",
+        "ts": "1427848310.000828"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "wow dude, in the chat you sent me that one time",
+        "ts": "1427848333.000829"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "you said 2602",
+        "ts": "1427848336.000830"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no i am",
+        "ts": "1427848343.000831"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but somehow",
+        "ts": "1427848346.000832"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the bitch got 2606",
+        "ts": "1427848348.000833"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "which must be your fault",
+        "ts": "1427848352.000834"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "wtf",
+        "ts": "1427848355.000835"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "maybe",
+        "ts": "1427848357.000836"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "rel",
+        "ts": "1427848358.000837"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you're fault",
+        "ts": "1427848359.000838"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "faggot",
+        "ts": "1427848360.000839"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fucking bitch",
+        "ts": "1427848361.000840"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so mad @ u",
+        "ts": "1427848364.000841"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":gary3:",
+        "ts": "1427848368.000842"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+        "ts": "1427848368.000843"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "wow, i put it down right",
+        "ts": "1427848386.000844"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "he must've been scrub",
+        "ts": "1427848389.000845"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "SHE",
+        "ts": "1427848424.000846"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "WOW",
+        "ts": "1427848426.000847"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "YOU FUCKING MISOGYNIST",
+        "ts": "1427848430.000848"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i should have told them",
+        "ts": "1427848450.000849"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that you're a moderator of",
+        "ts": "1427848457.000850"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "r\/theredpill",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1427848469.000000"
+        },
+        "ts": "1427848463.000851"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "what if they were too",
+        "ts": "1427848472.000853"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1427848475.000854"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nice",
+        "ts": "1427848476.000855"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel",
+        "ts": "1427848477.000856"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "xD",
+        "ts": "1427848477.000857"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "LOLOL",
+        "ts": "1427849506.000858"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what the fuck is r\/theredpill",
+        "ts": "1427849510.000859"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "hmm i'm not sure what it's _actually_ for",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1427849600.000000"
+        },
+        "ts": "1427849588.000860"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but what it seems like",
+        "ts": "1427849604.000862"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "is that it's full of a bunch of guys who are mad that they can't get chicks or something along that line",
+        "ts": "1427849616.000863"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "either can't get or can't keep",
+        "ts": "1427849623.000864"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and so they congregate about ways that they can \"game\" the system of picking up girls",
+        "ts": "1427849644.000865"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and other bullshit like that",
+        "ts": "1427849653.000866"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i've only looked at a few things on there when i was just trying to figure out wtf it is",
+        "ts": "1427849666.000867"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so i'm not really sure",
+        "ts": "1427849668.000868"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so you get a lot of people",
+        "ts": "1427849693.000869"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "being pick up artists and shit",
+        "ts": "1427849698.000870"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and giving tips on that",
+        "ts": "1427849703.000871"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "some of the hardcore people on there think that women are more privileged than men",
+        "ts": "1427850563.000872"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "and that as men we have to game the system",
+        "ts": "1427850572.000873"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "leterally",
+        "ts": "1427851087.000874"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":nsa:",
+        "ts": "1427851089.000875"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "and :comcast: combined",
+        "ts": "1427851097.000876"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1427851100.000877"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and :square:",
+        "ts": "1427851104.000878"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "don't forget",
+        "ts": "1427851106.000879"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":smile:",
+        "ts": "1427851212.000880"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "when are deals for the 290x coming ]':",
+        "ts": "1427851220.000881"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "x(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((",
+        "ts": "1427851338.000882"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":smile:",
+        "ts": "1427851339.000883"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":+1:",
+        "ts": "1427851344.000884"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what are you hoping the price will drop to",
+        "ts": "1427851354.000885"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "270-280",
+        "ts": "1427851368.000886"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "fuck why does everyone want to go to soda",
+        "ts": "1427851385.000887"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "to work",
+        "ts": "1427851387.000888"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":cal: sucks",
+        "ts": "1427851396.000889"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "instead of just",
+        "ts": "1427851442.000890"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "???",
+        "ts": "1427851442.000891"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "WFH?",
+        "ts": "1427851443.000892"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1427851444.000893"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "8)",
+        "ts": "1427851444.000894"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whats 290x",
+        "ts": "1427851445.000895"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "r9 290x",
+        "ts": "1427851448.000896"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "amd",
+        "ts": "1427851450.000897"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "card",
+        "ts": "1427851451.000898"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I'm gonna buy some candy so I don't kill myself when we work",
+        "ts": "1427851525.000899"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "zz",
+        "ts": "1427851526.000900"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "jason finna get #rekt",
+        "ts": "1427851545.000901"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im confuse",
+        "ts": "1427851576.000902"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what is going on",
+        "ts": "1427851578.000903"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what are we talking about",
+        "ts": "1427851580.000904"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nothing, you ruined the convo :^(",
+        "ts": "1427851613.000905"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "jason was just talking about wanting to buy a new GFX card",
+        "ts": "1427851631.000906"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then complaining about his software engineering class group",
+        "ts": "1427851639.000907"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then above that i was telling you what r\/trp is",
+        "ts": "1427851652.000908"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuuuu",
+        "ts": "1427851794.000909"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why am i so bad",
+        "ts": "1427851797.000910"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why am i still at work",
+        "ts": "1427851801.000911"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1427851807.000912"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I've been here for like 10 minutes and I can't get to the 7th floor",
+        "ts": "1427854282.000913"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Why",
+        "ts": "1427854286.000914"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Did I walk here",
+        "ts": "1427854289.000915"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wait what do you mean you can't get to the 7th floor?",
+        "ts": "1427854311.000916"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "is it closed?",
+        "ts": "1427854322.000917"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I need keycard access to get there",
+        "ts": "1427854437.000918"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "zzz rekt",
+        "ts": "1427854444.000919"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "where is ur shit group",
+        "ts": "1427854447.000920"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Idk",
+        "ts": "1427854764.000921"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "also we use hipchat",
+        "ts": "1427854916.000922"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "this group is literally :comcast:",
+        "ts": "1427854923.000923"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "x)",
+        "ts": "1427854926.000924"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why don't you guys",
+        "ts": "1427854935.000925"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just use",
+        "ts": "1427854939.000926"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "axon?",
+        "ts": "1427854941.000927"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1427854943.000928"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "xD",
+        "ts": "1427854964.000929"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "fuck I might just leave",
+        "ts": "1427854969.000930"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "this is retarded",
+        "ts": "1427854971.000931"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "lel we didn't meet",
+        "ts": "1427855542.000932"
+    },
+    {
+        "type": "message",
+        "user": "USLACKBOT",
+        "text": "xD",
+        "ts": "1427855542.000933"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "looks like you got",
+        "ts": "1427855551.000934"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "gr8 b8d, m8",
+        "ts": "1427855555.000935"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Fuck :cal: ",
+        "ts": "1427856961.000936"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wait",
+        "ts": "1427857561.000937"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i still have access to the 7th floor",
+        "ts": "1427857569.000938"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i still have access to soda",
+        "ts": "1427857580.000939"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "2kool4skool",
+        "ts": "1427858040.000940"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "r u watching dubs?",
+        "ts": "1427858058.000941"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "who",
+        "ts": "1427858076.000942"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no",
+        "ts": "1427858078.000943"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im at work :(((((",
+        "ts": "1427858080.000944"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "kshu",
+        "ts": "1427858143.000945"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hes prolly watching _The Wire_",
+        "ts": "1427858461.000946"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "]:",
+        "ts": "1427858466.000947"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "we gon :league: ?",
+        "ts": "1427858474.000948"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "prolly workin late tonight :disappointed:",
+        "ts": "1427859846.000949"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "Yeah I'm gonna pass on league tonight",
+        "ts": "1427859905.000950"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1427860638.000951"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "kevin too cool for us",
+        "ts": "1427860640.000952"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "da fuk kevin",
+        "ts": "1427860683.000953"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "y",
+        "ts": "1427860683.000954"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "You guys can find 5 anyways man",
+        "ts": "1427860876.000955"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hes too pops for us",
+        "ts": "1427861240.000956"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "kevin is too legit 4 us",
+        "ts": "1427861506.000957"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "]':",
+        "ts": "1427861507.000958"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "That was a good game",
+        "ts": "1427866424.000959"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuck",
+        "ts": "1427871273.000960"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "having whiskey at home is dangerous",
+        "ts": "1427871279.000961"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i just got back from beer hall and now im just drinkin whiskey.",
+        "ts": "1427871285.000962"
+    }
+]

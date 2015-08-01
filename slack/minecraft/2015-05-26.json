@@ -1,0 +1,81 @@
+[
+    {
+        "user": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03UNR40S|wyaeiga> has joined the channel",
+        "ts": "1432697319.000002"
+    },
+    {
+        "user": "U03UNR40S",
+        "purpose": "autism",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U03UNR40S|wyaeiga> set the channel purpose: autism",
+        "ts": "1432697319.000003"
+    },
+    {
+        "user": "U046AEEDH",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046AEEDH|vallejo314> has joined the channel",
+        "ts": "1432697334.000004"
+    },
+    {
+        "user": "U045MFQ3C",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MFQ3C|tlaister> has joined the channel",
+        "ts": "1432697334.000005"
+    },
+    {
+        "user": "U045MBNTQ",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MBNTQ|reyarch> has joined the channel",
+        "ts": "1432697334.000006"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yessss",
+        "ts": "1432697344.000007"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/minecraft.gamepedia.com\/Server.properties>",
+        "ts": "1432697487.000008"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/dev.bukkit.org\/bukkit-plugins\/serverminimap\/>",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1432700006.000000"
+        },
+        "ts": "1432699996.000009"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "x: -300 z: -165",
+        "ts": "1432702098.000011"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "home sweet home.",
+        "ts": "1432702106.000012"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/minecraft.gamepedia.com\/Tutorials\/Mining_techniques#Horizontal_Mining_.28or_Resource_Mining.2FStratifying.29>",
+        "ts": "1432706883.000013"
+    }
+]

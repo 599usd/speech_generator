@@ -1,0 +1,2391 @@
+[
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "wait kelvin you are home now?",
+        "ts": "1437637790.001423"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": "we should go running sometime",
+        "ts": "1437637809.001424"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's happening bois",
+        "ts": "1437662268.001425"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm deploying to production today",
+        "ts": "1437662273.001426"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "they're some massive changes too",
+        "ts": "1437662280.001427"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "if things go poorly I'll take out a trading desk",
+        "ts": "1437662289.001428"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh shit",
+        "ts": "1437666060.001429"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "novi",
+        "ts": "1437666062.001430"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "dont break all the fuckin systems pls",
+        "ts": "1437666071.001431"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "cant be unemployed for your party",
+        "ts": "1437666072.001432"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "we're deploying to a beta prod environment",
+        "ts": "1437666116.001433"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so if there's any issues we can fall back to regular prod",
+        "ts": "1437666126.001434"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1437666133.001435"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "also we're only deploying for a more minor product desk",
+        "ts": "1437666134.001436"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I was just being dramatic",
+        "ts": "1437666140.001437"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":simple_smile:",
+        "ts": "1437666141.001438"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i see",
+        "ts": "1437666141.001439"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "we're not that YOLO",
+        "ts": "1437666152.001440"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i occasionally deploy to prod with the --yolo flag :simple_smile:",
+        "ts": "1437666154.001441"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i bet",
+        "ts": "1437666165.001442"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i beat kevin shu to the office this morning :simple_smile:",
+        "ts": "1437666172.001443"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuckin lazy guy",
+        "ts": "1437666182.001444"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm betting on that too",
+        "ts": "1437666413.001445"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i woke up at 6:45 today :disappointed:",
+        "ts": "1437666428.001446"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wow that's almost as early as I wake up",
+        "ts": "1437666574.001447"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":disappointed:",
+        "ts": "1437666576.001448"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when do you wake up",
+        "ts": "1437666587.001449"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "6:30",
+        "edited": {
+            "user": "U046AEEDH",
+            "ts": "1437666728.000000"
+        },
+        "ts": "1437666725.001450"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1437666815.001452"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what do you do for breakfast",
+        "ts": "1437666817.001453"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i was wondering if i should start eating the breakfasts here",
+        "ts": "1437666823.001454"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why are y'all hating",
+        "ts": "1437666855.001455"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hi kevin",
+        "ts": "1437666862.001456"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "just get into work?",
+        "ts": "1437666865.001457"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we're not hating",
+        "ts": "1437666878.001458"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "just stating facts.",
+        "ts": "1437666880.001459"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn",
+        "ts": "1437666885.001460"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "\"beta prod\"",
+        "ts": "1437666888.001461"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like staging?",
+        "ts": "1437666890.001462"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i imagine",
+        "ts": "1437666902.001463"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "that it still hits production environment data",
+        "ts": "1437666907.001464"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "just that no traffic might be going through it",
+        "ts": "1437666913.001465"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or novi is just a fuccboi",
+        "ts": "1437666924.001466"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "both are equally likely",
+        "ts": "1437666927.001467"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Kelvin is kinda right",
+        "ts": "1437666937.001468"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and I eat breakfast when i get to the office",
+        "ts": "1437666941.001469"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "most people do",
+        "ts": "1437666944.001470"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "these are my breakfast options :disappointed:",
+        "ts": "1437666961.001471"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "```\nOrganic Steel-Cut Oatmeal    V \/ VG \/ G\nJuk with Pork P\nCage Free Scrambled Eggs E\t\nCage Free Steamed Egg Whites E\nYumi\u2019s Paleo Granola   V \/ VG \/ G\nBreakfast Stir Fry Chinese Style Fried Rice with Mixed Vegetables   \nW \/ SY \/ A \/ N \/ V \/ VG \nFresh Fruit   V \/ VG\n\n\n\nDaily Breakfast Special\nSweet cream biscuits W \/ D \/ E \/ A\nCheese and Egg Sandwich E \/ D \/ W\nHash Browns D\nSausage and Cheese Pastry Puffs  P \/ D \/ W \/ SY \/ E\nChicken Breast\nWhite Beans with Pork and Slow Cooked Egg P \/ E\nHam, Egg, Spinach and Mozzarella E \/ W \/ D \/ P \n```",
+        "ts": "1437666966.001472"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel",
+        "ts": "1437666979.001473"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what GARBAGE",
+        "ts": "1437666982.001474"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but i have to go to the 9th floor to eat it.",
+        "ts": "1437666983.001475"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nice",
+        "ts": "1437666986.001476"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so now im just sitting at my desk",
+        "ts": "1437666990.001477"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just like us!",
+        "ts": "1437666991.001478"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "drinking tea",
+        "ts": "1437666992.001479"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and eating hard boiled eggs",
+        "ts": "1437666996.001480"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "dude",
+        "ts": "1437666999.001481"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "just eat some cereal in some milk",
+        "ts": "1437667005.001482"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "gg",
+        "ts": "1437667005.001483"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "too many calories",
+        "ts": "1437667010.001484"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn",
+        "ts": "1437667025.001485"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "cal or kcal?",
+        "ts": "1437667029.001486"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Calories",
+        "ts": "1437667033.001487"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "noice",
+        "ts": "1437667038.001488"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1437667039.001489"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "according to kevin",
+        "ts": "1437667041.001490"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im too fat",
+        "ts": "1437667041.001491"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so",
+        "ts": "1437667042.001492"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i gotta",
+        "ts": "1437667043.001493"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "watch dem Calories",
+        "ts": "1437667046.001494"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "kale chips",
+        "ts": "1437667049.001495"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "just only eat kale chips",
+        "ts": "1437667054.001496"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "everyones hatin on kale chips here",
+        "ts": "1437667062.001497"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "literally only that",
+        "ts": "1437667071.001498"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and quinoa",
+        "ts": "1437667073.001499"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then in a month you'll probably lose like 10 pounds",
+        "ts": "1437667088.001500"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but you'll feel like shit",
+        "ts": "1437667340.001501"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's important to get your carbs in too",
+        "ts": "1437667344.001502"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what about that protein",
+        "ts": "1437667364.001503"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i need dem gainz",
+        "ts": "1437667366.001504"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "eat some protein with your food then",
+        "ts": "1437667381.001505"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "diywevfibewqogfiewn",
+        "ts": "1437667385.001506"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's not hard",
+        "ts": "1437667386.001507"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im talking about kevin's suggestion",
+        "ts": "1437667441.001508"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "flustered, novi? :^)",
+        "ts": "1437667442.001509"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "novi",
+        "ts": "1437667448.001510"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "did you get fucked by your deploy?",
+        "ts": "1437667451.001511"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "flambasted?",
+        "ts": "1437667452.001512"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "shimbabbled?",
+        "ts": "1437667455.001513"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "did you get kevined?",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1437667470.000000"
+        },
+        "ts": "1437667468.001514"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "shubagged?",
+        "ts": "1437667479.001516"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "m\u0101d, novi?",
+        "ts": "1437667479.001517"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1437667491.001518"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "did you get reyarched novi?",
+        "ts": "1437667497.001519"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "aka your code is so perfect",
+        "ts": "1437667503.001520"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "CTC just made you CEO?",
+        "ts": "1437667506.001521"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":sweat:",
+        "ts": "1437667545.001522"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "jk by reyarched i mean get fired from square after your 1-year",
+        "ts": "1437667572.001523"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "well",
+        "ts": "1437667587.001524"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats still",
+        "ts": "1437667589.001525"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "10 months away for novi",
+        "ts": "1437667592.001526"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I've still got 10 more months to screw things up",
+        "ts": "1437671761.001527"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "and I haven't deployed yet",
+        "ts": "1437671768.001528"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I have to deploy after market close at 3:30",
+        "ts": "1437671777.001529"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "3:30PM CST",
+        "ts": "1437671788.001530"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh then that doesn't count",
+        "ts": "1437671868.001531"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no ones gonna use it today",
+        "ts": "1437671877.001532"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeah but they are going to use it tomorrow",
+        "ts": "1437672149.001533"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "with end of week contract expirations",
+        "ts": "1437672157.001534"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so higher risk",
+        "ts": "1437672160.001535"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":smile:",
+        "ts": "1437672161.001536"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel",
+        "ts": "1437672346.001537"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so tomorrow's",
+        "ts": "1437672355.001538"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "your real big day",
+        "ts": "1437672357.001539"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you're gonna be a real big kid tomorrow",
+        "ts": "1437672363.001540"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "yeah man",
+        "ts": "1437672530.001541"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm excited to cause my first million dollar loss",
+        "ts": "1437672536.001542"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's a day every boy dreams of",
+        "ts": "1437672541.001543"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hahaha",
+        "ts": "1437672553.001544"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i caused",
+        "ts": "1437672556.001545"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "one of our trains to be derailed",
+        "ts": "1437672560.001546"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "on my 3rd week :simple_smile:",
+        "ts": "1437672564.001547"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Ayyy why didn't you write a function that siphons all of the money to Kevin's bank account",
+        "ts": "1437673520.001548"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "el",
+        "ts": "1437673691.001549"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel",
+        "ts": "1437673691.001550"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "should've just funneled 0.1 cents to kevin's account",
+        "ts": "1437674860.001551"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "of every transaction",
+        "ts": "1437674866.001552"
+    },
+    {
+        "type": "message",
+        "user": "U04NBCC1U",
+        "text": ":+1: ",
+        "ts": "1437677432.001553"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh my god i hate javascript",
+        "ts": "1437677829.001554"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "async sucks",
+        "ts": "1437677832.001555"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<@U03UNR40S>: pls advise",
+        "ts": "1437677835.001556"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you're the front end master",
+        "ts": "1437677838.001557"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Async is glorious",
+        "ts": "1437677997.001558"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Unless you're too dumb to understand it",
+        "ts": "1437678009.001559"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "not in fucking javascript",
+        "ts": "1437678015.001560"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "It's p good in JavaScript",
+        "ts": "1437678023.001561"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "If you're not a compete potato",
+        "ts": "1437678029.001562"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "well",
+        "ts": "1437678033.001563"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Not even like a good Idaho one",
+        "ts": "1437678034.001564"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im a fookin potato then",
+        "ts": "1437678037.001565"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "You're like a double downs Irish famine potato",
+        "ts": "1437678044.001566"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Man that's a pretty harsh statement",
+        "ts": "1437678061.001567"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "My mandatory harassment meeting is about to start",
+        "ts": "1437678102.001568"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Aka the beginning of the end",
+        "ts": "1437678111.001569"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel",
+        "ts": "1437678220.001570"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "maybe i should call up your HR",
+        "ts": "1437678223.001571"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and just told them what you called me :disappointed:",
+        "ts": "1437678227.001572"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Honestly I thought about them reading what I just wrote",
+        "ts": "1437678545.001573"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "They'd lel",
+        "ts": "1437678552.001574"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "LOL",
+        "ts": "1437678563.001575"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "We stopped the presentation so some people from nyc could dial in",
+        "ts": "1437678574.001576"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "We establish the connection",
+        "ts": "1437678579.001577"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "No one is there",
+        "ts": "1437678582.001578"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Mfw",
+        "ts": "1437678583.001579"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":baby: ",
+        "ts": "1437678599.001580"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1437678601.001581"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gg",
+        "ts": "1437678604.001582"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "nyc too cool",
+        "ts": "1437678606.001583"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "The presentation is by a buy from levenfeld and pearlstein, llc",
+        "ts": "1437678899.001584"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "#muhshekels",
+        "ts": "1437678909.001585"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what about",
+        "ts": "1437679073.001586"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "async",
+        "ts": "1437679074.001587"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why you crying about JS",
+        "ts": "1437679077.001588"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^(",
+        "ts": "1437679079.001589"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Man this harassment umbrella is so big",
+        "ts": "1437679537.001590"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Also they totally have the wrong advice",
+        "ts": "1437680447.001591"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "If Tina reports Jeff for being a fratstar at work, then Jeff shouldn't just suck it up and take his punishment",
+        "ts": "1437680475.001592"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "He should bang Tina's mom, take a picture of it, and change her work computer's background to it",
+        "ts": "1437680504.001593"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "grow up novi",
+        "ts": "1437681477.001594"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you fucking child",
+        "ts": "1437681480.001595"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "grow THE FUCK up",
+        "ts": "1437681486.001596"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'll grow up once it's my birthday",
+        "ts": "1437681589.001597"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'll instantly put on 50 pounds, grow a beard, and act all brooding yet begrudgingly wise at the same time",
+        "ts": "1437681622.001598"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "They're playing the numa numa song in the office",
+        "ts": "1437683723.001599"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "We're such a legit firm",
+        "ts": "1437683728.001600"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "let's develop on the MEAN stac",
+        "ts": "1437684840.001601"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "stack",
+        "ts": "1437684842.001602"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ok",
+        "ts": "1437685260.001603"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i just moved out of my apartment",
+        "ts": "1437686150.001604"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i just dropped off my keys",
+        "ts": "1437686153.001605"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i am officially homeless",
+        "ts": "1437686157.001606"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i sorta figured it out",
+        "ts": "1437686823.001607"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i didn't mock out",
+        "ts": "1437686825.001608"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "one of the endpoints and it just failed",
+        "ts": "1437686829.001609"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "oh you were doing async testing?",
+        "ts": "1437687169.001610"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah",
+        "ts": "1437687192.001611"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "writing async code isn't hard",
+        "ts": "1437687198.001612"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its just testing it",
+        "ts": "1437687200.001613"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is fucking annoying",
+        "ts": "1437687201.001614"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yah",
+        "ts": "1437687205.001615"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im not that stupid kevin :disappointed:",
+        "ts": "1437687209.001616"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "who do you think i am :disappointed:",
+        "ts": "1437687228.001617"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "a big dumbo",
+        "ts": "1437687237.001618"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1437687238.001619"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":disappointed:",
+        "ts": "1437687254.001620"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i'll never get anywhere in life",
+        "ts": "1437687267.001621"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "because of your negative outlook for me",
+        "ts": "1437687274.001622"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i need to listen to sal khan",
+        "ts": "1437687280.001623"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and have a growth mindset",
+        "ts": "1437687283.001624"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "my dick has a growth mindset",
+        "ts": "1437688547.001625"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "maybe you should stick it in your ear and listen to it",
+        "ts": "1437688556.001626"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "...",
+        "ts": "1437688579.001627"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thanks novi",
+        "ts": "1437688581.001628"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats helpful",
+        "ts": "1437688582.001629"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i feel so empowered",
+        "ts": "1437688589.001630"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "are people around to play shit?",
+        "ts": "1437696003.001631"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "no we're hard at work you government slacker",
+        "ts": "1437696099.001632"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "I'm here :^)",
+        "ts": "1437696294.001633"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "fuck u gary",
+        "ts": "1437697361.001634"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":simple_smile:",
+        "ts": "1437697370.001635"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "when do you usually get in and leave?",
+        "ts": "1437697383.001636"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuckin gary",
+        "ts": "1437697578.001637"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i get in at 8:20ish",
+        "ts": "1437697583.001638"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "stop being on east coast time",
+        "ts": "1437697585.001639"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1437697587.001640"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuck you",
+        "ts": "1437697588.001641"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "leave anywhere between 5 and 7pm",
+        "ts": "1437697589.001642"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i got in at 8:30 today",
+        "ts": "1437697595.001643"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im still here",
+        "ts": "1437697600.001644"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "btw",
+        "ts": "1437697607.001645"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you've got a long working day",
+        "ts": "1437697608.001646"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why aren't you on slack",
+        "ts": "1437697609.001647"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "asshole",
+        "ts": "1437697614.001648"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "what?",
+        "ts": "1437697618.001649"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "???????",
+        "ts": "1437697622.001650"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "you mean during work? or what?",
+        "ts": "1437697630.001651"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah",
+        "ts": "1437697638.001652"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "during work",
+        "ts": "1437697639.001653"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its just jason, kevin, novi and i just jerking each other off in here",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1437697654.000000"
+        },
+        "ts": "1437697648.001654"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "idk, i just don't look at slack really at work",
+        "ts": "1437697652.001655"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "just haven't developed the habit",
+        "ts": "1437697656.001657"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1437697674.001658"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ive developed a habit",
+        "ts": "1437697678.001659"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i'm too busy playing smash at work :^)",
+        "ts": "1437697786.001660"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel",
+        "ts": "1437697835.001661"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<https:\/\/www.youtube.com\/watch?t=13&amp;v=eUfyUgaPHqc>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Fox Practices Short Hop Double Lasers",
+                "title_link": "https:\/\/www.youtube.com\/watch?t=13&amp;v=eUfyUgaPHqc",
+                "author_name": "Yaruzu (ScoutSecurity)",
+                "author_link": "https:\/\/www.youtube.com\/user\/ScoutSecurity",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/eUfyUgaPHqc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Fox Practices Short Hop Double Lasers",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/eUfyUgaPHqc?feature=oembed&start=13&start=13\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?t=13&amp;v=eUfyUgaPHqc",
+                "id": 1
+            }
+        ],
+        "ts": "1437697835.001662"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "this was posted in our slack at work :simple_smile:",
+        "ts": "1437697840.001664"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "nice",
+        "ts": "1437697849.001665"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "watch it",
+        "ts": "1437697859.001666"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its guuuud",
+        "ts": "1437697863.001667"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i did",
+        "ts": "1437698442.001668"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":simple_smile:",
+        "ts": "1437698521.001669"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gary",
+        "ts": "1437698523.001670"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "get gud at cs:go",
+        "ts": "1437698528.001671"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and we can play on weekends!!",
+        "ts": "1437698531.001672"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":heart:",
+        "ts": "1437698531.001673"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "fuck, i suck dick",
+        "ts": "1437698756.001674"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "game's so hard :disappointed:",
+        "ts": "1437698762.001675"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whats",
+        "ts": "1437698828.001676"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "your sensitivity?",
+        "ts": "1437698830.001677"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "resolution?",
+        "ts": "1437698832.001678"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "graphic settings?",
+        "ts": "1437698835.001679"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they're all important gary. i need to know!",
+        "ts": "1437698891.001680"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "mouse dpi settings as well",
+        "ts": "1437698906.001681"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "uhhhh",
+        "ts": "1437699012.001682"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i guess my sen\/mouse dpi is pretty high",
+        "ts": "1437699024.001683"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "resoultion is 1080p",
+        "ts": "1437699031.001684"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "what graphics settings?",
+        "ts": "1437699048.001685"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wrong",
+        "ts": "1437699089.001686"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "playing it all wron",
+        "ts": "1437699091.001687"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wrong",
+        "ts": "1437699092.001688"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lower your sens and mouse dpi",
+        "ts": "1437699113.001689"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "my mouse dpi is at 400 dpi",
+        "ts": "1437699118.001690"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and roughly 1.5 sensitivity",
+        "ts": "1437699121.001691"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "resolution should be 480p",
+        "ts": "1437699130.001692"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and lowest graphics settings for everything",
+        "ts": "1437699138.001693"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "except blood",
+        "ts": "1437699140.001694"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you want to see blood so you know if you hit them",
+        "ts": "1437699145.001695"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you can slowly move up the graphics settings",
+        "ts": "1437699154.001696"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if you consistently get 120+ fps",
+        "ts": "1437699160.001697"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but dont change resolution",
+        "ts": "1437699165.001698"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you want things to be big and blocky.",
+        "ts": "1437699169.001699"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "easier to shoot at it",
+        "ts": "1437699176.001700"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "so rel",
+        "ts": "1437699182.001701"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "okay",
+        "ts": "1437699182.001702"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "also",
+        "ts": "1437699192.001703"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "find a custom crosshair",
+        "ts": "1437699196.001704"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "the default one sucks dog shit",
+        "ts": "1437699199.001705"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "just google cs:go cross hair",
+        "ts": "1437699205.001706"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and type it into your console",
+        "ts": "1437699208.001707"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "what's wrong with default?",
+        "ts": "1437699223.001708"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its just a steaming pile of shit",
+        "ts": "1437699253.001709"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "way too large",
+        "ts": "1437699260.001710"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "moves too much",
+        "ts": "1437699261.001711"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you dont know where your center is",
+        "ts": "1437699266.001712"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i should just use the custom crosshair i used when i played tribes  :^)",
+        "ts": "1437699328.001713"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel what was that",
+        "ts": "1437699343.001714"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "uh",
+        "ts": "1437699353.001715"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "like",
+        "ts": "1437699354.001716"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "a dot in the center and a diagonal line to it",
+        "ts": "1437699363.001717"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "prob not good for cs",
+        "ts": "1437699386.001718"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i was also probably really shit last night",
+        "ts": "1437699398.001719"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "because i didn't know about recoil and spray patterns",
+        "ts": "1437699406.001720"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/steamcommunity.com\/sharedfiles\/filedetails\/?id=241035400>",
+        "attachments": [
+            {
+                "text": "Counter-Strike Global Offensive Crosshair settings. This Guide is only about Crosshairs for CS:GO. Try them out. ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) Give me feedback what i should add. ( \u0361\u0e88\u256d\u035c\u0296\u256e\u0361\u0e88 )",
+                "fallback": "Counter-Strike Global Offensive Crosshair settings. This Guide is only about Crosshairs for CS:GO. Try them out. ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0) Give me feedback what i should add. ( \u0361\u0e88\u256d\u035c\u0296\u256e\u0361\u0e88 )",
+                "from_url": "http:\/\/steamcommunity.com\/sharedfiles\/filedetails\/?id=241035400",
+                "id": 1
+            }
+        ],
+        "ts": "1437699411.001721"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "but then i read about it after i played",
+        "ts": "1437699413.001722"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its good reading about it",
+        "ts": "1437699460.001724"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but its also good to just get practice with it.",
+        "ts": "1437699464.001725"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i know",
+        "ts": "1437699472.001726"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "gonna focus on it when i play next time",
+        "ts": "1437699480.001727"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "how are much are you supposed to burst each shot?",
+        "ts": "1437699507.001728"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i like  doing",
+        "ts": "1437699513.001729"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "2-3",
+        "ts": "1437699514.001730"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i also do things wrong and occasionally like to single shot lel",
+        "ts": "1437699524.001731"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im not good enough for dat :disappointed:",
+        "ts": "1437699532.001732"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "so are you supposed to",
+        "ts": "1437699589.001733"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "burst",
+        "ts": "1437699591.001734"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "strafe",
+        "ts": "1437699594.001735"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "stop",
+        "ts": "1437699595.001736"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "burst",
+        "ts": "1437699596.001737"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "?",
+        "ts": "1437699597.001738"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yah",
+        "ts": "1437699664.001739"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "pretty much",
+        "ts": "1437699667.001740"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you could also like",
+        "ts": "1437699676.001741"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "slow strafe",
+        "ts": "1437699678.001742"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "left and right",
+        "ts": "1437699679.001743"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "while shooting",
+        "ts": "1437699681.001744"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if you walk slow enough",
+        "ts": "1437699682.001745"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "it doesn't affect your aim",
+        "ts": "1437699685.001746"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im not dat good though :disappointed:",
+        "ts": "1437699696.001747"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "how do you stop walking? do you do that thing where you tap the opposite direction?",
+        "ts": "1437699838.001748"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what some people do is",
+        "ts": "1437699861.001749"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they hold one way down",
+        "ts": "1437699863.001750"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and tap the other direction",
+        "ts": "1437699866.001751"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yah",
+        "ts": "1437699866.001752"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I just lift it up",
+        "ts": "1437699869.001753"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im bad",
+        "ts": "1437699870.001754"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn before i know it",
+        "ts": "1437699880.001755"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gary is gonna school me",
+        "ts": "1437699881.001756"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i'm already doing all this research mang",
+        "ts": "1437699902.001757"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "but nah",
+        "ts": "1437699905.001758"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i'll prob always suck a d",
+        "ts": "1437699909.001759"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "btw you're playing on community servers right?",
+        "ts": "1437699913.001760"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i can only be good at gay ass shooters like tribes",
+        "ts": "1437699918.001761"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "the people playing on valve servers suck big time",
+        "ts": "1437699925.001762"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "but i also suck :disappointed:",
+        "ts": "1437699931.001763"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "so i should just play with baddies",
+        "ts": "1437699936.001764"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i only play on valve servers",
+        "ts": "1437699941.001765"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "to do the operation missions lol",
+        "ts": "1437699946.001766"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and im almost always",
+        "ts": "1437699953.001767"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "top or 2nd frag -_-",
+        "ts": "1437699956.001768"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and i suck",
+        "ts": "1437699959.001769"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "but right now, i'm like bottom of the scoreboard",
+        "ts": "1437699996.001770"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": ":disappointed:",
+        "ts": "1437699998.001771"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why",
+        "ts": "1437700006.001772"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what do you play",
+        "ts": "1437700008.001773"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "just play dm",
+        "ts": "1437700009.001774"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i did",
+        "ts": "1437700012.001775"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "and i just got rekt",
+        "ts": "1437700014.001776"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": ":disappointed:",
+        "ts": "1437700015.001777"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "okay",
+        "ts": "1437700019.001778"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i'll play",
+        "ts": "1437700020.001779"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "on the weekend with you",
+        "ts": "1437700022.001780"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "only time i can actually play while you're awake",
+        "ts": "1437700030.001781"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "unless you can play at like midnight your time...",
+        "ts": "1437700039.001782"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i probably don't really want to do that",
+        "ts": "1437700090.001783"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "so yeah, only weekends :disappointed:",
+        "ts": "1437700097.001784"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":disappointed:",
+        "ts": "1437700100.001785"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "dis gon suck :disappointed:",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1437700114.000000"
+        },
+        "ts": "1437700111.001786"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no one else would play :disappointed:",
+        "ts": "1437700127.001788"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i dont understand why no one plays :disappointed:",
+        "ts": "1437700135.001789"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut you guys think of this week's tavern brawl",
+        "ts": "1437701446.001790"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "kelvin, do i only have to do the crosshair shit in the console once?",
+        "ts": "1437706579.001791"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "or does it not persist?",
+        "ts": "1437706586.001792"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "you need to edit a cfg file",
+        "ts": "1437706644.001793"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "oh, gay",
+        "ts": "1437706743.001794"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "yah it's dump",
+        "ts": "1437707364.001795"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "fucking volvo tech debt gg",
+        "ts": "1437707373.001796"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "kelvin, do you actually play on 480p?",
+        "ts": "1437708162.001797"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel",
+        "ts": "1437709080.001798"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "grooby blows a big one",
+        "ts": "1437709085.001799"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what a tryhard CSGO noob",
+        "ts": "1437709089.001800"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1437709090.001801"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I have friends who do",
+        "ts": "1437709738.001802"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "But I play at like 1080 by like 720 or something ",
+        "ts": "1437709769.001803"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Let me check when I go home ",
+        "ts": "1437709789.001804"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "can't do 480p",
+        "ts": "1437711503.001805"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "it just looks too fucked up",
+        "ts": "1437711508.001806"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i'll do 720p i guess",
+        "ts": "1437711514.001807"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "gary",
+        "ts": "1437711518.001808"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why don't you ever get on skype :disappointed:",
+        "ts": "1437711522.001809"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "wtf",
+        "ts": "1437711534.001810"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "nobody tells me too",
+        "ts": "1437711537.001811"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "so i assume no one's on",
+        "ts": "1437711542.001812"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's imblied :^(",
+        "ts": "1437711543.001813"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow im on",
+        "ts": "1437714872.001814"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and no one calls me :disappointed:",
+        "ts": "1437714876.001815"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<@U046PCGDV>: lets go play cs:go",
+        "ts": "1437714884.001816"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":disappointed:",
+        "ts": "1437719247.001817"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i see how it si",
+        "ts": "1437719248.001818"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is",
+        "ts": "1437719250.001819"
+    }
+]

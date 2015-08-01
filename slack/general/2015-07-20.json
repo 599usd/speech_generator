@@ -1,0 +1,1640 @@
+[
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "time to move to scala?",
+        "ts": "1437399060.000212"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<http:\/\/blog.scalac.io\/2015\/07\/16\/slack.html>",
+        "attachments": [
+            {
+                "text": "Scalac - team blog",
+                "fallback": "Scalac - team blog",
+                "from_url": "http:\/\/blog.scalac.io\/2015\/07\/16\/slack.html",
+                "id": 1
+            }
+        ],
+        "ts": "1437399061.000213"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ohh",
+        "ts": "1437413433.000215"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thatd be cool",
+        "ts": "1437413437.000216"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn PYPL is worth $50 bil",
+        "ts": "1437417399.000217"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why is no one here :disappointed:",
+        "ts": "1437421541.000218"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "pls",
+        "ts": "1437426182.000219"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "sorry",
+        "ts": "1437426631.000220"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's been a busy day for me",
+        "ts": "1437426634.000221"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I've been working hard on a small library trying to make sure that it's p great",
+        "ts": "1437426662.000222"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "because in the future it might be used by a lot of people in the company",
+        "ts": "1437426674.000223"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "let me code review it",
+        "ts": "1437426682.000224"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1437426684.000225"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "act like you can Java program u fucboi",
+        "ts": "1437426695.000226"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1437426700.000227"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "y u do dis bb",
+        "ts": "1437426703.000228"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but it's using a lot of advanced generics BS",
+        "ts": "1437426707.000229"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1437426712.000230"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ih8u",
+        "ts": "1437426715.000231"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "you might look at it and go \"wtf is this\"",
+        "ts": "1437426716.000232"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "or \"I had no clue Java worked like that\"",
+        "ts": "1437426725.000233"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or \"novi's code is bad\"",
+        "ts": "1437426734.000234"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "good code should use magical and arcane programming arts and be impenetrable to those that aren't coding gods",
+        "ts": "1437426767.000235"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1437428817.000236"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "uh",
+        "ts": "1437428825.000237"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i think thats called spaghetti code novi :disappointed:",
+        "ts": "1437428831.000238"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and i think most people appreciate readable code",
+        "ts": "1437428848.000239"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so someone else can easily fix it",
+        "ts": "1437428852.000240"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "instead of black magic",
+        "ts": "1437428856.000241"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Lel I'm writing it really well",
+        "ts": "1437429201.000242"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "With lots of documentation",
+        "ts": "1437429207.000243"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "But it is using some class and type magic\/libraries that most people don't know",
+        "ts": "1437429231.000244"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's garbage",
+        "ts": "1437429243.000245"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and you should feel like garbage",
+        "ts": "1437429246.000246"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1437429262.000247"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah so if most people don't know it",
+        "ts": "1437429329.000248"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "isn't it the same problem?",
+        "ts": "1437429332.000249"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "unless its easy to understand",
+        "ts": "1437429334.000250"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like we have code where people think they're doing \"clever\" stuff with `method_missing` and shit in ruby",
+        "ts": "1437429360.000251"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and everyone just fucking hates it",
+        "ts": "1437429370.000252"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "It's the kind of stuff you have to use to write a generic library",
+        "ts": "1437429401.000253"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Ever heard of java spring?",
+        "ts": "1437429409.000254"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "It's like that",
+        "ts": "1437429412.000255"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Except for one of our systems",
+        "ts": "1437429422.000256"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "uh dont know it too well",
+        "ts": "1437429795.000257"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "It's an industry standard for dependency injection",
+        "ts": "1437431123.000258"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1437431154.000259"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i thought a lot of people use guice",
+        "ts": "1437431162.000260"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Spring is a lot more integrated with the core java libs",
+        "ts": "1437434488.000261"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "It's a very mature and enterprise level piece of software",
+        "ts": "1437434500.000262"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "guice was made by google.",
+        "ts": "1437434536.000263"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm aware. Spring is just used more",
+        "ts": "1437434668.000264"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Their guava lib is highly used though",
+        "ts": "1437434699.000265"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "interesting",
+        "ts": "1437434805.000266"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "most tech companies i know use guice",
+        "ts": "1437434810.000267"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ive never heard of spring before now lol",
+        "ts": "1437434820.000268"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i guess from what ive read it seems that spring has a lot more libraries",
+        "ts": "1437435378.000269"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "while guice is lightweight",
+        "ts": "1437435381.000270"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "It's for big, enterprise level shit",
+        "ts": "1437435596.000271"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "You bay area tech hipsters wouldn't want anything to do with it",
+        "ts": "1437435608.000272"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "uh.",
+        "ts": "1437435635.000273"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "okay.",
+        "ts": "1437435647.000274"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "&gt; implying that google is not an enterprise company",
+        "ts": "1437435662.000275"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "&gt; implying that the bay area doesn't care about scalability",
+        "ts": "1437435671.000276"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "&gt; implying that bloatware is da bes",
+        "ts": "1437435678.000277"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":simple_smile:",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1437435684.000000"
+        },
+        "ts": "1437435682.000278"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "&gt; Implying they don't just build their own stuff because it's cool",
+        "ts": "1437436256.000280"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "&gt; implying they don't just waste VC money on tons of hardware so they don't have to optimize",
+        "ts": "1437436281.000281"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "&gt; implying hipster tech employees know the troubles of dealing with finance and business 24\/7",
+        "ts": "1437436324.000282"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt;implying all software isn't shit and we shouldn't just become professional league players",
+        "ts": "1437436401.000283"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I'm fairly certain that",
+        "ts": "1437436504.000284"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Google gets a lot more traffic on their networks",
+        "ts": "1437436510.000285"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and their systems",
+        "ts": "1437436512.000286"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "than finance companies do.",
+        "ts": "1437436516.000287"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "novi with your profession as a cool trader. what do you think of the ebay\/pypl split?",
+        "ts": "1437436795.000288"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "are we going to play anything today now that i finally have my computer??",
+        "ts": "1437438666.000289"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i want to!",
+        "ts": "1437438808.000290"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but",
+        "ts": "1437438809.000291"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i dont have a desk anymore.",
+        "ts": "1437438812.000292"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "rekt",
+        "ts": "1437439546.000293"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "what happened?",
+        "ts": "1437439549.000294"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i just installed cs:go",
+        "ts": "1437439554.000295"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im moving",
+        "ts": "1437439756.000296"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "to fremont.",
+        "ts": "1437439757.000297"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "wat",
+        "ts": "1437439857.000298"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "why?",
+        "ts": "1437439858.000299"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i cant afford to live in sf",
+        "ts": "1437439867.000300"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "what",
+        "ts": "1437439873.000301"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "actually?",
+        "ts": "1437439876.000302"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1437439885.000303"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "kelvin got fired recently :confused:",
+        "ts": "1437439888.000304"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "rent has risen",
+        "ts": "1437439890.000305"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and",
+        "ts": "1437439892.000306"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah",
+        "ts": "1437439893.000307"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "square let him cash out his 25% since he cliffed",
+        "ts": "1437439904.000308"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "my lease ends on thursday",
+        "ts": "1437439906.000309"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but outside of that",
+        "ts": "1437439906.000310"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "he doesn't have anything left :confused:",
+        "ts": "1437439910.000311"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so",
+        "ts": "1437439910.000312"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i might as well not start another lease",
+        "ts": "1437439917.000313"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "wait, wtf",
+        "ts": "1437439926.000314"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "you actually got fired?",
+        "ts": "1437439929.000315"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "this is what happens when kelvin lives a hedonistic lifestyle",
+        "ts": "1437439934.000316"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "sigh",
+        "ts": "1437439945.000317"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i dont wanna talk about it",
+        "ts": "1437439949.000318"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lousy worker, gets fired",
+        "ts": "1437439953.000319"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "go figure",
+        "ts": "1437439955.000320"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn kevin",
+        "ts": "1437439961.000321"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you dont gotta be harsh",
+        "ts": "1437439964.000322"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i only told you for a reason but you broke my trust :(((",
+        "ts": "1437439972.000323"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":disappointed:",
+        "ts": "1437439974.000324"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's tough love, babe",
+        "ts": "1437439975.000325"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i do it 4 u",
+        "ts": "1437439977.000326"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but yeah im moving to fremont",
+        "ts": "1437440066.000327"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "at the end of the week",
+        "ts": "1437440068.000328"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i'll prolly have my stuff back for the weekend",
+        "ts": "1437440079.000329"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i can play then gary!",
+        "ts": "1437440087.000330"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "aight, nice",
+        "ts": "1437440138.000331"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "get to level 3",
+        "ts": "1437440153.000332"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and we can start playing competitive!",
+        "ts": "1437440157.000333"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "So real",
+        "ts": "1437440226.000334"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I felt bad for Kelvin :(",
+        "ts": "1437440233.000335"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "don't feel bad, this is the beginning of a new chapter for him",
+        "ts": "1437440250.000336"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "this is the part where we get him to move to Chicago :^)",
+        "ts": "1437440260.000337"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "CTC is hiring yo",
+        "ts": "1437440268.000338"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "come to boston pls",
+        "ts": "1437440271.000339"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "fk those chicago guys",
+        "ts": "1437440275.000340"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no boston",
+        "ts": "1437440277.000341"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no Fallout 4",
+        "ts": "1437440281.000342"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Boston is a worse city in every way",
+        "ts": "1437440285.000343"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "kelvin don't become a wasteland dweller",
+        "ts": "1437440289.000344"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "actually, there's one better thing",
+        "ts": "1437440307.000345"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "especially since you won't be important enough to get into a vault :disappointed:",
+        "ts": "1437440309.000346"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i'm here :^)",
+        "ts": "1437440310.000347"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "OOHHHOH",
+        "ts": "1437440314.000348"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "OHOHOH",
+        "ts": "1437440315.000349"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "OHOH",
+        "ts": "1437440315.000350"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "OOH",
+        "ts": "1437440315.000351"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "OHO",
+        "ts": "1437440315.000352"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "HO",
+        "ts": "1437440315.000353"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "HOHOH",
+        "ts": "1437440316.000354"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "OHO",
+        "ts": "1437440316.000355"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "HO",
+        "ts": "1437440316.000356"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel",
+        "ts": "1437440586.000357"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuck",
+        "ts": "1437440590.000358"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you",
+        "ts": "1437440593.000359"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "kevin",
+        "ts": "1437440593.000360"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Actually just get fired",
+        "ts": "1437440673.000361"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "novi",
+        "ts": "1437440679.000362"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "should i come over?",
+        "ts": "1437440681.000363"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Your life will improve",
+        "ts": "1437440682.000364"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1437440682.000365"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Sure",
+        "ts": "1437440683.000366"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how do i get fired again",
+        "ts": "1437440688.000367"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "We got rid of all the boxes today",
+        "ts": "1437440689.000368"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "oh shit",
+        "ts": "1437440695.000369"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "noice",
+        "ts": "1437440696.000370"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "my parents kick me out?",
+        "ts": "1437440696.000371"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "?",
+        "ts": "1437440703.000372"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "he already got fired from square",
+        "ts": "1437440712.000373"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and he's moving home",
+        "ts": "1437440714.000374"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "move to square's boston office :^)",
+        "ts": "1437440721.000375"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i just got fired",
+        "ts": "1437440736.000376"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how does that work gary",
+        "ts": "1437440746.000377"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "kevin spilled the beans, stop trying to hoodwink me",
+        "ts": "1437440791.000378"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": ":disappointed:",
+        "ts": "1437440793.000379"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut",
+        "ts": "1437440807.000380"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I know it's a joke lel",
+        "ts": "1437440853.000381"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its not a joke",
+        "ts": "1437440881.000382"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im moving back to fremont",
+        "ts": "1437440884.000383"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i mean, i know that part is true",
+        "ts": "1437440891.000384"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "but you didn't get fired :disappointed:",
+        "ts": "1437440895.000385"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "why are you lying to me bby",
+        "ts": "1437440900.000386"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "because what if it becomes true.",
+        "ts": "1437440931.000387"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i need to have a plan",
+        "ts": "1437440937.000388"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I know you're moving back because of the lease",
+        "ts": "1437441036.000389"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Your plan is you move to Chicago",
+        "ts": "1437441046.000390"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i dont know anyone in chicago",
+        "ts": "1437441059.000391"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn",
+        "ts": "1437441065.000392"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "that has a job for me",
+        "ts": "1437441066.000393"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1437441070.000394"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "&gt;CTC is hiring",
+        "ts": "1437441075.000395"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no one wants a \"bay area tech hipster\" :disappointed:",
+        "ts": "1437441086.000396"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "As long as you can drink and fear the jobs are available",
+        "ts": "1437441132.000397"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Drink and frat",
+        "ts": "1437441141.000398"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i can drink",
+        "ts": "1437441148.000399"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but i dont frat",
+        "ts": "1437441150.000400"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im fucked.",
+        "ts": "1437441152.000401"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "You can learn",
+        "ts": "1437441303.000402"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "teach me pls",
+        "ts": "1437441327.000403"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "november",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1437441332.000000"
+        },
+        "ts": "1437441330.000404"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im expecting lessons from Novi \"Frat Star\" Singh",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1437441348.000000"
+        },
+        "ts": "1437441341.000406"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "You're too kind :)",
+        "ts": "1437441606.000408"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you should make a syllabus for my 7 day seminar",
+        "ts": "1437441662.000409"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":simple_smile:",
+        "ts": "1437441664.000410"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":^)",
+        "ts": "1437441821.000411"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Guess what I'm eating for dinner today?!?",
+        "ts": "1437441957.000412"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "A steak shaped like a dick?",
+        "ts": "1437441980.000413"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "No...",
+        "ts": "1437442673.000414"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Patxi's :(",
+        "ts": "1437442681.000415"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "nice",
+        "ts": "1437443084.000416"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "patxi's is dece for not chicago",
+        "ts": "1437443090.000417"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "Patxi's almost killed me :^(",
+        "ts": "1437444642.000418"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "worst pizza na",
+        "ts": "1437444647.000419"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "but it tasted pretty dece, right?",
+        "ts": "1437445187.000420"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Do you write C novi?",
+        "ts": "1437445385.000421"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "the one slice I got to eat before dying xDDDDD",
+        "ts": "1437445415.000422"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Also it's all about magical spaghetti code that gets magically optimized by rah compiler ",
+        "ts": "1437445725.000423"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "ye, prob not worth thomas lel",
+        "ts": "1437445799.000424"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "compiler optimization can only do so much mang",
+        "ts": "1437445814.000425"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "And submitting pull requests to gcc that make your competitor's code slower",
+        "ts": "1437445834.000426"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "They wrote an article about us!!!!!",
+        "ts": "1437446021.000427"
+    },
+    {
+        "type": "message",
+        "subtype": "file_share",
+        "text": "<@U045MBFTN|jasonwang> uploaded a file: <https:\/\/599usd.slack.com\/files\/jasonwang\/F07U4EBKR\/slack_for_ios_upload.png|Slack for iOS Upload>",
+        "file": {
+            "id": "F07U4EBKR",
+            "created": 1437446030,
+            "timestamp": 1437446030,
+            "name": "Slack for iOS Upload.png",
+            "title": "Slack for iOS Upload",
+            "mimetype": "image\/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U045MBFTN",
+            "editable": false,
+            "size": 26422,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F07U4EBKR-f1eb056ab7\/slack_for_ios_upload.png",
+            "url_download": "https:\/\/slack-files.com\/files-pub\/T03UNR40Q-F07U4EBKR-f1eb056ab7\/download\/slack_for_ios_upload.png",
+            "url_private": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F07U4EBKR\/slack_for_ios_upload.png",
+            "url_private_download": "https:\/\/files.slack.com\/files-pri\/T03UNR40Q-F07U4EBKR\/download\/slack_for_ios_upload.png",
+            "thumb_64": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F07U4EBKR-c522740087\/slack_for_ios_upload_64.jpg",
+            "thumb_80": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F07U4EBKR-c522740087\/slack_for_ios_upload_80.jpg",
+            "thumb_360": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F07U4EBKR-c522740087\/slack_for_ios_upload_360.jpg",
+            "thumb_360_w": 296,
+            "thumb_360_h": 166,
+            "thumb_160": "https:\/\/slack-files.com\/files-tmb\/T03UNR40Q-F07U4EBKR-c522740087\/slack_for_ios_upload_160.jpg",
+            "image_exif_rotation": 1,
+            "permalink": "https:\/\/599usd.slack.com\/files\/jasonwang\/F07U4EBKR\/slack_for_ios_upload.png",
+            "permalink_public": "https:\/\/slack-files.com\/T03UNR40Q-F07U4EBKR-f1eb056ab7",
+            "channels": [
+                "C03UNR412"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+        },
+        "user": "U045MBFTN",
+        "upload": true,
+        "display_as_bot": false,
+        "username": "<@U045MBFTN|jasonwang>",
+        "bot_id": null,
+        "ts": "1437446032.000428"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I've never had to write C outside of school",
+        "ts": "1437446096.000429"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Compiler optimizations are pretty stronk man",
+        "ts": "1437446115.000430"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "What're you mostly doing then? Java?",
+        "ts": "1437446157.000431"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "if your algorithm is shit though, compiler can't do anything bout dat",
+        "ts": "1437446462.000432"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "novi and his stupid ass java shit",
+        "edited": {
+            "user": "U046PCGDV",
+            "ts": "1437446482.000000"
+        },
+        "ts": "1437446472.000433"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Nah mang you just gotta have the correct magic string and the compiler will go godmode and predict the future ",
+        "ts": "1437446990.000435"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Gotta be using Clang though",
+        "ts": "1437447486.000436"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "shet",
+        "ts": "1437448964.000437"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gary",
+        "ts": "1437448967.000438"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<@U046PCGDV>: can you actually play if i somehow find a way to play",
+        "ts": "1437448978.000439"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "I can maybe play lying on my stomach on the ground",
+        "ts": "1437448991.000440"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "in my room",
+        "ts": "1437448996.000441"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i'm probably going to sleep soon now :disappointed:",
+        "ts": "1437449144.000442"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "why didn't you say earlier mang",
+        "ts": "1437449148.000443"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wtf",
+        "ts": "1437449176.000444"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i was out",
+        "ts": "1437449179.000445"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "eating patxi's",
+        "ts": "1437449181.000446"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and drinking a beer",
+        "ts": "1437449184.000447"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "damn 3 hour time difference",
+        "ts": "1437449207.000448"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":disappointed:",
+        "ts": "1437449251.000449"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when do you get into work",
+        "ts": "1437449254.000450"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "maybe we can only play on the weekends",
+        "ts": "1437449258.000451"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "i get in by 8:20 usually",
+        "edited": {
+            "user": "U046PCGDV",
+            "ts": "1437449985.000000"
+        },
+        "ts": "1437449978.000452"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh.",
+        "ts": "1437449994.000454"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1437449998.000455"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i get in at 10:30",
+        "ts": "1437450001.000456"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel",
+        "ts": "1437450002.000457"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "by the time i get into work",
+        "ts": "1437450008.000458"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you've already been there for 5 hours",
+        "ts": "1437450013.000459"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "yeah, i'm just such a good employee",
+        "ts": "1437451112.000460"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Dafuk 820? When do you go home then? 420? (Ayylmao)",
+        "ts": "1437451212.000461"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "dammit gary",
+        "ts": "1437451388.000462"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you're still awake",
+        "ts": "1437451391.000463"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you liar",
+        "ts": "1437451392.000464"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and all im doing is sitting here coding at work",
+        "ts": "1437451397.000465"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Are you at work because your furniture is gone?",
+        "ts": "1437452810.000466"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yah",
+        "ts": "1437452930.000467"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what else do i do",
+        "ts": "1437452932.000468"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "): so where you sleep?",
+        "ts": "1437453406.000469"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i sleep in a sleeping bag.",
+        "ts": "1437453421.000470"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "At work?",
+        "ts": "1437453519.000471"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no in my apartment",
+        "ts": "1437453811.000472"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<@U045MFQ3C>: did you see the leffen vs plup game?",
+        "ts": "1437458525.000473"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<@U045MBFTN>: lel theres only swedish and american players for smash. why is sweden so stronk",
+        "ts": "1437458554.000474"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "idk mang",
+        "ts": "1437458571.000475"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "just best esports country ever",
+        "ts": "1437458578.000476"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuuuuu should've been born in sweden",
+        "ts": "1437458610.000477"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "could've played cs:go competitively",
+        "ts": "1437458615.000478"
+    }
+]

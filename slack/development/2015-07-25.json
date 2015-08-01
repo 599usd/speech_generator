@@ -1,0 +1,698 @@
+[
+    {
+        "user": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U03UNR40S|wyaeiga> has joined the channel",
+        "ts": "1437811787.000002"
+    },
+    {
+        "user": "U03UNR40S",
+        "purpose": "dyelfitness",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U03UNR40S|wyaeiga> set the channel purpose: dyelfitness",
+        "ts": "1437811787.000003"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/599usd.slack.com\/services\/B085PMQ8L|Travis CI>",
+        "bot_id": "B00",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U03UNR40S",
+        "ts": "1437811807.000004"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/599usd.slack.com\/services\/B085PLF42|Travis CI>",
+        "bot_id": "B00",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U03UNR40S",
+        "ts": "1437811840.000005"
+    },
+    {
+        "user": "U045MBFTN",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MBFTN|jasonwang> has joined the channel",
+        "ts": "1437811867.000006"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<http:\/\/puu.sh\/jc6zf\/600b482920.png>",
+        "attachments": [
+            {
+                "fallback": "1440x881px image",
+                "image_url": "http:\/\/puu.sh\/jc6zf\/600b482920.png",
+                "image_width": 1440,
+                "image_height": 881,
+                "image_bytes": 197311,
+                "from_url": "http:\/\/puu.sh\/jc6zf\/600b482920.png",
+                "id": 1
+            }
+        ],
+        "ts": "1437811950.000007"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72573984|#4> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/43edb0878929...9a89c1890c76|9a89c18>) of 599usd\/dyelfitness@master by Kevin Shu failed in 1 min 59 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72573984|#4> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/43edb0878929...9a89c1890c76|9a89c18>) of 599usd\/dyelfitness@master by Kevin Shu failed in 1 min 59 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437812023.000009"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72574048|#5> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/9a89c1890c76...5ecdf00bb2f4|5ecdf00>) of 599usd\/dyelfitness@master by wyaeiga failed in 1 min 54 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72574048|#5> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/9a89c1890c76...5ecdf00bb2f4|5ecdf00>) of 599usd\/dyelfitness@master by wyaeiga failed in 1 min 54 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437812152.000010"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<https:\/\/github.com\/mbadolato\/iTerm2-Color-Schemes>",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "mbadolato\/iTerm2-Color-Schemes",
+                "title_link": "https:\/\/github.com\/mbadolato\/iTerm2-Color-Schemes",
+                "text": "iTerm2-Color-Schemes - Over 100 color schemes\/themes for iTerm\/iTerm2",
+                "fallback": "GitHub: mbadolato\/iTerm2-Color-Schemes",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/164615?v=3&s=400",
+                "from_url": "https:\/\/github.com\/mbadolato\/iTerm2-Color-Schemes",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ],
+        "ts": "1437812889.000011"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72574834|#7> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/1d8a4120ab34...0d61fa7d899d|0d61fa7>) of 599usd\/dyelfitness@master by Kevin Shu passed in 1 min 52 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72574834|#7> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/1d8a4120ab34...0d61fa7d899d|0d61fa7>) of 599usd\/dyelfitness@master by Kevin Shu passed in 1 min 52 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437813148.000013"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72575119|#8> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/0d61fa7d899d...dc23bcdbe18b|dc23bcd>) of 599usd\/dyelfitness@master by Kevin Shu passed in 1 min 51 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72575119|#8> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/0d61fa7d899d...dc23bcdbe18b|dc23bcd>) of 599usd\/dyelfitness@master by Kevin Shu passed in 1 min 51 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437813533.000014"
+    },
+    {
+        "text": "added an integration to this channel: <https:\/\/599usd.slack.com\/services\/B085Q10SX|github>",
+        "bot_id": "B05",
+        "type": "message",
+        "subtype": "bot_add",
+        "user": "U03UNR40S",
+        "ts": "1437813798.000015"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[dyelfitness] New branch \"<https:\/\/github.com\/599usd\/dyelfitness\/tree\/index_page|index_page>\" was pushed by wyaeiga",
+                "text": "[dyelfitness] New branch \"<https:\/\/github.com\/599usd\/dyelfitness\/tree\/index_page|index_page>\" was pushed by wyaeiga",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437817373.000016"
+    },
+    {
+        "user": "U045MFQ3C",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MFQ3C|tlaister> has joined the channel",
+        "ts": "1437817394.000017"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[599usd\/dyelfitness] <https:\/\/github.com\/599usd\/dyelfitness\/pull\/1|Pull request submitted> by <https:\/\/github.com\/wyaeiga|wyaeiga>",
+                "text": "*Index Page*\n\nAdding index page to the application",
+                "pretext": "[599usd\/dyelfitness] Pull request submitted by <https:\/\/github.com\/wyaeiga|wyaeiga>",
+                "title": "#1 Index Page",
+                "id": 1,
+                "title_link": "https:\/\/github.com\/599usd\/dyelfitness\/pull\/1",
+                "color": "6CC644",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437817463.000018"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72578683|#9> (<https:\/\/github.com\/599usd\/dyelfitness\/commit\/1ccdf2742696|1ccdf27>) of 599usd\/dyelfitness@index_page by Kevin Shu failed in 1 min 58 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72578683|#9> (<https:\/\/github.com\/599usd\/dyelfitness\/commit\/1ccdf2742696|1ccdf27>) of 599usd\/dyelfitness@index_page by Kevin Shu failed in 1 min 58 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437817498.000019"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72578813|#10> (<https:\/\/github.com\/599usd\/dyelfitness\/pull\/1|6d951b3>) of 599usd\/dyelfitness@master in PR <https:\/\/github.com\/599usd\/dyelfitness\/pull\/1|#1> by Kevin Shu failed in 1 min 59 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72578813|#10> (<https:\/\/github.com\/599usd\/dyelfitness\/pull\/1|6d951b3>) of 599usd\/dyelfitness@master in PR <https:\/\/github.com\/599usd\/dyelfitness\/pull\/1|#1> by Kevin Shu failed in 1 min 59 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437817592.000020"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[dyelfitness:index_page] <https:\/\/github.com\/599usd\/dyelfitness\/commit\/34e9c63|1 new commit> by Kevin Shu",
+                "text": "<https:\/\/github.com\/599usd\/dyelfitness\/commit\/34e9c63|34e9c63>: updating travis.yml - Kevin Shu",
+                "pretext": "[dyelfitness:index_page] 1 new commit by Kevin Shu:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437817773.000021"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72579087|#12> (<https:\/\/github.com\/599usd\/dyelfitness\/pull\/1|1e3954f>) of 599usd\/dyelfitness@master in PR <https:\/\/github.com\/599usd\/dyelfitness\/pull\/1|#1> by Kevin Shu errored in 1 min 53 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72579087|#12> (<https:\/\/github.com\/599usd\/dyelfitness\/pull\/1|1e3954f>) of 599usd\/dyelfitness@master in PR <https:\/\/github.com\/599usd\/dyelfitness\/pull\/1|#1> by Kevin Shu errored in 1 min 53 sec",
+                "id": 1,
+                "color": "daa038"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437817895.000022"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72579085|#11> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/1ccdf2742696...34e9c6323afd|34e9c63>) of 599usd\/dyelfitness@index_page by Kevin Shu errored in 2 min 1 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72579085|#11> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/1ccdf2742696...34e9c6323afd|34e9c63>) of 599usd\/dyelfitness@index_page by Kevin Shu errored in 2 min 1 sec",
+                "id": 1,
+                "color": "daa038"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437817902.000023"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[dyelfitness:index_page] <https:\/\/github.com\/599usd\/dyelfitness\/commit\/9bbaf91|1 new commit> by Kevin Shu",
+                "text": "<https:\/\/github.com\/599usd\/dyelfitness\/commit\/9bbaf91|9bbaf91>: updating travis config - Kevin Shu",
+                "pretext": "[dyelfitness:index_page] 1 new commit by Kevin Shu:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437817982.000024"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[dyelfitness:master] <https:\/\/github.com\/599usd\/dyelfitness\/commit\/755c903|1 new commit> by wyaeiga",
+                "text": "<https:\/\/github.com\/599usd\/dyelfitness\/commit\/755c903|755c903>: Update README.md - wyaeiga",
+                "pretext": "[dyelfitness:master] 1 new commit by wyaeiga:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437818119.000025"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72579327|#13> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/34e9c6323afd...9bbaf916309c|9bbaf91>) of 599usd\/dyelfitness@index_page by Kevin Shu failed in 2 min 12 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72579327|#13> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/34e9c6323afd...9bbaf916309c|9bbaf91>) of 599usd\/dyelfitness@index_page by Kevin Shu failed in 2 min 12 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437818123.000026"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[dyelfitness:master] <https:\/\/github.com\/599usd\/dyelfitness\/commit\/70864ef|1 new commit> by wyaeiga",
+                "text": "<https:\/\/github.com\/599usd\/dyelfitness\/commit\/70864ef|70864ef>: Delete README.rdoc - wyaeiga",
+                "pretext": "[dyelfitness:master] 1 new commit by wyaeiga:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437818128.000027"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72579681|#14> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/dc23bcdbe18b...755c9030964f|755c903>) of 599usd\/dyelfitness@master by wyaeiga passed in 1 min 52 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72579681|#14> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/dc23bcdbe18b...755c9030964f|755c903>) of 599usd\/dyelfitness@master by wyaeiga passed in 1 min 52 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437818241.000028"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72579698|#15> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/755c9030964f...70864efa1da1|70864ef>) of 599usd\/dyelfitness@master by wyaeiga passed in 1 min 56 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72579698|#15> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/755c9030964f...70864efa1da1|70864ef>) of 599usd\/dyelfitness@master by wyaeiga passed in 1 min 56 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437818254.000029"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[dyelfitness:index_page] <https:\/\/github.com\/599usd\/dyelfitness\/commit\/701ea30|1 new commit> by Kevin Shu",
+                "text": "<https:\/\/github.com\/599usd\/dyelfitness\/commit\/701ea30|701ea30>: adding secrets.yml - Kevin Shu",
+                "pretext": "[dyelfitness:index_page] 1 new commit by Kevin Shu:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437818268.000030"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72579878|#16> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/9bbaf916309c...701ea306fe0d|701ea30>) of 599usd\/dyelfitness@index_page by Kevin Shu failed in 2 min 0 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72579878|#16> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/9bbaf916309c...701ea306fe0d|701ea30>) of 599usd\/dyelfitness@index_page by Kevin Shu failed in 2 min 0 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437818395.000031"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[dyelfitness:index_page] <https:\/\/github.com\/599usd\/dyelfitness\/commit\/282b313|1 new commit> by Kevin Shu",
+                "text": "<https:\/\/github.com\/599usd\/dyelfitness\/commit\/282b313|282b313>: fixing failing tests - Kevin Shu",
+                "pretext": "[dyelfitness:index_page] 1 new commit by Kevin Shu:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437818600.000032"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72580181|#17> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/701ea306fe0d...282b313f8808|282b313>) of 599usd\/dyelfitness@index_page by Kevin Shu passed in 1 min 57 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72580181|#17> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/701ea306fe0d...282b313f8808|282b313>) of 599usd\/dyelfitness@index_page by Kevin Shu passed in 1 min 57 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437818726.000033"
+    },
+    {
+        "user": "U046AEEDH",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046AEEDH|vallejo314> has joined the channel",
+        "ts": "1437850006.000034"
+    },
+    {
+        "user": "U046PCGDV",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U046PCGDV|weirdodunno> has joined the channel",
+        "ts": "1437850006.000035"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "<@U046AEEDH>: :^)",
+        "ts": "1437850013.000036"
+    },
+    {
+        "type": "message",
+        "user": "U046PCGDV",
+        "text": "wtf is this shit",
+        "ts": "1437850220.000037"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "noo",
+        "ts": "1437850225.000038"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "gary pls",
+        "ts": "1437850226.000039"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^(",
+        "ts": "1437850228.000040"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":^)",
+        "ts": "1437850619.000041"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "we be startup now",
+        "ts": "1437850621.000042"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":chart_with_upwards_trend:",
+        "ts": "1437850624.000043"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[dyelfitness:index_page] <https:\/\/github.com\/599usd\/dyelfitness\/commit\/a891435|1 new commit> by Kevin Shu",
+                "text": "<https:\/\/github.com\/599usd\/dyelfitness\/commit\/a891435|a891435>: adding basic navbar lel - Kevin Shu",
+                "pretext": "[dyelfitness:index_page] 1 new commit by Kevin Shu:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437881347.000044"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72649439|#18> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/282b313f8808...a891435edeec|a891435>) of 599usd\/dyelfitness@index_page by Kevin Shu failed in 2 min 5 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72649439|#18> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/282b313f8808...a891435edeec|a891435>) of 599usd\/dyelfitness@index_page by Kevin Shu failed in 2 min 5 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437881481.000045"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[dyelfitness:index_page] <https:\/\/github.com\/599usd\/dyelfitness\/commit\/6d4f720|1 new commit> by Kevin Shu",
+                "text": "<https:\/\/github.com\/599usd\/dyelfitness\/commit\/6d4f720|6d4f720>: adding scss-lint config - Kevin Shu",
+                "pretext": "[dyelfitness:index_page] 1 new commit by Kevin Shu:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437881710.000046"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72649710|#19> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/a891435edeec...6d4f720467ba|6d4f720>) of 599usd\/dyelfitness@index_page by Kevin Shu failed in 2 min 6 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72649710|#19> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/a891435edeec...6d4f720467ba|6d4f720>) of 599usd\/dyelfitness@index_page by Kevin Shu failed in 2 min 6 sec",
+                "id": 1,
+                "color": "d00000"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437881847.000047"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[dyelfitness:index_page] <https:\/\/github.com\/599usd\/dyelfitness\/commit\/c46afdd|1 new commit> by Kevin Shu",
+                "text": "<https:\/\/github.com\/599usd\/dyelfitness\/commit\/c46afdd|c46afdd>: updating scss-lint yml - Kevin Shu",
+                "pretext": "[dyelfitness:index_page] 1 new commit by Kevin Shu:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437882141.000048"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72649952|#20> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/6d4f720467ba...c46afdddc1f8|c46afdd>) of 599usd\/dyelfitness@index_page by Kevin Shu passed in 2 min 3 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72649952|#20> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/6d4f720467ba...c46afdddc1f8|c46afdd>) of 599usd\/dyelfitness@index_page by Kevin Shu passed in 2 min 3 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437882270.000049"
+    },
+    {
+        "user": "U045MBNTQ",
+        "inviter": "U03UNR40S",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U045MBNTQ|reyarch> has joined the channel",
+        "ts": "1437882464.000050"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "shet",
+        "ts": "1437882495.000051"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is this actually a real app",
+        "ts": "1437882498.000052"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ye",
+        "ts": "1437882501.000053"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[599usd\/dyelfitness] Pull request closed: <https:\/\/github.com\/599usd\/dyelfitness\/pull\/1|#1 Index Page> by <https:\/\/github.com\/jasonewang|jasonewang>",
+                "text": "[599usd\/dyelfitness] Pull request closed: <https:\/\/github.com\/599usd\/dyelfitness\/pull\/1|#1 Index Page> by <https:\/\/github.com\/jasonewang|jasonewang>",
+                "id": 1,
+                "color": "E3E4E6",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437882966.000054"
+    },
+    {
+        "text": "",
+        "bot_id": "B085Q10SX",
+        "attachments": [
+            {
+                "fallback": "[dyelfitness:master] <https:\/\/github.com\/599usd\/dyelfitness\/compare\/70864efa1da1...766db987393f|9 new commits> by Kevin Shu and 1 others",
+                "text": "<https:\/\/github.com\/599usd\/dyelfitness\/commit\/1ccdf27|1ccdf27>: adding failing tests - Kevin Shu\n <https:\/\/github.com\/599usd\/dyelfitness\/commit\/34e9c63|34e9c63>: updating travis.yml - Kevin Shu\n <https:\/\/github.com\/599usd\/dyelfitness\/commit\/9bbaf91|9bbaf91>: updating travis config - Kevin Shu\n <https:\/\/github.com\/599usd\/dyelfitness\/commit\/701ea30|701ea30>: adding secrets.yml - Kevin Shu\n <https:\/\/github.com\/599usd\/dyelfitness\/commit\/282b313|282b313>: fixing failing tests - Kevin Shu\n <https:\/\/github.com\/599usd\/dyelfitness\/commit\/a891435|a891435>: adding basic navbar lel - Kevin Shu\n <https:\/\/github.com\/599usd\/dyelfitness\/commit\/6d4f720|6d4f720>: adding scss-lint config - Kevin Shu\n <https:\/\/github.com\/599usd\/dyelfitness\/commit\/c46afdd|c46afdd>: updating scss-lint yml - Kevin Shu\n <https:\/\/github.com\/599usd\/dyelfitness\/commit\/766db98|766db98>: Merge pull request #1 from 599usd\/index_page - jasonewang",
+                "pretext": "[dyelfitness:master] <https:\/\/github.com\/599usd\/dyelfitness\/compare\/70864efa1da1...766db987393f|9 new commits> by Kevin Shu and 1 others:",
+                "id": 1,
+                "color": "4183C4",
+                "mrkdwn_in": [
+                    "text",
+                    "pretext"
+                ]
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437882966.000055"
+    },
+    {
+        "text": "",
+        "bot_id": "B085PLF42",
+        "attachments": [
+            {
+                "fallback": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72650530|#21> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/70864efa1da1...766db987393f|766db98>) of 599usd\/dyelfitness@master by jasonewang passed in 2 min 5 sec",
+                "text": "Build <https:\/\/travis-ci.org\/599usd\/dyelfitness\/builds\/72650530|#21> (<https:\/\/github.com\/599usd\/dyelfitness\/compare\/70864efa1da1...766db987393f|766db98>) of 599usd\/dyelfitness@master by jasonewang passed in 2 min 5 sec",
+                "id": 1,
+                "color": "36a64f"
+            }
+        ],
+        "type": "message",
+        "subtype": "bot_message",
+        "ts": "1437883099.000056"
+    }
+]

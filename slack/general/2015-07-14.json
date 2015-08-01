@@ -1,0 +1,3825 @@
+[
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "this is some wizard level shit",
+        "ts": "1436881760.017840"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "<https:\/\/dzone.com\/articles\/understanding-sunmiscunsafe>",
+        "attachments": [
+            {
+                "service_name": "dzone.com",
+                "title": "Understanding sun.misc.Unsafe | Java | DZone",
+                "title_link": "https:\/\/dzone.com\/articles\/understanding-sunmiscunsafe",
+                "text": "The biggest competitor to the Java virtual machine might be Microsoft's CLR that hosts languages such as C#. The CLR allows to write unsafe code as an entry...",
+                "fallback": "dzone.com: Understanding sun.misc.Unsafe | Java | DZone",
+                "image_url": "https:\/\/dzone.com\/storage\/article-thumb\/12961-thumb.jpg",
+                "from_url": "https:\/\/dzone.com\/articles\/understanding-sunmiscunsafe",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 301104,
+                "id": 1
+            }
+        ],
+        "ts": "1436881762.017841"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hi",
+        "ts": "1436896582.017843"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whats so wizardy about it",
+        "ts": "1436896654.017844"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its juts low level stuff",
+        "ts": "1436896658.017845"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "did you read about the jank stuff you can do with it?",
+        "ts": "1436896733.017846"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "things I didn't know that the jvm allowed you to do with native java code?",
+        "ts": "1436896748.017847"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yah. i mean i expected its gonna happen",
+        "ts": "1436896885.017848"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "every language has to implement it at some point",
+        "ts": "1436896891.017849"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "hey novi",
+        "ts": "1436896895.017850"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if you're not based off of another language below it",
+        "ts": "1436896899.017851"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wanna do dinner?",
+        "ts": "1436896901.017852"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like a lot of the interpreted languages have C or Java backing it",
+        "ts": "1436896911.017853"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "did you take a programming languages class novi?",
+        "ts": "1436896925.017854"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and tfti kevin",
+        "ts": "1436896928.017855"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "hey kelvin",
+        "ts": "1436896934.017856"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wanna do dinner?",
+        "ts": "1436896936.017857"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah, we can skype each other during dinner :wink:",
+        "ts": "1436896945.017858"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":wink:",
+        "ts": "1436896953.017859"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "your coworkers will be like",
+        "ts": "1436896959.017860"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why are you skyping these autists",
+        "ts": "1436896964.017861"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and watching them eat",
+        "ts": "1436896969.017862"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1436896970.017863"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel, fucking calling league teammates \"coworkers\"",
+        "ts": "1436896980.017864"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its okay i'll bring it downstairs",
+        "ts": "1436896981.017865"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1436896982.017866"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and go to a phone room",
+        "ts": "1436896991.017867"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn, 2 cool",
+        "ts": "1436896996.017868"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "my dinner is good today!",
+        "ts": "1436897110.017869"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "my lunch is avg",
+        "ts": "1436897117.017870"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Entree\nKorean BBQ Short Ribs\n\tPaleo\nSeared Salmon with Kimchi and Seaweed Flakes \nVegetarian Protein\nVermicelli with Vegetables\n\nSides\n\tCrispy Togarashi Wonton over Rice\nGrilled Bok Choy and Zucchini \n\nPizza\nMargherita W \/ D\nKorean BBQ Chicken with Bean Sprouts \n\nSalad\nRomaine with Pea Shoots, Crispy Wontons and Sweet and Spicy Vinaigrette \nMixed Greens with Cucumbers, Cabbage and Miso Vinaigrette",
+        "ts": "1436897145.017871"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what does Margherita W \/ D mean?",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1436897265.000000"
+        },
+        "ts": "1436897251.017872"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "Washer\/Dryer?",
+        "ts": "1436897254.017873"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1436897256.017874"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Wheat and Dairy",
+        "ts": "1436897281.017876"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck people with dietary restrictions",
+        "ts": "1436897305.017877"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "like prithvi",
+        "ts": "1436897307.017878"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^)",
+        "ts": "1436897308.017879"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yah seriously",
+        "ts": "1436897312.017880"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "kevin you should come for dinner!!",
+        "ts": "1436897316.017881"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its free",
+        "ts": "1436897317.017882"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "manual regression testing is GG",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1436897435.000000"
+        },
+        "ts": "1436897415.017883"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why you do that",
+        "ts": "1436897442.017885"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why aren't you automating it",
+        "ts": "1436897446.017886"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we have automated smoke tests lololol",
+        "ts": "1436897452.017887"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "idk tbh",
+        "ts": "1436897458.017888"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i think that this old monorail app",
+        "ts": "1436897465.017889"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "is just not worth it",
+        "ts": "1436897468.017890"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1436897476.017891"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how are you doing the",
+        "ts": "1436897479.017892"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "regression testing",
+        "ts": "1436897481.017893"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm just doing front-end regression testing",
+        "ts": "1436897489.017894"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so i just go into chrome\/ie\/ff\/safari",
+        "ts": "1436897495.017895"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and make sure the page doesn't look broken",
+        "ts": "1436897500.017896"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "LOL",
+        "ts": "1436897567.017897"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fucking",
+        "ts": "1436897572.017898"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "slack is broken",
+        "ts": "1436897573.017899"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "whenever I type",
+        "ts": "1436897576.017900"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "it jumps up",
+        "ts": "1436897577.017901"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "the stupid cursor",
+        "ts": "1436897581.017902"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why didn't slack do some front-end regression testing",
+        "ts": "1436897588.017903"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "huh? what's broken?",
+        "ts": "1436897593.017904"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol our manual regression testing is so stupid for these old apps",
+        "ts": "1436897612.017905"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's basically like",
+        "ts": "1436897614.017906"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "if the page looks fucked up",
+        "ts": "1436897618.017907"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's still fine",
+        "ts": "1436897619.017908"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "as long as the information is readable",
+        "ts": "1436897625.017909"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and they can click through the application",
+        "ts": "1436897629.017910"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lmao",
+        "ts": "1436897630.017911"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so basically just double check if the page is barely functional enough",
+        "ts": "1436897644.017912"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow...",
+        "ts": "1436897768.017913"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats pretty messed up",
+        "ts": "1436897771.017914"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we just have like capybara acceptance tests",
+        "ts": "1436897780.017915"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "hahaha",
+        "ts": "1436897781.017916"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and click through",
+        "ts": "1436897783.017917"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and checking if the text is there",
+        "ts": "1436897787.017918"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its pretty dumb too",
+        "ts": "1436897789.017919"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but its automated",
+        "ts": "1436897791.017920"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and it emails us when it fails",
+        "ts": "1436897794.017921"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "oh yeah, i mean that's how it works on the newer ones for us",
+        "ts": "1436897813.017922"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "this old one is just so mega jank",
+        "ts": "1436897818.017923"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i should try to ask someone and see why automated testing isn't a thing for this",
+        "ts": "1436897835.017924"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1436897836.017925"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "be the change you want to see in the world!",
+        "ts": "1436897909.017926"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "write the automated testing",
+        "ts": "1436897912.017927"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like if every time you deploy",
+        "ts": "1436897919.017928"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you spend like 10-20 minutes checking",
+        "ts": "1436897924.017929"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if you spend 2-3 hours writing this test",
+        "ts": "1436897929.017930"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if you deploy twice a week",
+        "ts": "1436897936.017931"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you get your time back in 2 months!",
+        "ts": "1436897941.017932"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel it's all about this fucking horizontal scroll bar",
+        "ts": "1436898043.017933"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "that i'm just gonna ignore",
+        "ts": "1436898045.017934"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut",
+        "ts": "1436898112.017935"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "page doesn't respond to screen width lel",
+        "ts": "1436898152.017936"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but w\/e fuck it",
+        "ts": "1436898156.017937"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the page still technically works",
+        "ts": "1436898159.017938"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "don't you wanna take out a $550 loan",
+        "ts": "1436898164.017939"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and pay $105\/mo for 13 months?",
+        "ts": "1436898171.017940"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1436898227.017941"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why isn't everything responsive",
+        "ts": "1436898232.017942"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "nowadays :disappointed:",
+        "ts": "1436898234.017943"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lmfao",
+        "ts": "1436898239.017944"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the first $105 payment",
+        "ts": "1436898242.017945"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "is entirely fees",
+        "ts": "1436898244.017946"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then the next $105 payment",
+        "ts": "1436898249.017947"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "pays $6 off of the principal",
+        "ts": "1436898253.017948"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and $99 to fees",
+        "ts": "1436898256.017949"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lmfao",
+        "ts": "1436898257.017950"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wait is this your company...",
+        "ts": "1436898258.017951"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah rofl",
+        "ts": "1436898261.017952"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what the fuck",
+        "ts": "1436898263.017953"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "this is the payday shit that no one uses anymore",
+        "ts": "1436898267.017954"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you guys are the people they describe in tv shows",
+        "ts": "1436898269.017955"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and no one cares about",
+        "ts": "1436898270.017956"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah",
+        "ts": "1436898272.017957"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "p much",
+        "ts": "1436898273.017958"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's okay",
+        "ts": "1436898274.017959"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "holy fuck",
+        "ts": "1436898275.017960"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i do small business loan sharking",
+        "ts": "1436898278.017961"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you guys are assholes",
+        "ts": "1436898278.017962"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1436898280.017963"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1436898283.017964"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":enova:",
+        "ts": "1436898284.017965"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how do you work for a company like that",
+        "ts": "1436898287.017966"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck man, if we don't do this someone else will",
+        "ts": "1436898307.017967"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1436898308.017968"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "poor people always gonna take stupid loans",
+        "ts": "1436898315.017969"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "no...",
+        "ts": "1436898316.017970"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so might as well give it to us",
+        "ts": "1436898319.017971"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1436898320.017972"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh my god",
+        "ts": "1436898324.017973"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i've already had to refresh",
+        "ts": "1436898328.017974"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "slack like 4 times",
+        "ts": "1436898329.017975"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuck",
+        "ts": "1436898331.017976"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they need to revert this build",
+        "ts": "1436898335.017977"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so what's wrong with it?",
+        "ts": "1436898336.017978"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i haven't reloaded slack",
+        "ts": "1436898343.017979"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "in awhile",
+        "ts": "1436898344.017980"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so probably didn't get any of the updates they pushed",
+        "ts": "1436898349.017981"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when i type",
+        "ts": "1436898388.017982"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "instead of pushing up the text",
+        "ts": "1436898393.017983"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "it pushes up the cursor to some point",
+        "ts": "1436898397.017984"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and it just stays there",
+        "ts": "1436898401.017985"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":confused:",
+        "ts": "1436898407.017986"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "slack is shitty tech company",
+        "ts": "1436898412.017987"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "duh",
+        "ts": "1436898412.017988"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and we're just shitty loan sharks",
+        "ts": "1436898422.017989"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^(",
+        "ts": "1436898423.017990"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "do you use slack",
+        "ts": "1436898428.017991"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no we use hipchat now lel",
+        "ts": "1436898434.017992"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fucking gay",
+        "ts": "1436898436.017993"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "on a web client or a native web view",
+        "ts": "1436898438.017994"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "pchat sux",
+        "ts": "1436898439.017995"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "oh",
+        "ts": "1436898442.017996"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i use web",
+        "ts": "1436898447.017997"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "mm",
+        "ts": "1436898452.017998"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "native web",
+        "ts": "1436898453.017999"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i use web too",
+        "ts": "1436898455.018000"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh",
+        "ts": "1436898456.018001"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wait",
+        "ts": "1436898457.018002"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wait no",
+        "ts": "1436898459.018003"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel",
+        "ts": "1436898460.018004"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "you downloaded their app?",
+        "ts": "1436898461.018005"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fucking my b",
+        "ts": "1436898462.018006"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "no",
+        "ts": "1436898463.018007"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "their app is just",
+        "ts": "1436898468.018008"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i misread what you wrote",
+        "ts": "1436898470.018009"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "a native web view lel",
+        "ts": "1436898472.018010"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah it's just a fucking lame wrapper it's stupid",
+        "ts": "1436898478.018011"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its p sad",
+        "ts": "1436898478.018012"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what's the point",
+        "ts": "1436898479.018013"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah",
+        "ts": "1436898483.018014"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i guess you get native OS X notifications?",
+        "ts": "1436898495.018015"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "instead of chrome notifications, if you use notifications at all",
+        "ts": "1436898501.018016"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "well i can see why your company doesnt want to use slack",
+        "ts": "1436898502.018017"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its fuckin expensive",
+        "ts": "1436898505.018018"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yeah but",
+        "ts": "1436898515.018019"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "man hipchat sux",
+        "ts": "1436898518.018020"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i don't use notifications",
+        "ts": "1436898520.018021"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why don't we just loan shark some more people to cover for the slack costs? :^)",
+        "ts": "1436898528.018022"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i know right",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1436898593.000000"
+        },
+        "ts": "1436898591.018023"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but srsly",
+        "ts": "1436898594.018025"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why you switch off of slack",
+        "ts": "1436898597.018026"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":((",
+        "ts": "1436898598.018027"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the CTO cited the cost as one reason",
+        "ts": "1436898611.018028"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and the fact that hipchat is basically the same?",
+        "ts": "1436898620.018029"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but hipchat is just so much shittier",
+        "ts": "1436898626.018030"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Is hipchat much cheaper?",
+        "ts": "1436898653.018031"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "I hate hipchat with a passion",
+        "ts": "1436898659.018032"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why do you hate it so much lol",
+        "ts": "1436898667.018033"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Mobile is garbage ",
+        "ts": "1436898674.018034"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's just a wee application",
+        "ts": "1436898676.018035"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^(",
+        "ts": "1436898677.018036"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "the mobile app _looks_ okay",
+        "ts": "1436898685.018037"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its not the same",
+        "ts": "1436898703.018038"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but i don't like how it doesn't leave your conversations marked as unread",
+        "ts": "1436898705.018039"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and the security is terrible",
+        "ts": "1436898709.018040"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "It just kept logging me out and I never got notifications from my team",
+        "ts": "1436898717.018041"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "isn't slack's security also terrible?",
+        "ts": "1436898720.018042"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and i just found out we're on the standard plan",
+        "ts": "1436898720.018043"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "for slack",
+        "ts": "1436898723.018044"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its still better than hipchat",
+        "ts": "1436898726.018045"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "at least it doesn't upload to s3",
+        "ts": "1436898729.018046"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "for anyone to see your data if they crawl amazon",
+        "ts": "1436898736.018047"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn, all about these input fields",
+        "ts": "1436898795.018048"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "with no border",
+        "ts": "1436898797.018049"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so you can't really see them",
+        "ts": "1436898800.018050"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel",
+        "ts": "1436898801.018051"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "aight bbys time to bust out the IE VMs",
+        "ts": "1436898823.018052"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "whoops was busy",
+        "ts": "1436898837.018053"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm going to have to do some crazy BS config file conversion",
+        "ts": "1436898860.018054"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but are you going to be navigating webpages in IE7?",
+        "ts": "1436898874.018055"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1436898953.018056"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "too cool",
+        "ts": "1436898954.018057"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "IE VMs",
+        "ts": "1436898955.018058"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah we dun give a shit about IE",
+        "ts": "1436898959.018059"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we don't support it :simple_smile:",
+        "ts": "1436898962.018060"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lel IE",
+        "ts": "1436899301.018061"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "we don't care about that",
+        "ts": "1436899305.018062"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "no one uses it",
+        "ts": "1436899307.018063"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "we only write internal apps",
+        "ts": "1436899310.018064"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1436899338.018065"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so cool",
+        "ts": "1436899339.018066"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Just boot camp windows do you can use ie 7 ((((:",
+        "ts": "1436899853.018067"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damnnn",
+        "ts": "1436899865.018068"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "isn't it on ie 11 now?",
+        "ts": "1436899869.018069"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "<@U045MBNTQ>: you should get a mobo skylake CPU combo when you go to Chicago microcenter",
+        "ts": "1436900655.018070"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "sheeeeet",
+        "ts": "1436900666.018071"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how will i bring it back",
+        "ts": "1436900670.018072"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "carry on",
+        "ts": "1436900674.018073"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1436900675.018074"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it'll be 1 out of your 2 personal items",
+        "ts": "1436900682.018075"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1436900683.018076"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because you can just install the CPU into the mobo at the gate",
+        "ts": "1436900699.018077"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "1 item!",
+        "ts": "1436900702.018078"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "uhhh.....",
+        "ts": "1436900707.018079"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut",
+        "ts": "1436900708.018080"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then you put it under the seat in front of you",
+        "ts": "1436900710.018081"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1436900710.018082"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":wink:",
+        "ts": "1436900712.018083"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ";^)",
+        "ts": "1436900712.018084"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ";(",
+        "ts": "1436900714.018085"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":wink:",
+        "ts": "1436900715.018086"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1436900717.018087"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "just build a micro ATX lanbox and take that as your carry on",
+        "ts": "1436900765.018088"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "!!",
+        "ts": "1436900766.018089"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":dank:",
+        "ts": "1436900772.018090"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how will i build a computer",
+        "ts": "1436900774.018091"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "if i dont know how to build one",
+        "ts": "1436900776.018092"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i build 4 u",
+        "ts": "1436900780.018093"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'll build it while you wait in the TSA Precheck line",
+        "ts": "1436900799.018094"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1436900800.018095"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "are you coming back to",
+        "ts": "1436900802.018096"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "bay area for thanksgiving?",
+        "ts": "1436900806.018097"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "buy everything from microcenter",
+        "ts": "1436900807.018098"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "or have it shipped to kevin's house",
+        "ts": "1436900811.018099"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "TSA Pre :heavy_check_mark:",
+        "ts": "1436900820.018100"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "wait wtf I thought nobody said anything but instead it just didn't scroll down",
+        "ts": "1436900828.018101"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "wat",
+        "ts": "1436900830.018102"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel",
+        "ts": "1436900836.018103"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "slack es besto",
+        "ts": "1436900839.018104"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "hooly shit all I get is",
+        "ts": "1436900856.018105"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "&gt; Kelvin Kouhai",
+        "ts": "1436900861.018106"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "&gt;how will i build a computer",
+        "ts": "1436900868.018107"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i told you",
+        "ts": "1436900996.018108"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "SLACK IS FUCKING BROKEN",
+        "ts": "1436900999.018109"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "G G B O Y Z",
+        "ts": "1436901032.018110"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "TIME TO MOVE TO",
+        "ts": "1436901034.018111"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "H I P C H A T",
+        "ts": "1436901038.018112"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "do we have to pay money",
+        "ts": "1436902540.018113"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why dont we just move to irc -_-",
+        "ts": "1436902545.018114"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ok",
+        "ts": "1436902549.018115"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but what about the dank emoji",
+        "ts": "1436902555.018116"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ";(",
+        "ts": "1436902556.018117"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Fuuu at least we can make boys",
+        "ts": "1436902978.018118"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Bots",
+        "ts": "1436902983.018119"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "That green text for us",
+        "ts": "1436902987.018120"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i can host an IRC server",
+        "ts": "1436903005.018121"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "4 us dankbois",
+        "ts": "1436903008.018122"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeeeee",
+        "ts": "1436903048.018123"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but",
+        "ts": "1436903056.018124"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why dont we play minecraft anymore",
+        "ts": "1436903060.018125"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we not autismo enough",
+        "edited": {
+            "user": "U03UNR40S",
+            "ts": "1436903084.000000"
+        },
+        "ts": "1436903075.018126"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but",
+        "ts": "1436903156.018128"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i am",
+        "ts": "1436903156.018129"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "\/giphy thomas the dank engine",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/animatedtext-transparent-animatedtext-XOqxv6luLDryw>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/XOqxv6luLDryw\/giphy.gif",
+                "image_width": 484,
+                "image_height": 222,
+                "image_bytes": 515525,
+                "title": "thomas the dank engine",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/animatedtext-transparent-animatedtext-XOqxv6luLDryw"
+            }
+        ],
+        "ts": "1436903169.018130"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":dank:",
+        "ts": "1436903180.018131"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we can build it in minecraft",
+        "ts": "1436903185.018132"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "!!!",
+        "ts": "1436903187.018133"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and with mods",
+        "ts": "1436903195.018134"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we can even drive it",
+        "ts": "1436903197.018135"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Kevin did you wanna do something tonight?",
+        "ts": "1436904064.018136"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i was gonna bring over dominion",
+        "ts": "1436904072.018137"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "if you wanted to play it",
+        "ts": "1436904076.018138"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "can i play",
+        "ts": "1436904087.018139"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "pls",
+        "ts": "1436904088.018140"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "can we play dnd",
+        "ts": "1436904091.018141"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "yah",
+        "ts": "1436904091.018142"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "online",
+        "ts": "1436904091.018143"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "why don't I swing by your office around 4:30?",
+        "ts": "1436904186.018144"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm WFH today lel",
+        "ts": "1436904194.018145"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "dis gai",
+        "ts": "1436904199.018146"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "are you",
+        "ts": "1436904201.018147"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so yeah you can stop by my place",
+        "ts": "1436904202.018148"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "fucking",
+        "ts": "1436904203.018149"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "at 4:30",
+        "ts": "1436904204.018150"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "kidding",
+        "ts": "1436904204.018151"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "me",
+        "ts": "1436904205.018152"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wait",
+        "ts": "1436904208.018153"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what",
+        "ts": "1436904209.018154"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what's wrong? :confused:",
+        "ts": "1436904211.018155"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm just doing work from here",
+        "ts": "1436904213.018156"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1436904214.018157"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "lazy fuk",
+        "ts": "1436904215.018158"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "shower and be a member of society",
+        "ts": "1436904220.018159"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "why is this being lazy :disappointed:",
+        "ts": "1436904221.018160"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i did",
+        "ts": "1436904223.018161"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and i also shaved",
+        "ts": "1436904225.018162"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and put on after shave",
+        "ts": "1436904228.018163"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you fuccboi",
+        "ts": "1436904229.018164"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "stand shoulder to shoulder with the commuters",
+        "ts": "1436904232.018165"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel",
+        "ts": "1436904235.018166"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "WOW",
+        "ts": "1436904236.018167"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xd",
+        "ts": "1436904236.018168"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "dank",
+        "ts": "1436904237.018169"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":dank:",
+        "ts": "1436904237.018170"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "dude today it was basically grind central on the blue when I took it",
+        "ts": "1436904251.018171"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i got dressed and i ate lunch too",
+        "ts": "1436904253.018172"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you fucking assho",
+        "ts": "1436904256.018173"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^(",
+        "ts": "1436904256.018174"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm just listening to music through my speakers",
+        "ts": "1436904266.018175"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "while doing manual regression testing",
+        "ts": "1436904272.018176"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then later i'll go pick up my package from the package room",
+        "ts": "1436904279.018177"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow you put on after shave?",
+        "ts": "1436904282.018178"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "so i can bring you a dank board game",
+        "ts": "1436904283.018179"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's just an after shave\/lotion",
+        "ts": "1436904289.018180"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1436904290.018181"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wowowowowowow",
+        "ts": "1436904293.018182"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but if i say i use after shave",
+        "ts": "1436904294.018183"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it sounds more legit",
+        "ts": "1436904295.018184"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "getting fancy for novi",
+        "ts": "1436904296.018185"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "to navdoop",
+        "ts": "1436904297.018186"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":wink:",
+        "ts": "1436904299.018187"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "damn",
+        "ts": "1436904301.018188"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "using alcohol based aftershave is bad for you",
+        "ts": "1436904309.018189"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i don't even shave everyday",
+        "ts": "1436904310.018190"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I haven't used it in years",
+        "ts": "1436904315.018191"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i shave every like 3-4 days",
+        "ts": "1436904316.018192"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's not an alcohol based aftershave",
+        "ts": "1436904321.018193"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "wat",
+        "ts": "1436904322.018194"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what is aftershave",
+        "ts": "1436904325.018195"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why do you need it",
+        "ts": "1436904331.018196"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I was commenting for kelvin",
+        "ts": "1436904333.018197"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "...........",
+        "ts": "1436904336.018198"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "let me teach you about shaving Kelvin",
+        "ts": "1436904343.018199"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "traditionally one begins by showering in warm water or soaking the beard in warm water",
+        "ts": "1436904365.018200"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "this softens the hairs and makes the skin more supple",
+        "ts": "1436904374.018201"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "beard?",
+        "ts": "1436904377.018202"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "lel",
+        "ts": "1436904379.018203"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i just have hairs",
+        "ts": "1436904381.018204"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gg",
+        "ts": "1436904384.018205"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but yah i normally shave",
+        "ts": "1436904392.018206"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "right after i shower",
+        "ts": "1436904393.018207"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that's because you're a ching chong chinaman",
+        "ts": "1436904396.018208"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Yea we can't keep up with the coconuts )):",
+        "ts": "1436904400.018209"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "im not a dum dum",
+        "ts": "1436904401.018210"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "now",
+        "ts": "1436904404.018211"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "NOW",
+        "ts": "1436904405.018212"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "one can optionally apply a form of pre-shave oil",
+        "ts": "1436904413.018213"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "usually something along the lines of castor oil",
+        "ts": "1436904420.018214"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "this makes the blade glide more easily over the skin and moistens it",
+        "ts": "1436904431.018215"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i change my blade once a year",
+        "ts": "1436904450.018216"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is that bad",
+        "ts": "1436904452.018217"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i cut my chin :disappointed:",
+        "ts": "1436904452.018218"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "many people don't use it, and those who do often use a safety razor (like me) or a straight razor (men manlier than me)",
+        "ts": "1436904452.018219"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "u",
+        "ts": "1436904455.018220"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "srs",
+        "ts": "1436904456.018221"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "m8?",
+        "ts": "1436904458.018222"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lel",
+        "ts": "1436904459.018223"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yeah im serious",
+        "ts": "1436904460.018224"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "while doing pullups",
+        "ts": "1436904461.018225"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i buy a new razor every 2 years",
+        "ts": "1436904469.018226"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "just wtf",
+        "ts": "1436904471.018227"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "damn",
+        "ts": "1436904472.018228"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "since the catridge that comes with it",
+        "ts": "1436904473.018229"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "kelvin2tronk",
+        "ts": "1436904474.018230"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "goes away",
+        "ts": "1436904474.018231"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i mean",
+        "ts": "1436904478.018232"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they only give 2 cartridges",
+        "ts": "1436904482.018233"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wtf do i do",
+        "ts": "1436904484.018234"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "BUY MORE",
+        "ts": "1436904489.018235"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "idk how",
+        "ts": "1436904492.018236"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "online",
+        "ts": "1436904496.018237"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "GG",
+        "ts": "1436904497.018238"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "G_G",
+        "ts": "1436904498.018239"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "dollar shave club",
+        "ts": "1436904499.018240"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "idk which ones to buy",
+        "ts": "1436904499.018241"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "g_g",
+        "ts": "1436904501.018242"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "harrys",
+        "ts": "1436904503.018243"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "dollar shave club",
+        "ts": "1436904505.018244"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "harrys",
+        "ts": "1436904507.018245"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they give too many catridges",
+        "ts": "1436904516.018246"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i only need 1 a year",
+        "ts": "1436904521.018247"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "cartridges*",
+        "ts": "1436904526.018248"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "nah i feel like you should use at least like 4",
+        "ts": "1436904531.018249"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "lol",
+        "ts": "1436904531.018250"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I believe harry's cartridges might be the same as the ones that the dollar shave club gives out",
+        "ts": "1436904534.018251"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i use 1",
+        "ts": "1436904534.018252"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "probably more",
+        "ts": "1436904535.018253"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why more",
+        "ts": "1436904540.018254"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wtf",
+        "ts": "1436904541.018255"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "this is mindblowing",
+        "ts": "1436904541.018256"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "how freq do you shave?",
+        "ts": "1436904543.018257"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i shave twice a week maybe",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1436904556.000000"
+        },
+        "ts": "1436904548.018258"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "do you even use shaving cream?",
+        "ts": "1436904552.018259"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "or lotion?",
+        "ts": "1436904556.018260"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "or something?",
+        "ts": "1436904557.018262"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i use a shaving gel",
+        "ts": "1436904560.018263"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "that i bought in the uk",
+        "ts": "1436904562.018264"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "since it hasn't finished yet",
+        "ts": "1436904568.018265"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "that's something at least",
+        "ts": "1436904569.018266"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "NO GELS OR AEROSOLS ON THE PLANE KELVIN",
+        "ts": "1436904573.018267"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i buy shaving cream like",
+        "ts": "1436904577.018268"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "once a year or so too",
+        "ts": "1436904582.018269"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I mean that's a different matter",
+        "ts": "1436904590.018270"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but it still seems like it's not frequent enough",
+        "ts": "1436904597.018271"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "this is the one i have",
+        "ts": "1436904599.018272"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/www.amazon.com\/NIVEA-Men-Sensitive-Shaving-Ounce\/dp\/B00BIL9HZE>",
+        "attachments": [
+            {
+                "text": "<http:\/\/Amazon.com|Amazon.com> : NIVEA Men Sensitive Shaving Gel, 7 Ounce : Nivea Shaving Cream : Beauty",
+                "fallback": "<http:\/\/Amazon.com|Amazon.com> : NIVEA Men Sensitive Shaving Gel, 7 Ounce : Nivea Shaving Cream : Beauty",
+                "from_url": "http:\/\/www.amazon.com\/NIVEA-Men-Sensitive-Shaving-Ounce\/dp\/B00BIL9HZE",
+                "id": 1
+            }
+        ],
+        "ts": "1436904600.018273"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i had a check in bag",
+        "ts": "1436904606.018275"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "so i can put it in kevin",
+        "ts": "1436904608.018276"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "dun be dum",
+        "ts": "1436904609.018277"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I know what that is",
+        "ts": "1436904613.018278"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "this lasted a whole year",
+        "ts": "1436904615.018279"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's p OK",
+        "ts": "1436904616.018280"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "what i do is",
+        "ts": "1436904619.018281"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i put a little bit of it",
+        "ts": "1436904621.018282"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "mix it with water",
+        "ts": "1436904623.018283"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "fir a shaving cream that isn't applied via brush",
+        "ts": "1436904623.018284"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and it becomes cream!!",
+        "ts": "1436904625.018285"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "^that's a good strat",
+        "ts": "1436904634.018286"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "or it becomes foamy",
+        "ts": "1436904636.018287"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "and thats good enough for me",
+        "ts": "1436904643.018288"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "is it weird to not shave that much?",
+        "ts": "1436904650.018289"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it could very well be if your hair isn't that tough",
+        "ts": "1436904651.018290"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Just dry shave with an electric ",
+        "ts": "1436904659.018291"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i do that when i go on trips",
+        "ts": "1436904664.018292"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "but i still have like",
+        "ts": "1436904672.018293"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "tiny hairs i can see",
+        "ts": "1436904677.018294"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I mean shaving varies person to person depending on how thick the hair is and how fast it grows",
+        "ts": "1436904678.018295"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when i use electric",
+        "ts": "1436904679.018296"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "electric razors are garbage",
+        "ts": "1436904692.018297"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "just pull the skin too much and don't cut close enough",
+        "ts": "1436904699.018298"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "trimmers are a different matter",
+        "edited": {
+            "user": "U046AEEDH",
+            "ts": "1436904706.000000"
+        },
+        "ts": "1436904704.018299"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "yah",
+        "ts": "1436904715.018301"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats why",
+        "ts": "1436904718.018302"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i only use it for travel",
+        "ts": "1436904720.018303"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when i can't bring a razor",
+        "ts": "1436904722.018304"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "ive talked to my coworkers about this they were also weirded out by the fact",
+        "ts": "1436904749.018305"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i change my blades once a year",
+        "ts": "1436904754.018306"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "they say it lasts like 2 weeks or something",
+        "ts": "1436904761.018307"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i mean i guess it depends on your facial hair, and if you don't think the blade's quality is degrading at all",
+        "ts": "1436904780.018308"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "then w\/e",
+        "ts": "1436904780.018309"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "but i find it surprising that after like a couple of months you aren't like",
+        "ts": "1436904788.018310"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "fuck this blade",
+        "ts": "1436904790.018311"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "when would you go",
+        "ts": "1436904848.018312"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "fuck this blade",
+        "ts": "1436904850.018313"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "for me it would be after a few shaves",
+        "ts": "1436904882.018314"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it works noticeably worse at that point",
+        "ts": "1436904893.018315"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but I can stretch it for a few more if I HAVE to, but I almost never have to",
+        "ts": "1436904901.018316"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "granted the blades I use are actual razor blades that cost very little",
+        "ts": "1436904916.018317"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but they're for safety razors",
+        "ts": "1436904922.018318"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "but they're also really OP in terms of sharpness and quality",
+        "ts": "1436904928.018319"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i use those",
+        "ts": "1436904971.018320"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "gillette",
+        "ts": "1436904974.018321"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "shit",
+        "ts": "1436904975.018322"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "how many blades is it?",
+        "ts": "1436905046.018323"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "2,3,4, or 5?",
+        "ts": "1436905052.018324"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "uhh",
+        "ts": "1436905074.018325"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "idk",
+        "ts": "1436905077.018326"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its been a while",
+        "ts": "1436905079.018327"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "since i bought it",
+        "ts": "1436905080.018328"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "prolly 3",
+        "ts": "1436905081.018329"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "OK",
+        "ts": "1436905370.018330"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Kelvin you need to change out your razor more frequently",
+        "ts": "1436905382.018331"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "it's not good for your skin",
+        "ts": "1436905386.018332"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i just helped an old lady move a heavy cabinet",
+        "ts": "1436906463.018333"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1436906465.018334"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "did she give you a cookie and a glass of milk?",
+        "ts": "1436907545.018335"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "also what stop should I get off at from the red line to reach your place?",
+        "ts": "1436907552.018336"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "she said thanks",
+        "ts": "1436907553.018337"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and i went on my way",
+        "ts": "1436907555.018338"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1436907556.018339"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "the one after chicago?",
+        "ts": "1436907558.018340"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "chicago",
+        "ts": "1436907561.018341"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "k",
+        "ts": "1436907567.018342"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "clark\/division was my old place",
+        "ts": "1436907568.018343"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":^(",
+        "ts": "1436907569.018344"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "what u finna do when you come here?",
+        "ts": "1436907576.018345"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "wait you got a new place?",
+        "ts": "1436907582.018346"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "????",
+        "ts": "1436907586.018347"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "last summer lel",
+        "ts": "1436907588.018348"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "oh",
+        "ts": "1436907605.018349"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i got off at clark\/division last summer since i lived at 1350 n lsd",
+        "ts": "1436907610.018350"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "so it's your current place",
+        "ts": "1436907610.018351"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "nvm",
+        "ts": "1436907611.018352"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "do i need to go out",
+        "ts": "1436907623.018353"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and buy drinks",
+        "ts": "1436907625.018354"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "to keep you happy",
+        "ts": "1436907626.018355"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "now it's 740 n rush, right?",
+        "ts": "1436907627.018356"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "750 n",
+        "ts": "1436907630.018357"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "close enough",
+        "ts": "1436907634.018358"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "we'll see if you need to buy me drinks when I come",
+        "ts": "1436907645.018359"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i mean",
+        "ts": "1436907653.018360"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you'll probably be here for like 30 minutes tops",
+        "ts": "1436907660.018361"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "before i just take you home",
+        "ts": "1436907664.018362"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "along with this dank dominion",
+        "ts": "1436907671.018363"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "and then we can play",
+        "ts": "1436907677.018364"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1436907677.018365"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Kkk",
+        "ts": "1436907748.018366"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "What about dinner?",
+        "ts": "1436907752.018367"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Do we make food at my place?",
+        "ts": "1436907761.018368"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "uh i mean if i drive us back to your place",
+        "ts": "1436907774.018369"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "we could finally go get that hot dog place if you felt like it",
+        "ts": "1436907782.018370"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "it's p cheap",
+        "ts": "1436907784.018371"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "depending on what you get",
+        "ts": "1436907788.018372"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "or you could make frozen pizza idgaf",
+        "ts": "1436907795.018373"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "i'm not really that hungry atm anyways so it's hard to say",
+        "ts": "1436907802.018374"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "we'll see when I come over",
+        "ts": "1436907860.018375"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I suppose",
+        "ts": "1436907862.018376"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Damn should I switch to shaving cream and a safety razor?",
+        "ts": "1436908054.018377"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "use a str8 razer",
+        "ts": "1436908901.018378"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xD",
+        "ts": "1436908903.018379"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "If you shave often and have heavy facial hair",
+        "ts": "1436909180.018380"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1436909255.018381"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "kevin",
+        "ts": "1436909258.018382"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "why are you driving",
+        "ts": "1436909260.018383"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "because i like to be stuck in traffic :simple_smile:",
+        "ts": "1436909299.018384"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "then you cant drink",
+        "ts": "1436909344.018385"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":beers:",
+        "ts": "1436909354.018386"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":disappointed:",
+        "ts": "1436909366.018387"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "\"Cal may very well go from not reaching the tournament to a #1 seed, as Jaylen will be teaming up with consensus top ten talent Ivan Rabb in Berkeley...\"",
+        "ts": "1436909396.018388"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "TYBG",
+        "ts": "1436909398.018389"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "nah I don't have heavy facial hair",
+        "ts": "1436909415.018390"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":simple_smile:",
+        "ts": "1436909501.018391"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats why im gonna get an alumni season pass",
+        "ts": "1436909511.018392"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i also believe in jared goff",
+        "ts": "1436909517.018393"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "fak",
+        "ts": "1436909584.018394"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "lol the new alumni zone is zone QQ",
+        "ts": "1436909654.018395"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "it's $99 for a season pass",
+        "ts": "1436909675.018396"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "not bad",
+        "ts": "1436909676.018397"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "zone quick question?",
+        "ts": "1436909681.018398"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "nah zone QQ as in what Stanford will be doing when we take back the Axe and get Goff a Heisman",
+        "ts": "1436909734.018399"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "(((((((:",
+        "ts": "1436909738.018400"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "(((((((((((((((((((((((((((((((((((((:",
+        "ts": "1436909750.018401"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[:",
+        "ts": "1436909754.018402"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "{{{{{{{{{{{{{{{{{{{{{{{{{;",
+        "ts": "1436909757.018403"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":joy: ",
+        "edited": {
+            "user": "U045MBNTQ",
+            "ts": "1436909771.000000"
+        },
+        "ts": "1436909763.018404"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "ccccccccccc:",
+        "ts": "1436909764.018405"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Whelp that was a typo but it was for the best",
+        "ts": "1436910650.018409"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": ":simple_smile:",
+        "ts": "1436910706.018410"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Come let me in u fuk",
+        "ts": "1436910708.018411"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "you're downstairs? i'm omw then",
+        "ts": "1436910716.018412"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":like: ",
+        "ts": "1436910721.018413"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Nvm I'm in",
+        "ts": "1436910750.018414"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Come get me actually",
+        "ts": "1436910762.018415"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow so unfsafe",
+        "ts": "1436910763.018416"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "unsafe",
+        "ts": "1436910765.018417"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "No fob for elevator",
+        "ts": "1436910768.018418"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Pls groobh",
+        "ts": "1436910814.018419"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "just tailgate someone in",
+        "ts": "1436910851.018420"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "like what you just did",
+        "ts": "1436910854.018421"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "They literally opened the door for me as I was walking in",
+        "ts": "1436910989.018422"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xdxdxdxd",
+        "ts": "1436910990.018423"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xdxdx",
+        "ts": "1436910990.018424"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "dxdxdxd",
+        "ts": "1436910991.018425"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xdxd",
+        "ts": "1436910992.018426"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xd",
+        "ts": "1436910992.018427"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xd",
+        "ts": "1436910992.018428"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xd",
+        "ts": "1436910992.018429"
+    },
+    {
+        "type": "message",
+        "user": "U03UNR40S",
+        "text": "xd",
+        "ts": "1436910993.018430"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "I'm dressed in business casual",
+        "ts": "1436910997.018431"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1436911018.018432"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "too priviliged",
+        "ts": "1436911022.018433"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "privileged",
+        "ts": "1436911025.018434"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Business casual is like a skeleton key",
+        "ts": "1436911170.018435"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i wish",
+        "ts": "1436911360.018436"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "i could afford to dress in business casual",
+        "ts": "1436911365.018437"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Stfu",
+        "ts": "1436912709.018438"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut",
+        "ts": "1436912788.018439"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "its true",
+        "ts": "1436912789.018440"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "dude",
+        "ts": "1436912797.018441"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "all my money goes to rent",
+        "ts": "1436912803.018442"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": ":(",
+        "ts": "1436912909.018443"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "woah",
+        "ts": "1436916805.018444"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<!here|@here> whos here",
+        "ts": "1436916811.018445"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Kshu is buying me alcohol",
+        "ts": "1436918817.018446"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "At Costco",
+        "ts": "1436918820.018447"
+    },
+    {
+        "type": "message",
+        "user": "U046AEEDH",
+        "text": "Hue hue hue fuck the popo",
+        "ts": "1436918828.018448"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "lelelele",
+        "ts": "1436920287.018449"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "ima call CPD",
+        "ts": "1436920290.018450"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "and get him to throw him in jail",
+        "ts": "1436920297.018451"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wow",
+        "ts": "1436923125.018452"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "wut he buying you",
+        "ts": "1436923127.018453"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "Lagavulin 16?",
+        "ts": "1436923530.018454"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "oh the High West Double Rye was a hit",
+        "ts": "1436923695.018455"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "danks kelvin",
+        "ts": "1436923698.018456"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": ":dank: :like:",
+        "ts": "1436923706.018457"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "!!! :simple_smile:",
+        "ts": "1436923728.018458"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "thats what we drink at work",
+        "ts": "1436923731.018459"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "sometimes",
+        "ts": "1436923739.018460"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "we just go to cask and buy shit lol",
+        "ts": "1436923742.018461"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": ":sleeping:",
+        "ts": "1436923760.018462"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "cask?",
+        "ts": "1436924015.018463"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "yea my friend likes Bulliet Rye which is 95% rye...",
+        "ts": "1436924032.018464"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "<http:\/\/www.yelp.com\/biz\/cask-san-francisco>",
+        "attachments": [
+            {
+                "service_name": "Yelp",
+                "title": "Cask - Financial District - San Francisco, CA",
+                "title_link": "http:\/\/www.yelp.com\/biz\/cask-san-francisco",
+                "text": "Beer, Wine &amp; Spirits in San Francisco, CA",
+                "fallback": "Yelp: Cask - Financial District - San Francisco, CA",
+                "thumb_url": "http:\/\/s3-media1.fl.yelpcdn.com\/bphoto\/XmtppPEYJ3so_mklgTwgjA\/o.jpg",
+                "from_url": "http:\/\/www.yelp.com\/biz\/cask-san-francisco",
+                "thumb_width": 640,
+                "thumb_height": 480,
+                "id": 1
+            }
+        ],
+        "ts": "1436924043.018465"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "<@U045MBNTQ>: Maybe you'd be interested",
+        "ts": "1436924668.018467"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "<http:\/\/slickdeals.net\/f\/7976679-life-is-strange-complete-season-episodes-1-5-pc-digital-download-9-35>",
+        "attachments": [
+            {
+                "service_name": "Slickdeals",
+                "title": "Life is Strange: Complete Season Episodes 1-5 (PC Digital Download) $9.35",
+                "title_link": "http:\/\/slickdeals.net\/f\/7976679-life-is-strange-complete-season-episodes-1-5-pc-digital-download-9-35",
+                "text": "<http:\/\/Newegg.com|Newegg.com> has Life is Strange: Complete Season (Episode 1 and Season Pass) PC Digital Download for $9.33 when you add both to cart and enter promo code EMCAVKR99 at checkout. Thanks Discombobulat ...",
+                "fallback": "Slickdeals: Life is Strange: Complete Season Episodes 1-5 (PC Digital Download) $9.35",
+                "thumb_url": "http:\/\/static.slickdealscdn.com\/attachment\/2\/5\/1\/6\/8\/8\/6\/3524587.attach",
+                "from_url": "http:\/\/slickdeals.net\/f\/7976679-life-is-strange-complete-season-episodes-1-5-pc-digital-download-9-35",
+                "thumb_width": 640,
+                "thumb_height": 480,
+                "id": 1
+            }
+        ],
+        "ts": "1436924669.018468"
+    },
+    {
+        "type": "message",
+        "user": "U045MFQ3C",
+        "text": "that one story game I recommended some time ago",
+        "ts": "1436924682.018470"
+    },
+    {
+        "type": "message",
+        "user": "U045MBFTN",
+        "text": "Dankkkkkkk",
+        "ts": "1436927795.018471"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "oh nice",
+        "ts": "1436932542.018472"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "maybe i should get it",
+        "ts": "1436932543.018473"
+    },
+    {
+        "type": "message",
+        "user": "U045MBNTQ",
+        "text": "how long does it take \/ whats the storyline like",
+        "ts": "1436932548.018474"
+    }
+]
