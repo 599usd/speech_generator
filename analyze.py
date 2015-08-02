@@ -10,6 +10,7 @@ with open('users/{0}/first_words.json'.format(name), 'r') as fs:
 with open('users/{0}/relation_dict.json'.format(name), 'r') as fs:
 	relation_dict = json.load(fs)
 
+
 flist = []
 for k in first_words:
 	flist += [k]*len(first_words[k])
@@ -21,4 +22,5 @@ while cur_word != 'ENDBABY':
 	message = message + ' ' + cur_word
 	cur_word = random.choice(relation_dict[cur_word])
 print message
+
 

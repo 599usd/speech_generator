@@ -20,6 +20,9 @@ for f in os.listdir('slack/general/'):
 			try:
 				cur_user = message['user']
 				text_list = message['text'].encode('ascii', 'ignore').split(' ')
+				for word in text_list:
+					if word[0] != '<' and word[0] != '&':
+						aw_f.write('{0} '.format(word))
 				users[cur_user].addMessage(text_list)
 			except:
 				pass
